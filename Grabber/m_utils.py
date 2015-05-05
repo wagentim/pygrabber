@@ -42,3 +42,5 @@ def get_temp_path():
 def trim_text(text):
     return text.strip()
     
+def get_file_name_from_url(url):
+    return url.split('/')[-1]
