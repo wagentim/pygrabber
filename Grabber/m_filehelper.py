@@ -44,3 +44,6 @@ def read_from_temp():
 
 def get_tmp_file():
     return tmp_loc_file
+
+def is_same_file(file_loc):
+    return False
