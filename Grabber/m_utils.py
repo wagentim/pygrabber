@@ -1,6 +1,10 @@
 #-*-coding:utf-8-*-
 
+import platform
+
 file_sep = "/"
+linux_tmp = "/home/wagentim/temp/"
+windows_tmp = "c:/temp/temp/"
 
 def get_path(file_loc):
     if not file_loc:
@@ -27,3 +31,11 @@ def not_empty(content):
         return False
     else:
         return True
+    
+def get_temp_path():
+    system = platform.system().lower()
+    if system == "linux":
+        return linux_tmp
+    elif system == "windows":
+        return windows_tmp
+    

@@ -3,7 +3,8 @@
 import os, m_utils
 
 file_error = "read file error"
-tmp_loc = "c:/temp/parser.txt"
+tmp_file = "tmp.txt"
+tmp_loc_file = m_utils.get_temp_path() + tmp_file
 
 def write_file(file_loc, content):
     if check_file(file_loc):
@@ -25,7 +26,6 @@ def read_file(file_loc):
 def check_file(file_loc):
     
     path = m_utils.get_path(file_loc)
-    print(path)
     if not file_loc:
         return False
     elif not os.path.exists(path):
@@ -37,7 +37,10 @@ def check_file(file_loc):
         return True
     
 def write_to_temp(content):
-    write_file(tmp_loc, content)
+    write_file(tmp_loc_file, content)
     
 def read_from_temp():
-    return read_file(tmp_loc)
+    return read_file(tmp_loc_file)
+
+def get_tmp_file():
+    return tmp_loc_file
