@@ -6,6 +6,7 @@ import m_filehelper as fh
 from bs4 import BeautifulSoup as bs
 import m_utils
 
+
 class BabyMarket:
     
     IDENTITY = "Baby Market: "
@@ -13,9 +14,9 @@ class BabyMarket:
     ADV = "slide-content"
     shouldReload = False
     ignore_text = ["Merkzettel", "Geschenketisch", "Kontakt", "Mein Konto", "Newsletter", "Geschenkgutscheine", "Filialen", "Kategorien",
-                   "Über uns", "Datenschutz", "Widerrufsrecht", "AGB/Verbraucherinformationen", "Zahlung und Versand", "Impressum", "Karriere",
+                   "ï¿½ber uns", "Datenschutz", "Widerrufsrecht", "AGB/Verbraucherinformationen", "Zahlung und Versand", "Impressum", "Karriere",
                    "Filialen", "Kontakt", "Newsletter", "Partnerprogramme", "jetzt sammeln", "Startseite", "Kontakt", "AGB/Verbraucherinformationen",
-                   "Datenschutz", "Batterie-Rücknahme", "schließen"]
+                   "Datenschutz", "Batterie-Rï¿½cknahme", "schlieï¿½en"]
     
     loc_list = []
     
@@ -29,19 +30,19 @@ class BabyMarket:
         #else:
         #    print(self.IDENTITY + "cannot get main page content")
         #    return
-          
-    def get_prods(self):
-        self.content = fh.read_from_temp()
-        soup = bs(self.content)
-        links = soup.findAll("a")
-        for link in links:
-            text = ut.trim_text(link.text)
-            if len(text) <= 0:
-                text = ""
-            href = link.get("href")
-            if href:
-                loc = self.DOMAIN[0:len(self.DOMAIN)-1] + href
-                print(text + "\n" +loc + "\n")
+    
+    def get_prods(self, url):
+        self.content = nh.get_page(url)
+        fh.write_to_temp(self.content)
+        inhalt = fh.read_from_temp()
+        soup = bs(inhalt)
+        prods = soup.findAll("div", {"class" : "list-product"})
+        
+        if prods and len(prods) > 0:
+            for prod in prods:
+                loc = prod.div.div.get("href")
+                print(loc)
+                
     
     def get_main_content(self):   
         
