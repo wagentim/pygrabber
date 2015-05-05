@@ -39,3 +39,6 @@ def get_temp_path():
     elif system == "windows":
         return windows_tmp
     
+def trim_text(text):
+    return text.strip()
+    

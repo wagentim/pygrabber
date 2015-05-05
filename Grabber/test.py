@@ -1,10 +1,8 @@
 #-*-coding:utf-8-*-
 
-import m_filehelper as fh
-import m_utils
+import h_babymarket
 
-content = "hello world"
-file_loc = m_utils.get_temp_path() + "temp.txt"
+baby_market = h_babymarket.BabyMarket()
+baby_market.get_prods()
 
-fh.write_file(file_loc, content)
-print(fh.read_file(file_loc))
+#baby_market.get_all_prods()
