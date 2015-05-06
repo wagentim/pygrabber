@@ -4,17 +4,19 @@ import m_nethelper as nh
 import m_utils as ut
 from bs4 import BeautifulSoup as bs
 import product
+import m_filehelper as fh
 
 
 class BabyMarket:
     
     IDENTITY = "Baby Market: "
     DOMAIN = "http://www.baby-markt.de/"
-    only_main_angebot = False
+    only_main_angebot = True
     parser_level = 1
     products = []
     main_category_links = []
     sub_category_links = []
+    soup = None
     
     def set_only_main_angobot(self, value):
         self.only_main_angebot = value
@@ -29,9 +31,6 @@ class BabyMarket:
             self.do_grab_all_products()
             
     def do_grab_all_products(self):
-        #self.content = nh.get_page(self.DOMAIN)
-        #if self.content and len(self.content) > 0:
-            #fh.write_to_temp(self.content)
         self.parser_links()
         print("--- parser links finished")
         print("--- Main Categories: " + str(len(self.main_category_links)))
@@ -44,9 +43,6 @@ class BabyMarket:
             print("--- Cannot parser site: " + self.DOMAIN)
         return
             
-    def do_grab_main_angebot(self):
-        return
-    
     def get_domain(self):
         return self.DOMAIN
     
@@ -85,39 +81,50 @@ class BabyMarket:
                 print("------------------------------")
 
     
-    def get_main_content(self):   
+    def do_grab_main_angebot(self):   
+        while len(self.products) > 0:
+            self.products.pop()
+            
+        self.parser_links()
+        print("--- parser content start...")
+        #get angebot in main page
+        slide_content = self.soup.select(".slide-content")
+        if slide_content and len(slide_content) > 0:
+            links = []
+            for content in slide_content:
+                link = content.select("a")
+                if len(link) > 0:
+                    for l in link:
+                        links.append(l)
+                else:
+                    links.append(link)
+            tmp = []
+            for li in links:
+                tit = li.select(".title")
+                if tit and len(tit) > 0:
+                    prod = product.new_prod()
+                    prod.set_name(tit[0].text)
+                    prod.set_curr_price(li.select(".price")[0].text)
+                    prod.set_ori_price(li.select(".old-price")[0].text)
+                    prod.set_link(li.get("href"))
+                    prod.set_image_link("http" + li.select(".image")[0].get("data-original"))
+                    self.products.append(prod)
+                else:
+                    u_loc = self.DOMAIN[0:len(self.DOMAIN)-1] + li.get("href")
+                    tmp.append(u_loc)
+            if len(tmp) > 0:
+                for page in tmp:
+                    self.parser_prods(page)   
+           
         
-        if not self.soup:
-            return None
-        else:
-            locs = [];
-            items = self.soup.findAll("div", {"class" : "slide-content"})
-            for item in items:
-                links = item.findAll("a")
-                cached_loc = ""
-                cached_text = ""
-                for link in links:
-                    text = ut.trim_text(link.text)
-                    if len(text) <= 0:
-                        text = ""
-                    loc = self.DOMAIN[0:len(self.DOMAIN)-1] + link.get("href")
-                    if cached_loc == loc:
-                        cached_text += text
-                    else:
-                        cached_loc = loc
-                        if cached_loc != "":
-                            cached_loc = loc
-                            print(cached_text + "\n" +loc + "\n")
-            return locs
-                    
     def parser_links(self):
-        
         print("--- parser links start...")
-        
-        curr_content = nh.get_page(self.DOMAIN)
+        #curr_content = nh.get_page(self.DOMAIN)
+        #fh.write_to_temp(curr_content)
+        curr_content = fh.read_from_temp()
         if ut.not_empty(curr_content):
-            soup = bs(curr_content)
-            categories = soup.select(".dropdown-menu-subcategories")
+            self.soup = bs(curr_content)
+            categories = self.soup.select(".dropdown-menu-subcategories")
             if categories and len(categories) > 0:
                 
                 for cate in categories:
