@@ -1,8 +1,8 @@
 status: 200
-content-length: 202221
+content-length: 170010
 content-type: text/html; charset=UTF-8
-set-cookie: epoqSessionId=1_554a0d62a48b31.31379715;
- expires=Thu, 07-May-2015 13:47:30 GMT; path=/; httponly
+set-cookie: epoqSessionId=1_554a05107c2df8.42608195;
+ expires=Thu, 07-May-2015 13:12:00 GMT; path=/; httponly
 accept-ranges: none
 surrogate-control: content=SSI/1.0
 keep-alive: timeout=5
@@ -10,13 +10,13 @@ server: nginx
 connection: keep-alive
 -content-encoding: gzip
 cache-control: no-cache
-date: Wed, 06 May 2015 12:47:30 GMT
-x-upstream: 127.0.0.1:9000, 10.0.75.42:80, 10.0.75.36:80
-content-location: http://www.baby-markt.de/
+date: Wed, 06 May 2015 12:12:00 GMT
+x-upstream: 127.0.0.1:9000, 10.0.75.43:80, 10.0.75.36:80
+content-location: http://www.baby-markt.de/autositze/
 
 <!DOCTYPE html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"><meta name="description"
-          content="BABY-MARKT.DE: Babyausstattung &amp; Babysachen in großer Auswahl und zu Top-Preisen. Jetzt Angebote sichern und ab 20€ versandkostenfrei bestellen!"><title>BABY-MARKT.DE: Babyartikel &amp; Babyausstattung online!</title><link href="//www.baby-markt.at" hreflang="de-AT" rel="alternate"><link href="//www.pinkorblue.be" hreflang="nl-BE" rel="alternate"><link href="//www.baby-markt.ch" hreflang="de-CH" rel="alternate"><link href="//www.baby-markt.com" hreflang="en" rel="alternate"><link href="//www.pinkorblue.cz" hreflang="cs-CZ" rel="alternate"><link href="//www.pinkorblue.dk" hreflang="da" rel="alternate"><link href="//www.pinkorblue.fi" hreflang="fi" rel="alternate"><link href="//www.roseoubleu.fr" hreflang="fr" rel="alternate"><link href="//www.pinkorblue.it" hreflang="it" rel="alternate"><link href="//www.pinkorblue.nl" hreflang="nl" rel="alternate"><link href="//www.pinkorblue.pl" hreflang="pl" rel="alternate"><link href="//www.pinkorblue.se" hreflang="sv-SE" rel="alternate"><link href="/bundles/babymarktbabymarkttheme/css/bm_de_de.css?20150429160749" type="text/css"
-                  rel="stylesheet"><link rel="shortcut icon" href="/bundles/babymarktbabymarkttheme/images/favicon.ico?20150429160749"><link rel="apple-touch-icon" href="/bundles/babymarktbabymarkttheme/images/bm-touch-icon.png?20150429160749"><!--[if lte IE 8]><script type="text/javascript" src="/js/lteie8.js?20150429160749"></script><![endif]--></head><body id="page-type-home"><div class="container"><div class="bubble-layer hidden-xs hidden-sm"><div class="bubble-container"><div class="bubble sprite-bubble-small"><span>Kostenfreier Versand ab 20 €</span><ul class="social-icons"><li><a rel="nofollow" target="_blank" class="sprite-social-shipping-big"
+          content="Kindersitze bei baby-markt.de - Ab 20 € versandkostenfrei ✓ Schnelle Lieferung ✓ Auf Rechnung ✓ Jetzt Kindersitze zu Top-Preisen bestellen!"><meta name="robots" content="index, follow"><title>Kindersitze, Autositze und Zubehör - BABY-MARKT.DE</title><link href="/bundles/babymarktbabymarkttheme/css/bm_de_de.css?20150429160749" type="text/css"
+                  rel="stylesheet"><style type="text/css"></style><link rel="shortcut icon" href="/bundles/babymarktbabymarkttheme/images/favicon.ico?20150429160749"><link rel="canonical" href="http://www.baby-markt.de/autositze/"><link rel="apple-touch-icon" href="/bundles/babymarktbabymarkttheme/images/bm-touch-icon.png?20150429160749"><!--[if lte IE 8]><script type="text/javascript" src="/js/lteie8.js?20150429160749"></script><![endif]--></head><body id="page-type-category"><div class="container"><div class="bubble-layer hidden-xs hidden-sm"><div class="bubble-container"><div class="bubble sprite-bubble-small"><span>Kostenfreier Versand ab 20 €</span><ul class="social-icons"><li><a rel="nofollow" target="_blank" class="sprite-social-shipping-big"
                                    href="/versandkosten/"></a></li></ul></div></div></div><div class="row header-benefits hidden-xs"><div class="header-benefit col-sm-4"><span class="has-tooltip" href="#" data-original-title="(Mo. - Fr.: 08-17 h)"
               data-placement="bottom">
             Unsere Hotline 0231 - 53471100
@@ -52,7 +52,7 @@ content-location: http://www.baby-markt.de/
                            autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false"><span class="input-group-btn"><button class="bm-button-search sprite-search-button" type="submit"><span class="sprite-lens"></span>Suchen</button></span></div></form></div><div class="col-sm-2 trusted-seal-col"><a href="https://www.trustedshops.com/shop/certificate.php?shop_id=XAD375A60F37299826617D4D19E0A8415" target="_blank"><img class="trusted-seal-img" alt="Trusted Shops Siegel"
          src="//www.baby-markt.de/out/bmResponsive/src/layout-images/guetesiegel/DE.png?20150429160749"/></a></div><div class="col-sm-2 mini-basket-col"><a href="/warenkorb/" class="mini-basket sprite-basket pull-right"><span class="quantity">0</span><span class="sum">0,00 €</span></a></div></div><div class="row visible-xs mobile-top-header"><div class="col-xs-7 header-xs-logo-section-col"><a href="/"><img src="//www.baby-markt.de/out/bmResponsive/src/layout-images/logos/header_logo.jpg?20150429160749" alt="baby-markt.de"
                      title="baby-markt.de" class="img-responsive bm-xs-logo"></a></div><div class="col-xs-5 header-xs-logo-section-col"><a href="/warenkorb/" class="mini-basket sprite-basket-mobile"><span class="quantity">0</span></a><a href="#" id="mobile-info-trigger" class="sprite-mobile-nav"></a></div></div><div class="row"><div class="col-sm-12 no-horizontal-padding"><nav class="navbar navbar-bm" role="navigation"><div class="sprite-nav-wave hidden-xs hidden-sm"></div><div class="navbar-header visible-xs"><a class="mobile-main-button collapsed" href="#" data-toggle="collapse" data-target=".navbar-collapse">
-                                            Kategorien
+                                            Autositze
                                         <span class="caret white"></span></a></div><div id="navbar-categories" class="collapse navbar-collapse"><ul class="nav navbar-nav">            <li class="dropdown">
             <a href="/autositze/"
                class="dropdown-toggle main-category-link" data-toggle="dropdown">
@@ -689,359 +689,187 @@ content-location: http://www.baby-markt.de/
                            placeholder="Suchen Sie in über 40.000 Artikeln..."
                            autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false"><span class="input-group-btn"><button type="submit" class="btn bm-button-search"><span class="sprite-lens"></span>Suchen</button></span></div></form></div></div><div class="action-banner-mobile visible-xs"></div><div id="mobile-info" class="mobile-info hidden-sm hidden-md hidden-lg"><div class="spacer10"></div><a class="btn btn-login" href="/Konto/">Anmeldung</a><div class="mobile-info-row row"><div class="col-xs-4 trusted-seal"><a href="https://www.trustedshops.com/shop/certificate.php?shop_id=XAD375A60F37299826617D4D19E0A8415" target="_blank"><img class="trusted-seal-img" alt="Trusted Shops Siegel"
          src="//www.baby-markt.de/out/bmResponsive/src/layout-images/guetesiegel/DE.png?20150429160749"/></a></div><div class="col-xs-8"><ul><li>
-                    Unsere Hotline <strong>0231 - 53471100</strong><br>(Mo. - Fr.: 08-17 h)</li><li>Ab 20 € versandkostenfrei</li><li>Mehr als 40.000 Produkte auf Lager</li></ul></div></div></div><div class="action-banner hidden-xs"></div><div class="spacer10"></div><div class="row"><div class="col-sm-8  mobile-twelve-horizontal-padding"><div id="start-page-offers" class="start-page-offers">
-    <div class="slider-inner">
-                    <div class="item">
-                                    <div class="countdown-container">
-                        <span class="countdown-timer" data-until="1430953200"
-                              data-locale="de"></span>
-                        <span class="claim hidden-xs"><strong>Tagesangebot!</strong>&nbsp;<b>nur noch:</b></span>
-                                            </div>
-                                <div class="slide-content">
-                    
-                    
-                        <img class="image img-responsive econdaClickMarker econdaBannerMarker lazy offer-background hidden-xs"
-                             data-original="//www.baby-markt.de/out/bmResponsive/img/aztagesangebot/Hintergrund Tagesangebote.jpg?20150429160749"
-                             src="/bundles/babymarktbabymarkttheme/images/tpa-preload-image.jpg?20150429160749"
-                             alt="Tagesangebot!" title="Tagesangebot!"
-                             data-econda-marker="DE/Home/Bühne 1"/>
+                    Unsere Hotline <strong>0231 - 53471100</strong><br>(Mo. - Fr.: 08-17 h)</li><li>Ab 20 € versandkostenfrei</li><li>Mehr als 40.000 Produkte auf Lager</li></ul></div></div></div><div class="action-banner hidden-xs"></div><div class="breadcrumbs row"><div class="col-md-12"><div class="breadcrumb-container"><strong>Sie sind hier:</strong><ul class="breadcrumb-list" itemscope itemtype="http://schema.org/BreadcrumbList"><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a class="bccolor1" title="Home" href="/" itemprop="item"><span itemprop="name">Home</span><meta itemprop="position" content="1" /></a></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a class="bccolor2" title="Autositze" href="/autositze/" itemprop="item"><span itemprop="name">Autositze</span><meta itemprop="position" content="2" /></a></li></ul></div></div></div><div class="row category-offcanvas" id="category-offcanvas"><div class="col-xs-6 col-sm-4 col-md-3 sidebar-offcanvas" id="sidebar-offcanvas"><button class="btn btn-full visible-xs show-filter-trigger close-offcanvas" type="submit">
+                    schließen<span>X</span></button><div id="filter" class="filters"><div class="row"><div class="col-md-12"><div class="filter-box"><div class="header">
+                        Kategorie
 
-                        
-                                            <div class="multi-part-wrapper row countdown-enabled">
-            <div class="col-sm-6 multi-part-item">
-                        
-                                        
-
-            <a href="/unterwegs/kinderwagenzubehoer/quinny-buggy-board-a083527.html">
-                <div class="inner row">
-                    <div class="col-xs-6 wrapper">
-                        <img class="image img-responsive lazy product-image"
-                             src="/bundles/babymarktbabymarkttheme/images/loader.gif?20150429160749"
-                             data-original="//www.baby-markt.de/out/pictures/generated/product/1/200_200_80/n_a083527_001.jpg?20150429160749">
-                    </div>
-                    <div class="col-xs-6 wrapper">
-                                                    <img class="brand-image" src="//www.baby-markt.de/out/pictures/generated/manufacturer/icon/150_75_80/logo_quinny.jpg?20150429160749"/>
-                                                <div class="title">QUINNY Buggy Bo...</div>
-                        <div class="price">59,99 €</div>
-                        <div class="old-price">statt 83,99 €</div>
-                    </div>
-                </div>
-            </a>
-        </div>
-            <div class="col-sm-6 multi-part-item">
-                        
-                                        
-
-            <a href="/kinderzimmer/babywippen-und-walker/babybjoern-babywippe-babysitter-balance-soft-schwarz-dunkelgrau-a067324.html">
-                <div class="inner row">
-                    <div class="col-xs-6 wrapper">
-                        <img class="image img-responsive lazy product-image"
-                             src="/bundles/babymarktbabymarkttheme/images/loader.gif?20150429160749"
-                             data-original="//www.baby-markt.de/out/pictures/generated/product/1/200_200_80/n_a067324_001.jpg?20150429160749">
-                    </div>
-                    <div class="col-xs-6 wrapper">
-                                                    <img class="brand-image" src="//www.baby-markt.de/out/pictures/generated/manufacturer/icon/150_75_80/Logo_BabyBjoern.jpg?20150429160749"/>
-                                                <div class="title">BABYBJÖRN Babyw...</div>
-                        <div class="price">94,99 €</div>
-                        <div class="old-price">statt 149,90 €</div>
-                    </div>
-                </div>
-            </a>
-        </div>
-            <div class="col-sm-6 multi-part-item">
-                        
-                                        
-
-            <a href="/markenshop-jane/travelsets/jane-sportwagen-muum-inkl-babyschale-koos-und-tragewanne-micro-granit-a090432.html">
-                <div class="inner row">
-                    <div class="col-xs-6 wrapper">
-                        <img class="image img-responsive lazy product-image"
-                             src="/bundles/babymarktbabymarkttheme/images/loader.gif?20150429160749"
-                             data-original="//www.baby-markt.de/out/pictures/generated/product/1/200_200_80/n_a090432_001.jpg?20150429160749">
-                    </div>
-                    <div class="col-xs-6 wrapper">
-                                                    <img class="brand-image" src="//www.baby-markt.de/out/pictures/generated/manufacturer/icon/150_75_80/logo_jane.jpg?20150429160749"/>
-                                                <div class="title">JANE Sportwagen...</div>
-                        <div class="price">399,99 €</div>
-                        <div class="old-price">statt 639,00 €</div>
-                    </div>
-                </div>
-            </a>
-        </div>
-            <div class="col-sm-6 multi-part-item">
-                        
-                                        
-
-            <a href="/pflege-ernaehrung/wickeln/wickelauflagen/sterntaler-wickelauflagen-ueberzug-zebra-zimba-grau-a076121.html">
-                <div class="inner row">
-                    <div class="col-xs-6 wrapper">
-                        <img class="image img-responsive lazy product-image"
-                             src="/bundles/babymarktbabymarkttheme/images/loader.gif?20150429160749"
-                             data-original="//www.baby-markt.de/out/pictures/generated/product/1/200_200_80/n_a076121_001.jpg?20150429160749">
-                    </div>
-                    <div class="col-xs-6 wrapper">
-                                                    <img class="brand-image" src="//www.baby-markt.de/out/pictures/generated/manufacturer/icon/150_75_80/logo_sterntaler.jpg?20150429160749"/>
-                                                <div class="title">STERNTALER Wick...</div>
-                        <div class="price">10,00 €</div>
-                        <div class="old-price">statt 24,99 €</div>
-                    </div>
-                </div>
-            </a>
-        </div>
-    </div>
-                                    </div>
-            </div>
-                    <div class="item">
-                                <div class="slide-content">
-                    
-                                        <a href="/stokke-tripp-trapp-aktion/" title="Tagesangebot!">
-                        
-                        <img class="image img-responsive econdaClickMarker econdaBannerMarker lazy offer-background "
-                             data-original="//www.baby-markt.de/out/bmResponsive/img/aztagesangebot/tpa_6ak42b929e489e49626a92b058df5d9d.jpg?20150429160749"
-                             src="/bundles/babymarktbabymarkttheme/images/tpa-preload-image.jpg?20150429160749"
-                             alt="Tagesangebot!" title="Tagesangebot!"
-                             data-econda-marker="DE/Home/Bühne 2"/>
-
-                                            </a>
-                    
-                                                                                </div>
-            </div>
-                    <div class="item">
-                                <div class="slide-content">
-                    
-                                        <a href="/autositze/reboarder/" title="Tagesangebot!">
-                        
-                        <img class="image img-responsive econdaClickMarker econdaBannerMarker lazy offer-background "
-                             data-original="//www.baby-markt.de/out/bmResponsive/img/aztagesangebot/tpa_i83b1f52a4d3fe32f2b0b39bf8da0f18.jpg?20150429160749"
-                             src="/bundles/babymarktbabymarkttheme/images/tpa-preload-image.jpg?20150429160749"
-                             alt="Tagesangebot!" title="Tagesangebot!"
-                             data-econda-marker="DE/Home/Bühne 3"/>
-
-                                            </a>
-                    
-                                                                                </div>
-            </div>
-                    <div class="item">
-                                <div class="slide-content">
-                    
-                                        <a href="/markenshop-pampers/neugeborenes/" title="Tagesangebot!">
-                        
-                        <img class="image img-responsive econdaClickMarker econdaBannerMarker lazy offer-background "
-                             data-original="//www.baby-markt.de/out/bmResponsive/img/aztagesangebot/tpa_i833ef8a26c0ee28310faa73f76e0825.jpg?20150429160749"
-                             src="/bundles/babymarktbabymarkttheme/images/tpa-preload-image.jpg?20150429160749"
-                             alt="Tagesangebot!" title="Tagesangebot!"
-                             data-econda-marker="DE/Home/Bühne 4"/>
-
-                                            </a>
-                    
-                                                                                </div>
-            </div>
-            </div>
-</div>
-</div><div class="start-teaser-container col-sm-4 hidden-xs"><div><div style="text-align: center"><a href="/markenhersteller/angelcare/babyphone/angelcare-ac423-d-babyphone-plus-gratis-windeleimer-comfort-mit-einer-nachfuellkassette-a131370.html"><img alt="" src="//www.baby-markt.de/out/bmResponsive/img/Teaser1_angelcare-v3.jpg" /></a></div></div><div><div style="text-align: center"><a href="/unterwegs/kinderwagen/"><img alt="" src="//www.baby-markt.de/out/bmResponsive/img/Teaser2_Kindwagen.jpg" /></a></div></div></div></div><div class="hidden-xs"><div class="banner-adds hidden-xs"><hr><div class="row"><div class="col-xs-5"><div class="row"><div class="col-xs-12"><div class="boxWrapperVertical roundedCorners"><div class="boxContent"><a target="_blank" href="/ratgeber/"><img class="roundedCorners" alt="" src="//www.baby-markt.de/out/bmResponsive/img/banner_ratgeber.jpg" /></a></div></div></div></div><div class="row spacer20"><div class="col-xs-12"><div class="boxWrapperVertical roundedCorners"><div class="boxContent"><a href="/sicherheitsversprechen-mobilitaetsgarantie/" normale="" tabelle";="" mso-tstyle-rowband-size:0;="" mso-tstyle-colband-size:0;="" mso-style-noshow:yes;="" mso-style-priority:99;="" mso-style-parent:"";="" mso-padding-alt:0cm="" 5.4pt="" 0cm="" 5.4pt;="" mso-para-margin:0cm;="" mso-para-margin-bottom:.0001pt;="" mso-pagination:widow-orphan;="" font-size:10.0pt;="" font-family:"times="" new="" roman","serif";}="" "=""><img class="roundedCorners" alt="" src="//www.baby-markt.de/out/bmResponsive/img/banner_sicherheitsversprechenn.jpg" /></a></div></div></div></div></div><div class="col-xs-7"><div class="row"><div class="col-xs-4 no-left-padding"><div class="boxWrapper roundedCorners"><div class="boxHead backPink roundedCornersTop">Knallerpreise</div><div class="boxContent"><a href="/mode-angebote/"><img class="roundedCornersBottom" alt="" src="//www.baby-markt.de/out/bmResponsive/img/aktion2_mode.jpg" /></a></div></div></div><div class="col-xs-4 no-left-padding"><div class="boxWrapper roundedCorners"><div class="boxHead backPink roundedCornersTop">
-Pampers Markenshop</div><div class="boxContent"><a href="/markenshop-pampers/" normale="" tabelle";="" mso-tstyle-rowband-size:0;="" mso-tstyle-colband-size:0;="" mso-style-noshow:yes;="" mso-style-priority:99;="" mso-style-parent:"";="" mso-padding-alt:0cm="" 5.4pt="" 0cm="" 5.4pt;="" mso-para-margin:0cm;="" mso-para-margin-bottom:.0001pt;="" mso-pagination:widow-orphan;="" font-size:10.0pt;="" font-family:"times="" new="" roman","serif";}="" "=""><img class="roundedCornersBottom" alt="" src="//www.baby-markt.de/out/bmResponsive/img/aktion1_pampers_neu.jpg" /></a></div></div></div><div class="col-xs-4 no-left-padding"><div class="boxWrapper roundedCorners"><div class="boxHead backPink roundedCornersTop">SALE</div><div class="boxContent"><a href="/schnaeppchen/"><img class="roundedCornersBottom" alt="" src="//www.baby-markt.de/out/bmResponsive/img/aktion3_sale.jpg" /></a></div></div></div></div></div></div></div></div><div class="spacer20 hidden-xs"></div><div id="startpage-action-sliders" class="startpage-action-sliders"><div id="startpage-epoq-slider" class="startpage-epoq-slider hidden econdaClickMarker econdaBannerMarker action-container panel"
-                 data-econda-marker="DE/Home/Slider 0"></div><div class="action-container panel"><div class="visible-xs"><a class="mobile-slider-toggle action-title btn-primary btn-full btn "
+                        <div class="toggle-filter-box"></div></div><div class="content category-filter"><div class="inner-box"><ul class="filter-values"><li class="filter-level-1 filter-active-link"><a href="/autositze/">
+                Autositze
+            </a><ul><li class="filter-level-2 "><a href="/autositze/reboarder/">
+                Reboarder
+            </a></li><li class="filter-level-2 "><a href="/autositze/kindersitz-0-bis-13-kg/">
+                Kindersitz 0 bis 13 kg
+            </a></li><li class="filter-level-2 "><a href="/autositze/kindersitz-9-bis-18-kg/">
+                Kindersitz 9 bis 18 kg
+            </a></li><li class="filter-level-2 "><a href="/autositze/kindersitz-9-bis-36-kg/">
+                Kindersitz 9 bis 36 kg
+            </a></li><li class="filter-level-2 "><a href="/autositze/kindersitz-15-bis-36-kg/">
+                Kindersitz 15 bis 36 kg
+            </a></li><li class="filter-level-2 "><a href="/autositze/autositzadapter/">
+                Autositzadapter
+            </a></li><li class="filter-level-2 "><a href="/autositze/autositzspielzeug/">
+                Autositzspielzeug
+            </a></li><li class="filter-level-2 "><a href="/autositze/autositzzubehoer/">
+                Autositzzubehör
+            </a></li><li class="filter-level-2 "><a href="/autositze/fahrradsitze/">
+                Kinderfahrradsitze
+            </a></li><li class="filter-level-2 "><a href="/autositze/fusssaecke-fuer-schalensitze/">
+                Fußsäcke für Schalensitze
+            </a></li><li class="filter-level-2 "><a href="/autositze/nackenstuetzen/">
+                Nackenstützen
+            </a></li><li class="filter-level-2 "><a href="/autositze/sitzerhoehung/">
+                Sitzerhöhung
+            </a></li><li class="filter-level-2 "><a href="/autositze/sonnenschutz/">
+                Sonnenschutz
+            </a></li></ul></li></ul></div></div></div></div></div></div></div><div class="col-xs-12 col-sm-8 col-md-9 content-offcanvas" id="content-offcanvas"><div class="maincategory-header"><div class="row"><div class="col-md-12"><a href="/autositze-stark-reduziert/" title=""><img class="img-responsive econdaClickMarker econdaBannerMarker"
+                     src="//www.baby-markt.de/out/bmResponsive/img/category//4999644a5eb7bd56311478a71d156106/buehne_autositze_nl.jpg?20150429160749"
+                     alt="" title="" data-econda-marker="DE/Autositze/Banner 1"></a></div></div><hr class="marv"><div class="row hidden-xs"><div class="col-xs-5"><a href="/produktberater/autositze" title=""><img class="img-responsive econdaClickMarker econdaBannerMarker"
+                     src="//www.baby-markt.de/out/bmResponsive/img/category//4999644a5eb7bd56311478a71d156106/de_banner1_kw26.jpg?20150429160749"
+                     alt="" title="" data-econda-marker="DE/Autositze/Banner 2"></a></div><div class="col-xs-7"><a href="/markenshop-besafe/" title=""><img class="img-responsive econdaClickMarker econdaBannerMarker"
+                     src="//www.baby-markt.de/out/bmResponsive/img/category//4999644a5eb7bd56311478a71d156106/kategorie_unterwegs_kw353.jpg?20150429160749"
+                     alt="" title="" data-econda-marker="DE/Autositze/Banner 3"></a></div></div></div><div class="spacer20 hidden-xs"></div><div id="category-epoq-slider" class="hidden econdaClickMarker econdaBannerMarker action-container category-epoq-slider"
+                     data-title="Autositze"
+                     data-econda-marker="DE/Autositze/Slider 0"></div><div id="category-action-sliders" class="category-action-sliders"><div class="action-container panel"><div class="visible-xs"><a class="mobile-slider-toggle action-title btn-primary btn-full btn "
                    name="slider-1"
-                   data-toggle="collapse" data-target="#startpage-action-sliders-1"
-                   data-parent="#startpage-action-sliders">
-                    Unterwegs – mit der Mobilitätsgarantie von baby-markt.de
+                   data-toggle="collapse" data-target="#category-action-sliders-1"
+                   data-parent="#category-action-sliders">
+                    Babyschalen - für den perfekten Start
                     <span class="caret"></span></a></div><div class="hidden-xs"><div class="action-title">
-                    Unterwegs – mit der Mobilitätsgarantie von baby-markt.de
-                </div></div><div id="startpage-action-sliders-1"
+                    Babyschalen - für den perfekten Start
+                </div></div><div id="category-action-sliders-1"
                  class="slider-dropdown econdaClickMarker econdaBannerMarker collapse in"
-                 data-econda-marker="DE/Home/Slider 1"><div class="products-container"><div class="list-product"><div><div class="row"><div class="image col-xs-4 col-sm-12"><a href="/unterwegs/kinderwagen/bugaboo-cameleon3-complete-black-shiny-chevron-black-special-edition-a109440.html" data-product-id="A109440"><img class="image img-responsive lazy"
+                 data-econda-marker="DE/Home/Slider 1"><div class="products-container"><div class="list-product"><div><div class="row"><div class="image col-xs-4 col-sm-12"><a href="/autositze/kindersitz-0-bis-13-kg/maxi-cosi-babyschale-citi-sps-stone-a098109.html" data-product-id="A098109"><img class="image img-responsive lazy"
                              src="/bundles/babymarktbabymarkttheme/images/loader.gif?20150429160749"
-                             data-original="//www.baby-markt.de/out/pictures/generated/product/1/200_200_80/n_a109440_001.jpg?20150429160749"></a></div><div class="col-xs-8 col-sm-12 infos"><div class="row rating"><div class="col-md-12 columns"></div></div><div class="row title"><div class="col-md-12 columns"><div><a href="/unterwegs/kinderwagen/bugaboo-cameleon3-complete-black-shiny-chevron-black-special-edition-a109440.html" data-product-id="A109440">bugaboo Cameleon3 complete Black/Shiny Chevron Black Special Edition</a></div></div></div><div class="row stock"><div class="col-md-12 columns"><span class="product-stock-bullet bullet-green">Sofort lieferbar</span></div></div><div class="row"><div class="col-md-12 columns"><a href="/unterwegs/kinderwagen/bugaboo-cameleon3-complete-black-shiny-chevron-black-special-edition-a109440.html" class="price" data-product-id="A109440">1.049,00 €</a></div></div><div class="row shipping">
+                             data-original="//www.baby-markt.de/out/pictures/generated/product/1/200_200_80/n_a098109_001n.jpg?20150429160749"></a><div class="saving-sticker sprite-saving-sticker">
+        -48%
+    </div></div><div class="col-xs-8 col-sm-12 infos"><div class="row rating"><div class="col-md-12 columns"><div class="stars"><em class="rated">&#x2605;</em><em class="rated">&#x2605;</em><em class="rated">&#x2605;</em><em class="rated">&#x2605;</em><em class="rated">&#x2605;</em><span>
+            (28)
+        </span></div></div></div><div class="row title"><div class="col-md-12 columns"><div><a href="/autositze/kindersitz-0-bis-13-kg/maxi-cosi-babyschale-citi-sps-stone-a098109.html" data-product-id="A098109">MAXI-COSI Babyschale Citi SPS Stone</a></div></div></div><div class="row stock"><div class="col-md-12 columns"><span class="product-stock-bullet bullet-green">Sofort lieferbar</span></div></div><div class="row"><div class="col-md-12 columns"><a href="/autositze/kindersitz-0-bis-13-kg/maxi-cosi-babyschale-citi-sps-stone-a098109.html" class="price" data-product-id="A098109">79,99 €</a></div><div class="col-md-12 columns savings">
+
+                            UVP<span style="color: black; font-weight: bold;">¹</span>                            &nbsp;bisher
+                            &nbsp;<del>154,90 €</del><br>
+                            Sie sparen
+                            <strong>74,91 €</strong></div></div><div class="row shipping">
                                             Versandkostenfrei in DE!
-                                    </div></div></div></div></div><div class="list-product"><div><div class="row"><div class="image col-xs-4 col-sm-12"><a href="/unterwegs/kinderwagen/moon-kombi-kinderwagen-nuova-set-design-972-navy-melange-inkl-3-in-1-babywanne-a112095.html" data-product-id="A112095"><img class="image img-responsive lazy"
+                                    </div></div></div></div></div><div class="list-product"><div><div class="row"><div class="image col-xs-4 col-sm-12"><a href="/autositze/kindersitz-0-bis-13-kg/hauck-kinderautositz-zero-plus-select-red-black-a108784.html" data-product-id="A108784"><img class="image img-responsive lazy"
                              src="/bundles/babymarktbabymarkttheme/images/loader.gif?20150429160749"
-                             data-original="//www.baby-markt.de/out/pictures/generated/product/1/200_200_80/n_a112095_001.jpg?20150429160749"></a><div class="saving-sticker sprite-saving-sticker">
-        -20%
-    </div></div><div class="col-xs-8 col-sm-12 infos"><div class="row rating"><div class="col-md-12 columns"><div class="stars"><em class="rated">&#x2605;</em><em class="rated">&#x2605;</em><em class="rated">&#x2605;</em><em class="rated">&#x2605;</em><em >&#x2605;</em><span>
+                             data-original="//www.baby-markt.de/out/pictures/generated/product/1/200_200_80/n_a108784_001n.jpg?20150429160749"></a><div class="saving-sticker sprite-saving-sticker">
+        -25%
+    </div></div><div class="col-xs-8 col-sm-12 infos"><div class="row rating"><div class="col-md-12 columns"><div class="stars"><em class="rated">&#x2605;</em><em class="rated">&#x2605;</em><em class="rated">&#x2605;</em><em class="rated">&#x2605;</em><em class="rated">&#x2605;</em><span>
             (1)
-        </span></div></div></div><div class="row title"><div class="col-md-12 columns"><div><a href="/unterwegs/kinderwagen/moon-kombi-kinderwagen-nuova-set-design-972-navy-melange-inkl-3-in-1-babywanne-a112095.html" data-product-id="A112095">MOON Kombi-Kinderwagen Nuova Set Design 972 navy/melange inkl. 3 in 1 Babywanne</a></div></div></div><div class="row stock"><div class="col-md-12 columns"><span class="product-stock-bullet bullet-green">Sofort lieferbar</span></div></div><div class="row"><div class="col-md-12 columns"><a href="/unterwegs/kinderwagen/moon-kombi-kinderwagen-nuova-set-design-972-navy-melange-inkl-3-in-1-babywanne-a112095.html" class="price" data-product-id="A112095">399,90 €</a></div><div class="col-md-12 columns savings">
+        </span></div></div></div><div class="row title"><div class="col-md-12 columns"><div><a href="/autositze/kindersitz-0-bis-13-kg/hauck-kinderautositz-zero-plus-select-red-black-a108784.html" data-product-id="A108784">HAUCK Kinderautositz Zero Plus Select red/black</a></div></div></div><div class="row stock"><div class="col-md-12 columns"><span class="product-stock-bullet bullet-green">Sofort lieferbar</span></div></div><div class="row"><div class="col-md-12 columns"><a href="/autositze/kindersitz-0-bis-13-kg/hauck-kinderautositz-zero-plus-select-red-black-a108784.html" class="price" data-product-id="A108784">89,99 €</a></div><div class="col-md-12 columns savings">
 
                             UVP<span style="color: black; font-weight: bold;">¹</span>                            &nbsp;bisher
-                            &nbsp;<del>499,90 €</del><br>
+                            &nbsp;<del>119,99 €</del><br>
                             Sie sparen
-                            <strong>100,00 €</strong></div></div><div class="row shipping">
+                            <strong>30,00 €</strong></div></div><div class="row shipping">
                                             Versandkostenfrei in DE!
-                                    </div></div></div></div></div><div class="list-product"><div><div class="row"><div class="image col-xs-4 col-sm-12"><a href="/unterwegs/kinderwagen/teutonia-kinderwagen-cosmo-titanium-rad-3-hb-design-4900-blue-marine-inkl-handbremse-a117351.html" data-product-id="A117351"><img class="image img-responsive lazy"
+                                    </div></div></div></div></div><div class="list-product"><div><div class="row"><div class="image col-xs-4 col-sm-12"><a href="/autositze/kindersitz-0-bis-13-kg/britax-roemer-babyschale-baby-safe-plus-shr-ii-cool-berry-a062478.html" data-product-id="A062478"><img class="image img-responsive lazy"
                              src="/bundles/babymarktbabymarkttheme/images/loader.gif?20150429160749"
-                             data-original="//www.baby-markt.de/out/pictures/generated/product/1/200_200_80/n_a117351_001.jpg?20150429160749"></a><div class="saving-sticker sprite-saving-sticker">
-        -11%
-    </div></div><div class="col-xs-8 col-sm-12 infos"><div class="row rating"><div class="col-md-12 columns"></div></div><div class="row title"><div class="col-md-12 columns"><div><a href="/unterwegs/kinderwagen/teutonia-kinderwagen-cosmo-titanium-rad-3-hb-design-4900-blue-marine-inkl-handbremse-a117351.html" data-product-id="A117351">TEUTONIA Kinderwagen Cosmo Titanium Rad 3 HB Design 4900 Blue Marine inkl. Handbremse</a></div></div></div><div class="row stock"><div class="col-md-12 columns"><span class="product-stock-bullet bullet-green">Sofort lieferbar</span></div></div><div class="row"><div class="col-md-12 columns"><a href="/unterwegs/kinderwagen/teutonia-kinderwagen-cosmo-titanium-rad-3-hb-design-4900-blue-marine-inkl-handbremse-a117351.html" class="price" data-product-id="A117351">679,00 €</a></div><div class="col-md-12 columns savings">
+                             data-original="//www.baby-markt.de/out/pictures/generated/product/1/200_200_80/n_a062478_001_n.jpg?20150429160749"></a><div class="saving-sticker sprite-saving-sticker">
+        -18%
+    </div></div><div class="col-xs-8 col-sm-12 infos"><div class="row rating"><div class="col-md-12 columns"></div></div><div class="row title"><div class="col-md-12 columns"><div><a href="/autositze/kindersitz-0-bis-13-kg/britax-roemer-babyschale-baby-safe-plus-shr-ii-cool-berry-a062478.html" data-product-id="A062478">BRITAX RÖMER Babyschale Baby-Safe plus SHR II Cool Berry</a></div></div></div><div class="row stock"><div class="col-md-12 columns"><span class="product-stock-bullet bullet-green">Sofort lieferbar</span></div></div><div class="row"><div class="col-md-12 columns"><a href="/autositze/kindersitz-0-bis-13-kg/britax-roemer-babyschale-baby-safe-plus-shr-ii-cool-berry-a062478.html" class="price" data-product-id="A062478">139,99 €</a></div><div class="col-md-12 columns savings">
 
                             UVP<span style="color: black; font-weight: bold;">¹</span>                            &nbsp;bisher
-                            &nbsp;<del>759,90 €</del><br>
+                            &nbsp;<del>170,00 €</del><br>
                             Sie sparen
-                            <strong>80,90 €</strong></div></div><div class="row shipping">
+                            <strong>30,01 €</strong></div></div><div class="row shipping">
                                             Versandkostenfrei in DE!
-                                    </div></div></div></div></div><div class="list-product"><div><div class="row"><div class="image col-xs-4 col-sm-12"><a href="/unterwegs/kinderwagen/bugaboo-cameleon-3-by-diesel-camouflage-a111418.html" data-product-id="A111418"><img class="image img-responsive lazy"
+                                    </div></div></div></div></div><div class="list-product"><div><div class="row"><div class="image col-xs-4 col-sm-12"><a href="/autositze/kindersitz-0-bis-13-kg/kiddy-babyschale-evolution-pro-2-san-marino-a112117.html" data-product-id="A112117"><img class="image img-responsive lazy"
                              src="/bundles/babymarktbabymarkttheme/images/loader.gif?20150429160749"
-                             data-original="//www.baby-markt.de/out/pictures/generated/product/1/200_200_80/n_a111418_001.jpg?20150429160749"></a></div><div class="col-xs-8 col-sm-12 infos"><div class="row rating"><div class="col-md-12 columns"></div></div><div class="row title"><div class="col-md-12 columns"><div><a href="/unterwegs/kinderwagen/bugaboo-cameleon-3-by-diesel-camouflage-a111418.html" data-product-id="A111418">Bugaboo Cameleon 3 by Diesel Camouflage</a></div></div></div><div class="row stock"><div class="col-md-12 columns"><span class="product-stock-bullet bullet-green">Sofort lieferbar</span></div></div><div class="row"><div class="col-md-12 columns"><a href="/unterwegs/kinderwagen/bugaboo-cameleon-3-by-diesel-camouflage-a111418.html" class="price" data-product-id="A111418">1.149,00 €</a></div></div><div class="row shipping">
+                             data-original="//www.baby-markt.de/out/pictures/generated/product/1/200_200_80/n_a112117_001s.jpg?20150429160749"></a></div><div class="col-xs-8 col-sm-12 infos"><div class="row rating"><div class="col-md-12 columns"></div></div><div class="row title"><div class="col-md-12 columns"><div><a href="/autositze/kindersitz-0-bis-13-kg/kiddy-babyschale-evolution-pro-2-san-marino-a112117.html" data-product-id="A112117">KIDDY Babyschale Evolution Pro 2 San Marino</a></div></div></div><div class="row stock"><div class="col-md-12 columns"><span class="product-stock-bullet bullet-green">Sofort lieferbar</span></div></div><div class="row"><div class="col-md-12 columns"><a href="/autositze/kindersitz-0-bis-13-kg/kiddy-babyschale-evolution-pro-2-san-marino-a112117.html" class="price" data-product-id="A112117">199,00 €</a></div></div><div class="row shipping">
                                             Versandkostenfrei in DE!
-                                    </div></div></div></div></div><div class="list-product"><div><div class="row"><div class="image col-xs-4 col-sm-12"><a href="/unterwegs/kinderwagen/mutsy-igo-kombi-kinderwagen-komplett-silver-purple-a106433.html" data-product-id="A106433"><img class="image img-responsive lazy"
+                                    </div></div></div></div></div><div class="list-product"><div><div class="row"><div class="image col-xs-4 col-sm-12"><a href="/autositze/kindersitz-0-bis-13-kg/cybex-gold-babyschale-aton-4-moon-dust-dark-grey-a113939.html" data-product-id="A113939"><img class="image img-responsive lazy"
                              src="/bundles/babymarktbabymarkttheme/images/loader.gif?20150429160749"
-                             data-original="//www.baby-markt.de/out/pictures/generated/product/1/200_200_80/n_a106433_001.jpg?20150429160749"></a></div><div class="col-xs-8 col-sm-12 infos"><div class="row rating"><div class="col-md-12 columns"></div></div><div class="row title"><div class="col-md-12 columns"><div><a href="/unterwegs/kinderwagen/mutsy-igo-kombi-kinderwagen-komplett-silver-purple-a106433.html" data-product-id="A106433">Mutsy IGO Kombi-Kinderwagen komplett Silver/Purple</a></div></div></div><div class="row stock"><div class="col-md-12 columns"><span class="product-stock-bullet bullet-green">Sofort lieferbar</span></div></div><div class="row"><div class="col-md-12 columns"><a href="/unterwegs/kinderwagen/mutsy-igo-kombi-kinderwagen-komplett-silver-purple-a106433.html" class="price" data-product-id="A106433">749,00 €</a></div></div><div class="row shipping">
-                                            Versandkostenfrei in DE!
-                                    </div></div></div></div></div><div class="list-product"><div><div class="row"><div class="image col-xs-4 col-sm-12"><a href="/unterwegs/kinderwagen/abc-design-kinderwagen-cobra-desert-gestell-silver-black-a109156.html" data-product-id="A109156"><img class="image img-responsive lazy"
-                             src="/bundles/babymarktbabymarkttheme/images/loader.gif?20150429160749"
-                             data-original="//www.baby-markt.de/out/pictures/generated/product/1/200_200_80/n_a109156_001.jpg?20150429160749"></a></div><div class="col-xs-8 col-sm-12 infos"><div class="row rating"><div class="col-md-12 columns"></div></div><div class="row title"><div class="col-md-12 columns"><div><a href="/unterwegs/kinderwagen/abc-design-kinderwagen-cobra-desert-gestell-silver-black-a109156.html" data-product-id="A109156">ABC DESIGN Kinderwagen Cobra desert Gestell silver / black</a></div></div></div><div class="row stock"><div class="col-md-12 columns"><span class="product-stock-bullet bullet-green">Sofort lieferbar</span></div></div><div class="row"><div class="col-md-12 columns"><a href="/unterwegs/kinderwagen/abc-design-kinderwagen-cobra-desert-gestell-silver-black-a109156.html" class="price" data-product-id="A109156">479,90 €</a></div></div><div class="row shipping">
-                                            Versandkostenfrei in DE!
-                                    </div></div></div></div></div><div class="list-product"><div><div class="row"><div class="image col-xs-4 col-sm-12"><a href="/unterwegs/zwillingswagen-geschwisterwagen/hartan-zwillingswagen-zx-ii-211-bleu-mokka-karo-inkl-regenhaube-und-netzkorb-a115091.html" data-product-id="A115091"><img class="image img-responsive lazy"
-                             src="/bundles/babymarktbabymarkttheme/images/loader.gif?20150429160749"
-                             data-original="//www.baby-markt.de/out/pictures/generated/product/1/200_200_80/n_a115091_001.jpg?20150429160749"></a><div class="saving-sticker sprite-saving-sticker">
-        -9%
-    </div></div><div class="col-xs-8 col-sm-12 infos"><div class="row rating"><div class="col-md-12 columns"></div></div><div class="row title"><div class="col-md-12 columns"><div><a href="/unterwegs/zwillingswagen-geschwisterwagen/hartan-zwillingswagen-zx-ii-211-bleu-mokka-karo-inkl-regenhaube-und-netzkorb-a115091.html" data-product-id="A115091">HARTAN Zwillingswagen ZX II 211 Bleu/Mokka Karo inkl. Regenhaube und Netzkorb</a></div></div></div><div class="row stock"><div class="col-md-12 columns"><span class="product-stock-bullet bullet-green">Sofort lieferbar</span></div></div><div class="row"><div class="col-md-12 columns"><a href="/unterwegs/zwillingswagen-geschwisterwagen/hartan-zwillingswagen-zx-ii-211-bleu-mokka-karo-inkl-regenhaube-und-netzkorb-a115091.html" class="price" data-product-id="A115091">615,00 €</a></div><div class="col-md-12 columns savings">
-
-                            UVP<span style="color: black; font-weight: bold;">¹</span>                            &nbsp;bisher
-                            &nbsp;<del>679,00 €</del><br>
-                            Sie sparen
-                            <strong>64,00 €</strong></div></div><div class="row shipping">
-                                            Versandkostenfrei in DE!
-                                    </div></div></div></div></div><div class="list-product"><div><div class="row"><div class="image col-xs-4 col-sm-12"><a href="/markenhersteller/moon/kombi-kinderwagen/moon-kombi-kinderwagen-lusso-set-design-971-brown-melange-inkl-3-in-1-tragetasche-a112077.html" data-product-id="A112077"><img class="image img-responsive lazy"
-                             src="/bundles/babymarktbabymarkttheme/images/loader.gif?20150429160749"
-                             data-original="//www.baby-markt.de/out/pictures/generated/product/1/200_200_80/n_a112077_001.jpg?20150429160749"></a><div class="saving-sticker sprite-saving-sticker">
-        -30%
-    </div></div><div class="col-xs-8 col-sm-12 infos"><div class="row rating"><div class="col-md-12 columns"></div></div><div class="row title"><div class="col-md-12 columns"><div><a href="/markenhersteller/moon/kombi-kinderwagen/moon-kombi-kinderwagen-lusso-set-design-971-brown-melange-inkl-3-in-1-tragetasche-a112077.html" data-product-id="A112077">MOON Kombi-Kinderwagen Lusso Set Design 971 brown/melange inkl. 3 in 1 Tragetasche</a></div></div></div><div class="row stock"><div class="col-md-12 columns"><span class="product-stock-bullet bullet-green">Sofort lieferbar</span></div></div><div class="row"><div class="col-md-12 columns"><a href="/markenhersteller/moon/kombi-kinderwagen/moon-kombi-kinderwagen-lusso-set-design-971-brown-melange-inkl-3-in-1-tragetasche-a112077.html" class="price" data-product-id="A112077">349,90 €</a></div><div class="col-md-12 columns savings">
-
-                            UVP<span style="color: black; font-weight: bold;">¹</span>                            &nbsp;bisher
-                            &nbsp;<del>499,90 €</del><br>
-                            Sie sparen
-                            <strong>150,00 €</strong></div></div><div class="row shipping">
-                                            Versandkostenfrei in DE!
-                                    </div></div></div></div></div><div class="list-product"><div><div class="row"><div class="image col-xs-4 col-sm-12"><a href="/unterwegs/kinderwagen/abc-design-kombikinderwagen-3-tec-mimo-limited-edition-kollektion-2014-a095818.html" data-product-id="A095818"><img class="image img-responsive lazy"
-                             src="/bundles/babymarktbabymarkttheme/images/loader.gif?20150429160749"
-                             data-original="//www.baby-markt.de/out/pictures/generated/product/1/200_200_80/n_a095818_001.jpg?20150429160749"></a><div class="saving-sticker sprite-saving-sticker">
-        -32%
-    </div></div><div class="col-xs-8 col-sm-12 infos"><div class="row rating"><div class="col-md-12 columns"></div></div><div class="row title"><div class="col-md-12 columns"><div><a href="/unterwegs/kinderwagen/abc-design-kombikinderwagen-3-tec-mimo-limited-edition-kollektion-2014-a095818.html" data-product-id="A095818">ABC DESIGN Kombikinderwagen 3 Tec mimo limited Edition Kollektion 2014</a></div></div></div><div class="row stock"><div class="col-md-12 columns"><span class="product-stock-bullet bullet-green">Sofort lieferbar</span></div></div><div class="row"><div class="col-md-12 columns"><a href="/unterwegs/kinderwagen/abc-design-kombikinderwagen-3-tec-mimo-limited-edition-kollektion-2014-a095818.html" class="price" data-product-id="A095818">339,00 €</a></div><div class="col-md-12 columns savings">
-
-                            (Alter Preis)                            &nbsp;bisher
-                            &nbsp;<del>499,90 €</del><br>
-                            Sie sparen
-                            <strong>160,90 €</strong></div></div><div class="row shipping">
-                                            Versandkostenfrei in DE!
-                                    </div></div></div></div></div><div class="list-product"><div><div class="row"><div class="image col-xs-4 col-sm-12"><a href="/unterwegs/kinderwagen/chicco-travel-system-trio-i-move-grey-a118073.html" data-product-id="A118073"><img class="image img-responsive lazy"
-                             src="/bundles/babymarktbabymarkttheme/images/loader.gif?20150429160749"
-                             data-original="//www.baby-markt.de/out/pictures/generated/product/1/200_200_80/n_a118073_001.jpg?20150429160749"></a></div><div class="col-xs-8 col-sm-12 infos"><div class="row rating"><div class="col-md-12 columns"><div class="stars"><em class="rated">&#x2605;</em><em class="rated">&#x2605;</em><em class="rated">&#x2605;</em><em class="rated">&#x2605;</em><em class="rated">&#x2605;</em><span>
-            (1)
-        </span></div></div></div><div class="row title"><div class="col-md-12 columns"><div><a href="/unterwegs/kinderwagen/chicco-travel-system-trio-i-move-grey-a118073.html" data-product-id="A118073">CHICCO Travel-System Trio I-Move GREY</a></div></div></div><div class="row stock"><div class="col-md-12 columns"><span class="product-stock-bullet bullet-green">Sofort lieferbar</span></div></div><div class="row"><div class="col-md-12 columns"><a href="/unterwegs/kinderwagen/chicco-travel-system-trio-i-move-grey-a118073.html" class="price" data-product-id="A118073">699,00 €</a></div></div><div class="row shipping">
-                                            Versandkostenfrei in DE!
-                                    </div></div></div></div></div></div></div></div><div class="action-container panel"><div class="visible-xs"><a class="mobile-slider-toggle action-title btn-primary btn-full btn collapsed"
-                   name="slider-2"
-                   data-toggle="collapse" data-target="#startpage-action-sliders-2"
-                   data-parent="#startpage-action-sliders">
-                    Bald ist Muttertag - Tolle Sommer Styles entdecken
-                    <span class="caret"></span></a></div><div class="hidden-xs"><div class="action-title">
-                    Bald ist Muttertag - Tolle Sommer Styles entdecken
-                </div></div><div id="startpage-action-sliders-2"
-                 class="slider-dropdown econdaClickMarker econdaBannerMarker collapse "
-                 data-econda-marker="DE/Home/Slider 2"><div class="products-container"><div class="list-product"><div><div class="row"><div class="image col-xs-4 col-sm-12"><a href="/mode/umstandsmode/still-bekleidung/boob-umstands-still-kleid-yoko-raspberry-a125277.html" data-product-id="A125277"><img class="image img-responsive lazy"
-                             src="/bundles/babymarktbabymarkttheme/images/loader.gif?20150429160749"
-                             data-original="//www.baby-markt.de/out/pictures/generated/product/1/200_200_80/n_a125277_001.jpg?20150429160749"></a></div><div class="col-xs-8 col-sm-12 infos"><div class="row rating"><div class="col-md-12 columns"></div></div><div class="row title"><div class="col-md-12 columns"><div><a href="/mode/umstandsmode/still-bekleidung/boob-umstands-still-kleid-yoko-raspberry-a125277.html" data-product-id="A125277">BOOB Umstands Still Kleid YOKO raspberry</a></div></div></div><div class="row stock"><div class="col-md-12 columns"><span class="product-stock-bullet bullet-green">Sofort lieferbar</span></div></div><div class="row"><div class="col-md-12 columns"><a href="/mode/umstandsmode/still-bekleidung/boob-umstands-still-kleid-yoko-raspberry-a125277.html" class="price" data-product-id="A125277">84,95 €</a></div></div><div class="row sizes"><div class="col-md-12"><div>In mehreren Größen verfügbar</div><a href="/mode/umstandsmode/still-bekleidung/boob-umstands-still-kleid-yoko-raspberry-a12527700000001.html" data-product-id="A125277">S</a><a href="/mode/umstandsmode/still-bekleidung/boob-umstands-still-kleid-yoko-raspberry-a12527700000002.html" data-product-id="A125277">M</a><a href="/mode/umstandsmode/still-bekleidung/boob-umstands-still-kleid-yoko-raspberry-a12527700000003.html" data-product-id="A125277">L</a><a href="/mode/umstandsmode/still-bekleidung/boob-umstands-still-kleid-yoko-raspberry-a12527700000004.html" data-product-id="A125277">XL</a></div></div><div class="row shipping">
-                                            Versandkostenfrei in DE!
-                                    </div></div></div></div></div><div class="list-product"><div><div class="row"><div class="image col-xs-4 col-sm-12"><a href="/mode/umstandsmode/shirts/mama-licious-umstands-shirt-flower-bright-white-a123097.html" data-product-id="A123097"><img class="image img-responsive lazy"
-                             src="/bundles/babymarktbabymarkttheme/images/loader.gif?20150429160749"
-                             data-original="//www.baby-markt.de/out/pictures/generated/product/1/200_200_80/n_a123097_001.jpg?20150429160749"></a></div><div class="col-xs-8 col-sm-12 infos"><div class="row rating"><div class="col-md-12 columns"></div></div><div class="row title"><div class="col-md-12 columns"><div><a href="/mode/umstandsmode/shirts/mama-licious-umstands-shirt-flower-bright-white-a123097.html" data-product-id="A123097">MAMA LICIOUS Umstands Shirt FLOWER bright white</a></div></div></div><div class="row stock"><div class="col-md-12 columns"><span class="product-stock-bullet bullet-green">Sofort lieferbar</span></div></div><div class="row"><div class="col-md-12 columns"><a href="/mode/umstandsmode/shirts/mama-licious-umstands-shirt-flower-bright-white-a123097.html" class="price" data-product-id="A123097">19,95 €</a></div></div><div class="row sizes"><div class="col-md-12"><div>In mehreren Größen verfügbar</div><a href="/mode/umstandsmode/shirts/mama-licious-umstands-shirt-flower-bright-white-a12309700000001.html" data-product-id="A123097">S</a><a href="/mode/umstandsmode/shirts/mama-licious-umstands-shirt-flower-bright-white-a12309700000002.html" data-product-id="A123097">M</a><a href="/mode/umstandsmode/shirts/mama-licious-umstands-shirt-flower-bright-white-a12309700000003.html" data-product-id="A123097">L</a></div></div><div class="row shipping">
-                                            ab 20 € versandkostenfrei
-                                    </div></div></div></div></div><div class="list-product"><div><div class="row"><div class="image col-xs-4 col-sm-12"><a href="/schwangerschaftsmode/mama-licious/hosen/mama-licious-umstands-capri-jeans-mlida-capri-medium-blue-denim-a126384.html" data-product-id="A126384"><img class="image img-responsive lazy"
-                             src="/bundles/babymarktbabymarkttheme/images/loader.gif?20150429160749"
-                             data-original="//www.baby-markt.de/out/pictures/generated/product/1/200_200_80/n_a126384_001_n.jpg?20150429160749"></a></div><div class="col-xs-8 col-sm-12 infos"><div class="row rating"><div class="col-md-12 columns"></div></div><div class="row title"><div class="col-md-12 columns"><div><a href="/schwangerschaftsmode/mama-licious/hosen/mama-licious-umstands-capri-jeans-mlida-capri-medium-blue-denim-a126384.html" data-product-id="A126384">MAMA LICIOUS Umstands Capri Jeans MLIDA CAPRI medium blue denim</a></div></div></div><div class="row stock"><div class="col-md-12 columns"><span class="product-stock-bullet bullet-green">Sofort lieferbar</span></div></div><div class="row"><div class="col-md-12 columns"><a href="/schwangerschaftsmode/mama-licious/hosen/mama-licious-umstands-capri-jeans-mlida-capri-medium-blue-denim-a126384.html" class="price" data-product-id="A126384">39,95 €</a></div></div><div class="row sizes"><div class="col-md-12"><div>In mehreren Größen verfügbar</div><a href="/schwangerschaftsmode/mama-licious/hosen/mama-licious-umstands-capri-jeans-mlida-capri-medium-blue-denim-a12638400000001.html" data-product-id="A126384">26</a><a href="/schwangerschaftsmode/mama-licious/hosen/mama-licious-umstands-capri-jeans-mlida-capri-medium-blue-denim-a12638400000002.html" data-product-id="A126384">27</a><a href="/schwangerschaftsmode/mama-licious/hosen/mama-licious-umstands-capri-jeans-mlida-capri-medium-blue-denim-a12638400000003.html" data-product-id="A126384">28</a><a href="/schwangerschaftsmode/mama-licious/hosen/mama-licious-umstands-capri-jeans-mlida-capri-medium-blue-denim-a12638400000004.html" data-product-id="A126384">29</a></div></div><div class="row shipping">
-                                            Versandkostenfrei in DE!
-                                    </div></div></div></div></div><div class="list-product"><div><div class="row"><div class="image col-xs-4 col-sm-12"><a href="/mode/umstandsmode/shirts/esprit-umstands-shirt-offwhite-a122726.html" data-product-id="A122726"><img class="image img-responsive lazy"
-                             src="/bundles/babymarktbabymarkttheme/images/loader.gif?20150429160749"
-                             data-original="//www.baby-markt.de/out/pictures/generated/product/1/200_200_80/n_a122726_001.jpg?20150429160749"></a></div><div class="col-xs-8 col-sm-12 infos"><div class="row rating"><div class="col-md-12 columns"></div></div><div class="row title"><div class="col-md-12 columns"><div><a href="/mode/umstandsmode/shirts/esprit-umstands-shirt-offwhite-a122726.html" data-product-id="A122726">ESPRIT Umstands Shirt offwhite</a></div></div></div><div class="row stock"><div class="col-md-12 columns"><span class="product-stock-bullet bullet-green">Sofort lieferbar</span></div></div><div class="row"><div class="col-md-12 columns"><a href="/mode/umstandsmode/shirts/esprit-umstands-shirt-offwhite-a122726.html" class="price" data-product-id="A122726">35,99 €</a></div></div><div class="row sizes"><div class="col-md-12"><div>In mehreren Größen verfügbar</div><a href="/mode/umstandsmode/shirts/esprit-umstands-shirt-offwhite-a12272600000002.html" data-product-id="A122726">S</a><a href="/mode/umstandsmode/shirts/esprit-umstands-shirt-offwhite-a12272600000003.html" data-product-id="A122726">M</a><a href="/mode/umstandsmode/shirts/esprit-umstands-shirt-offwhite-a12272600000004.html" data-product-id="A122726">L</a><a href="/mode/umstandsmode/shirts/esprit-umstands-shirt-offwhite-a12272600000005.html" data-product-id="A122726">XL</a><a href="/mode/umstandsmode/shirts/esprit-umstands-shirt-offwhite-a12272600000006.html" data-product-id="A122726">XXL</a></div></div><div class="row shipping">
-                                            Versandkostenfrei in DE!
-                                    </div></div></div></div></div><div class="list-product"><div><div class="row"><div class="image col-xs-4 col-sm-12"><a href="/mode/umstandsmode/shirts/mama-licious-umstands-shirt-mlaija-riviera-blue-a123111.html" data-product-id="A123111"><img class="image img-responsive lazy"
-                             src="/bundles/babymarktbabymarkttheme/images/loader.gif?20150429160749"
-                             data-original="//www.baby-markt.de/out/pictures/generated/product/1/200_200_80/n_a123111_001.jpg?20150429160749"></a></div><div class="col-xs-8 col-sm-12 infos"><div class="row rating"><div class="col-md-12 columns"></div></div><div class="row title"><div class="col-md-12 columns"><div><a href="/mode/umstandsmode/shirts/mama-licious-umstands-shirt-mlaija-riviera-blue-a123111.html" data-product-id="A123111">MAMA LICIOUS Umstands Shirt MLAIJA riviera blue</a></div></div></div><div class="row stock"><div class="col-md-12 columns"><span class="product-stock-bullet bullet-green">Sofort lieferbar</span></div></div><div class="row"><div class="col-md-12 columns"><a href="/mode/umstandsmode/shirts/mama-licious-umstands-shirt-mlaija-riviera-blue-a123111.html" class="price" data-product-id="A123111">24,95 €</a></div></div><div class="row sizes"><div class="col-md-12"><div>In mehreren Größen verfügbar</div><a href="/mode/umstandsmode/shirts/mama-licious-umstands-shirt-mlaija-riviera-blue-a12311100000001.html" data-product-id="A123111">S</a><a href="/mode/umstandsmode/shirts/mama-licious-umstands-shirt-mlaija-riviera-blue-a12311100000002.html" data-product-id="A123111">M</a><a href="/mode/umstandsmode/shirts/mama-licious-umstands-shirt-mlaija-riviera-blue-a12311100000003.html" data-product-id="A123111">L</a><a href="/mode/umstandsmode/shirts/mama-licious-umstands-shirt-mlaija-riviera-blue-a12311100000004.html" data-product-id="A123111">XL</a></div></div><div class="row shipping">
-                                            Versandkostenfrei in DE!
-                                    </div></div></div></div></div><div class="list-product"><div><div class="row"><div class="image col-xs-4 col-sm-12"><a href="/schwangerschaftsmode/esprit-maternity/kleider-roecke/esprit-umstands-rock-medium-brown-a122691.html" data-product-id="A122691"><img class="image img-responsive lazy"
-                             src="/bundles/babymarktbabymarkttheme/images/loader.gif?20150429160749"
-                             data-original="//www.baby-markt.de/out/pictures/generated/product/1/200_200_80/n_a122691_001.jpg?20150429160749"></a></div><div class="col-xs-8 col-sm-12 infos"><div class="row rating"><div class="col-md-12 columns"></div></div><div class="row title"><div class="col-md-12 columns"><div><a href="/schwangerschaftsmode/esprit-maternity/kleider-roecke/esprit-umstands-rock-medium-brown-a122691.html" data-product-id="A122691">ESPRIT Umstands Rock medium brown</a></div></div></div><div class="row stock"><div class="col-md-12 columns"><span class="product-stock-bullet bullet-green">Sofort lieferbar</span></div></div><div class="row"><div class="col-md-12 columns"><a href="/schwangerschaftsmode/esprit-maternity/kleider-roecke/esprit-umstands-rock-medium-brown-a122691.html" class="price" data-product-id="A122691">49,99 €</a></div></div><div class="row sizes"><div class="col-md-12"><div>In mehreren Größen verfügbar</div><a href="/schwangerschaftsmode/esprit-maternity/kleider-roecke/esprit-umstands-rock-medium-brown-a12269100000002.html" data-product-id="A122691">S</a><a href="/schwangerschaftsmode/esprit-maternity/kleider-roecke/esprit-umstands-rock-medium-brown-a12269100000003.html" data-product-id="A122691">M</a><a href="/schwangerschaftsmode/esprit-maternity/kleider-roecke/esprit-umstands-rock-medium-brown-a12269100000004.html" data-product-id="A122691">L</a><a href="/schwangerschaftsmode/esprit-maternity/kleider-roecke/esprit-umstands-rock-medium-brown-a12269100000005.html" data-product-id="A122691">XL</a><a href="/schwangerschaftsmode/esprit-maternity/kleider-roecke/esprit-umstands-rock-medium-brown-a12269100000006.html" data-product-id="A122691">XXL</a></div></div><div class="row shipping">
-                                            Versandkostenfrei in DE!
-                                    </div></div></div></div></div><div class="list-product"><div><div class="row"><div class="image col-xs-4 col-sm-12"><a href="/markenhersteller/bellybutton/umstands-oberbekleidung/bellybutton-umstands-shirt-dalia-peacoat-melange-a116929.html" data-product-id="A116929"><img class="image img-responsive lazy"
-                             src="/bundles/babymarktbabymarkttheme/images/loader.gif?20150429160749"
-                             data-original="//www.baby-markt.de/out/pictures/generated/product/1/200_200_80/n_a116929_001.jpg?20150429160749"></a></div><div class="col-xs-8 col-sm-12 infos"><div class="row rating"><div class="col-md-12 columns"></div></div><div class="row title"><div class="col-md-12 columns"><div><a href="/markenhersteller/bellybutton/umstands-oberbekleidung/bellybutton-umstands-shirt-dalia-peacoat-melange-a116929.html" data-product-id="A116929">BELLYBUTTON Umstands Shirt DALIA peacoat melange</a></div></div></div><div class="row stock"><div class="col-md-12 columns"><span class="product-stock-bullet bullet-green">Sofort lieferbar</span></div></div><div class="row"><div class="col-md-12 columns"><a href="/markenhersteller/bellybutton/umstands-oberbekleidung/bellybutton-umstands-shirt-dalia-peacoat-melange-a116929.html" class="price" data-product-id="A116929">34,90 €</a></div></div><div class="row sizes"><div class="col-md-12"><div>In mehreren Größen verfügbar</div><a href="/markenhersteller/bellybutton/umstands-oberbekleidung/bellybutton-umstands-shirt-dalia-peacoat-melange-a11692900000001.html" data-product-id="A116929">S</a><a href="/markenhersteller/bellybutton/umstands-oberbekleidung/bellybutton-umstands-shirt-dalia-peacoat-melange-a11692900000002.html" data-product-id="A116929">M</a><a href="/markenhersteller/bellybutton/umstands-oberbekleidung/bellybutton-umstands-shirt-dalia-peacoat-melange-a11692900000003.html" data-product-id="A116929">L</a><a href="/markenhersteller/bellybutton/umstands-oberbekleidung/bellybutton-umstands-shirt-dalia-peacoat-melange-a11692900000004.html" data-product-id="A116929">XL</a></div></div><div class="row shipping">
-                                            Versandkostenfrei in DE!
-                                    </div></div></div></div></div><div class="list-product"><div><div class="row"><div class="image col-xs-4 col-sm-12"><a href="/mode/umstandsmode/kleider-roecke/mama-licious-umstands-kleid-willa-riviera-a122998.html" data-product-id="A122998"><img class="image img-responsive lazy"
-                             src="/bundles/babymarktbabymarkttheme/images/loader.gif?20150429160749"
-                             data-original="//www.baby-markt.de/out/pictures/generated/product/1/200_200_80/n_a122998_001.jpg?20150429160749"></a></div><div class="col-xs-8 col-sm-12 infos"><div class="row rating"><div class="col-md-12 columns"></div></div><div class="row title"><div class="col-md-12 columns"><div><a href="/mode/umstandsmode/kleider-roecke/mama-licious-umstands-kleid-willa-riviera-a122998.html" data-product-id="A122998">MAMA LICIOUS Umstands Kleid WILLA riviera</a></div></div></div><div class="row stock"><div class="col-md-12 columns"><span class="product-stock-bullet bullet-green">Sofort lieferbar</span></div></div><div class="row"><div class="col-md-12 columns"><a href="/mode/umstandsmode/kleider-roecke/mama-licious-umstands-kleid-willa-riviera-a122998.html" class="price" data-product-id="A122998">49,95 €</a></div></div><div class="row sizes"><div class="col-md-12"><div>In mehreren Größen verfügbar</div><a href="/mode/umstandsmode/kleider-roecke/mama-licious-umstands-kleid-willa-riviera-a12299800000001.html" data-product-id="A122998">S</a><a href="/mode/umstandsmode/kleider-roecke/mama-licious-umstands-kleid-willa-riviera-a12299800000002.html" data-product-id="A122998">M</a><a href="/mode/umstandsmode/kleider-roecke/mama-licious-umstands-kleid-willa-riviera-a12299800000003.html" data-product-id="A122998">L</a><a href="/mode/umstandsmode/kleider-roecke/mama-licious-umstands-kleid-willa-riviera-a12299800000004.html" data-product-id="A122998">XL</a></div></div><div class="row shipping">
-                                            Versandkostenfrei in DE!
-                                    </div></div></div></div></div></div></div></div><div class="action-container panel"><div class="visible-xs"><a class="mobile-slider-toggle action-title btn-primary btn-full btn collapsed"
-                   name="slider-3"
-                   data-toggle="collapse" data-target="#startpage-action-sliders-3"
-                   data-parent="#startpage-action-sliders">
-                    Unser Service für Sie: Das Kindersitz-Sicherheitsversprechen
-                    <span class="caret"></span></a></div><div class="hidden-xs"><div class="action-title">
-                    Unser Service für Sie: Das Kindersitz-Sicherheitsversprechen
-                </div></div><div id="startpage-action-sliders-3"
-                 class="slider-dropdown econdaClickMarker econdaBannerMarker collapse "
-                 data-econda-marker="DE/Home/Slider 3"><div class="products-container"><div class="list-product"><div><div class="row"><div class="image col-xs-4 col-sm-12"><a href="/autositze/kindersitz-0-bis-13-kg/cybex-gold-babyschale-aton-4-hawaii-green-a113932.html" data-product-id="A113932"><img class="image img-responsive lazy"
-                             src="/bundles/babymarktbabymarkttheme/images/loader.gif?20150429160749"
-                             data-original="//www.baby-markt.de/out/pictures/generated/product/1/200_200_80/n_a113932_001s.jpg?20150429160749"></a><div class="saving-sticker sprite-saving-sticker">
+                             data-original="//www.baby-markt.de/out/pictures/generated/product/1/200_200_80/n_a113939_001s.jpg?20150429160749"></a><div class="saving-sticker sprite-saving-sticker">
         -7%
-    </div></div><div class="col-xs-8 col-sm-12 infos"><div class="row rating"><div class="col-md-12 columns"></div></div><div class="row title"><div class="col-md-12 columns"><div><a href="/autositze/kindersitz-0-bis-13-kg/cybex-gold-babyschale-aton-4-hawaii-green-a113932.html" data-product-id="A113932">CYBEX GOLD Babyschale Aton 4 Hawaii-green</a></div></div></div><div class="row stock"><div class="col-md-12 columns"><span class="product-stock-bullet bullet-green">Sofort lieferbar</span></div></div><div class="row"><div class="col-md-12 columns"><a href="/autositze/kindersitz-0-bis-13-kg/cybex-gold-babyschale-aton-4-hawaii-green-a113932.html" class="price" data-product-id="A113932">139,90 €</a></div><div class="col-md-12 columns savings">
+    </div></div><div class="col-xs-8 col-sm-12 infos"><div class="row rating"><div class="col-md-12 columns"></div></div><div class="row title"><div class="col-md-12 columns"><div><a href="/autositze/kindersitz-0-bis-13-kg/cybex-gold-babyschale-aton-4-moon-dust-dark-grey-a113939.html" data-product-id="A113939">CYBEX GOLD Babyschale Aton 4 Moon Dust-dark grey</a></div></div></div><div class="row stock"><div class="col-md-12 columns"><span class="product-stock-bullet bullet-green">Sofort lieferbar</span></div></div><div class="row"><div class="col-md-12 columns"><a href="/autositze/kindersitz-0-bis-13-kg/cybex-gold-babyschale-aton-4-moon-dust-dark-grey-a113939.html" class="price" data-product-id="A113939">139,90 €</a></div><div class="col-md-12 columns savings">
 
                             UVP<span style="color: black; font-weight: bold;">¹</span>                            &nbsp;bisher
                             &nbsp;<del>149,95 €</del><br>
                             Sie sparen
                             <strong>10,05 €</strong></div></div><div class="row shipping">
                                             Versandkostenfrei in DE!
-                                    </div></div></div></div></div><div class="list-product"><div><div class="row"><div class="image col-xs-4 col-sm-12"><a href="/autositze/kindersitz-15-bis-36-kg/britax-roemer-kinderautositz-kidfix-sl-sict-crown-blue-a085829.html" data-product-id="A085829"><img class="image img-responsive lazy"
+                                    </div></div></div></div></div><div class="list-product"><div><div class="row"><div class="image col-xs-4 col-sm-12"><a href="/autositze/kindersitz-0-bis-13-kg/abc-design-autositz-risus-0+-desert-kollektion-2015-a109300.html" data-product-id="A109300"><img class="image img-responsive lazy"
                              src="/bundles/babymarktbabymarkttheme/images/loader.gif?20150429160749"
-                             data-original="//www.baby-markt.de/out/pictures/generated/product/1/200_200_80/n_a085829_001_n.jpg?20150429160749"></a><div class="saving-sticker sprite-saving-sticker">
-        -30%
-    </div></div><div class="col-xs-8 col-sm-12 infos"><div class="row rating"><div class="col-md-12 columns"><div class="stars"><em class="rated">&#x2605;</em><em class="rated">&#x2605;</em><em class="rated">&#x2605;</em><em class="rated">&#x2605;</em><em >&#x2605;</em><span>
-            (4)
-        </span></div></div></div><div class="row title"><div class="col-md-12 columns"><div><a href="/autositze/kindersitz-15-bis-36-kg/britax-roemer-kinderautositz-kidfix-sl-sict-crown-blue-a085829.html" data-product-id="A085829">BRITAX RÖMER Kinderautositz Kidfix SL SICT Crown Blue</a></div></div></div><div class="row stock"><div class="col-md-12 columns"><span class="product-stock-bullet bullet-green">Sofort lieferbar</span></div></div><div class="row"><div class="col-md-12 columns"><a href="/autositze/kindersitz-15-bis-36-kg/britax-roemer-kinderautositz-kidfix-sl-sict-crown-blue-a085829.html" class="price" data-product-id="A085829">139,99 €</a></div><div class="col-md-12 columns savings">
+                             data-original="//www.baby-markt.de/out/pictures/generated/product/1/200_200_80/n_a109300_001.jpg?20150429160749"></a><div class="saving-sticker sprite-saving-sticker">
+        -17%
+    </div></div><div class="col-xs-8 col-sm-12 infos"><div class="row rating"><div class="col-md-12 columns"></div></div><div class="row title"><div class="col-md-12 columns"><div><a href="/autositze/kindersitz-0-bis-13-kg/abc-design-autositz-risus-0+-desert-kollektion-2015-a109300.html" data-product-id="A109300">ABC DESIGN Autositz Risus 0+ desert Kollektion 2015</a></div></div></div><div class="row stock"><div class="col-md-12 columns"><span class="product-stock-bullet bullet-green">Sofort lieferbar</span></div></div><div class="row"><div class="col-md-12 columns"><a href="/autositze/kindersitz-0-bis-13-kg/abc-design-autositz-risus-0+-desert-kollektion-2015-a109300.html" class="price" data-product-id="A109300">99,90 €</a></div><div class="col-md-12 columns savings">
 
                             UVP<span style="color: black; font-weight: bold;">¹</span>                            &nbsp;bisher
-                            &nbsp;<del>199,90 €</del><br>
+                            &nbsp;<del>119,90 €</del><br>
                             Sie sparen
-                            <strong>59,91 €</strong></div></div><div class="row shipping">
+                            <strong>20,00 €</strong></div></div><div class="row shipping">
                                             Versandkostenfrei in DE!
-                                    </div></div></div></div></div><div class="list-product"><div><div class="row"><div class="image col-xs-4 col-sm-12"><a href="/autositze/kindersitz-15-bis-36-kg/cybex-silver-kinderautositz-solution-x-fix-pure-black-black-a038749.html" data-product-id="A038749"><img class="image img-responsive lazy"
+                                    </div></div></div></div></div><div class="list-product"><div><div class="row"><div class="image col-xs-4 col-sm-12"><a href="/autositze/kindersitz-0-bis-13-kg/peg-perego-primo-viaggio-sl-ardesia-universal-autokindersitz-gr-0+-a087248.html" data-product-id="A087248"><img class="image img-responsive lazy"
                              src="/bundles/babymarktbabymarkttheme/images/loader.gif?20150429160749"
-                             data-original="//www.baby-markt.de/out/pictures/generated/product/1/200_200_80/n_a038749_001_n.jpg?20150429160749"></a><div class="saving-sticker sprite-saving-sticker">
-        -32%
-    </div></div><div class="col-xs-8 col-sm-12 infos"><div class="row rating"><div class="col-md-12 columns"><div class="stars"><em class="rated">&#x2605;</em><em class="rated">&#x2605;</em><em class="rated">&#x2605;</em><em class="rated">&#x2605;</em><em class="rated">&#x2605;</em><span>
-            (118)
-        </span></div></div></div><div class="row title"><div class="col-md-12 columns"><div><a href="/autositze/kindersitz-15-bis-36-kg/cybex-silver-kinderautositz-solution-x-fix-pure-black-black-a038749.html" data-product-id="A038749">CYBEX SILVER Kinderautositz Solution X-fix Pure Black-Black</a></div></div></div><div class="row stock"><div class="col-md-12 columns"><span class="product-stock-bullet bullet-green">Sofort lieferbar</span></div></div><div class="row"><div class="col-md-12 columns"><a href="/autositze/kindersitz-15-bis-36-kg/cybex-silver-kinderautositz-solution-x-fix-pure-black-black-a038749.html" class="price" data-product-id="A038749">114,95 €</a></div><div class="col-md-12 columns savings">
+                             data-original="//www.baby-markt.de/out/pictures/generated/product/1/200_200_80/n_a087248_001.jpg?20150429160749"></a><div class="saving-sticker sprite-saving-sticker">
+        -10%
+    </div></div><div class="col-xs-8 col-sm-12 infos"><div class="row rating"><div class="col-md-12 columns"></div></div><div class="row title"><div class="col-md-12 columns"><div><a href="/autositze/kindersitz-0-bis-13-kg/peg-perego-primo-viaggio-sl-ardesia-universal-autokindersitz-gr-0+-a087248.html" data-product-id="A087248">PEG-PEREGO Primo Viaggio SL Ardesia Universal Autokindersitz Gr. 0+</a></div></div></div><div class="row stock"><div class="col-md-12 columns"><span class="product-stock-bullet bullet-green">Sofort lieferbar</span></div></div><div class="row"><div class="col-md-12 columns"><a href="/autositze/kindersitz-0-bis-13-kg/peg-perego-primo-viaggio-sl-ardesia-universal-autokindersitz-gr-0+-a087248.html" class="price" data-product-id="A087248">169,99 €</a></div><div class="col-md-12 columns savings">
 
                             UVP<span style="color: black; font-weight: bold;">¹</span>                            &nbsp;bisher
-                            &nbsp;<del>169,95 €</del><br>
+                            &nbsp;<del>189,00 €</del><br>
                             Sie sparen
-                            <strong>55,00 €</strong></div></div><div class="row shipping">
+                            <strong>19,01 €</strong></div></div><div class="row shipping">
                                             Versandkostenfrei in DE!
-                                    </div></div></div></div></div><div class="list-product"><div><div class="row"><div class="image col-xs-4 col-sm-12"><a href="/autositze/kindersitz-0-bis-13-kg/maxi-cosi-kinderautositz-milofix-black-raven-a114263.html" data-product-id="A114263"><img class="image img-responsive lazy"
+                                    </div></div></div></div></div><div class="list-product"><div><div class="row"><div class="image col-xs-4 col-sm-12"><a href="/autositze/kindersitz-0-bis-13-kg/maxi-cosi-babyschale-cabriofix-earth-brown-a114117.html" data-product-id="A114117"><img class="image img-responsive lazy"
                              src="/bundles/babymarktbabymarkttheme/images/loader.gif?20150429160749"
-                             data-original="//www.baby-markt.de/out/pictures/generated/product/1/200_200_80/n_a114263_001s.jpg?20150429160749"></a><div class="saving-sticker sprite-saving-sticker">
-        -22%
-    </div></div><div class="col-xs-8 col-sm-12 infos"><div class="row rating"><div class="col-md-12 columns"><div class="stars"><em class="rated">&#x2605;</em><em class="rated">&#x2605;</em><em class="rated">&#x2605;</em><em class="rated">&#x2605;</em><em class="rated">&#x2605;</em><span>
-            (2)
-        </span></div></div></div><div class="row title"><div class="col-md-12 columns"><div><a href="/autositze/kindersitz-0-bis-13-kg/maxi-cosi-kinderautositz-milofix-black-raven-a114263.html" data-product-id="A114263">MAXI-COSI Kinderautositz MiloFix Black raven</a></div></div></div><div class="row stock"><div class="col-md-12 columns"><span class="product-stock-bullet bullet-green">Sofort lieferbar</span></div></div><div class="row"><div class="col-md-12 columns"><a href="/autositze/kindersitz-0-bis-13-kg/maxi-cosi-kinderautositz-milofix-black-raven-a114263.html" class="price" data-product-id="A114263">249,90 €</a></div><div class="col-md-12 columns savings">
+                             data-original="//www.baby-markt.de/out/pictures/generated/product/1/200_200_80/n_a114117_001s.jpg?20150429160749"></a><div class="saving-sticker sprite-saving-sticker">
+        -40%
+    </div></div><div class="col-xs-8 col-sm-12 infos"><div class="row rating"><div class="col-md-12 columns"></div></div><div class="row title"><div class="col-md-12 columns"><div><a href="/autositze/kindersitz-0-bis-13-kg/maxi-cosi-babyschale-cabriofix-earth-brown-a114117.html" data-product-id="A114117">MAXI-COSI Babyschale CabrioFix Earth brown</a></div></div></div><div class="row stock"><div class="col-md-12 columns"><span class="product-stock-bullet bullet-green">Sofort lieferbar</span></div></div><div class="row"><div class="col-md-12 columns"><a href="/autositze/kindersitz-0-bis-13-kg/maxi-cosi-babyschale-cabriofix-earth-brown-a114117.html" class="price" data-product-id="A114117">149,90 €</a></div><div class="col-md-12 columns savings">
 
                             UVP<span style="color: black; font-weight: bold;">¹</span>                            &nbsp;bisher
-                            &nbsp;<del>319,90 €</del><br>
+                            &nbsp;<del>249,90 €</del><br>
                             Sie sparen
-                            <strong>70,00 €</strong></div></div><div class="row shipping">
+                            <strong>100,00 €</strong></div></div><div class="row shipping">
                                             Versandkostenfrei in DE!
-                                    </div></div></div></div></div><div class="list-product"><div><div class="row"><div class="image col-xs-4 col-sm-12"><a href="/autositze/kindersitz-9-bis-36-kg/britax-kinderautositz-evolva-1-2-3-black-thunder-a077088.html" data-product-id="A077088"><img class="image img-responsive lazy"
+                                    </div></div></div></div></div><div class="list-product"><div><div class="row"><div class="image col-xs-4 col-sm-12"><a href="/autositze/kindersitz-0-bis-13-kg/britax-roemer-babyschale-baby-safe-plus-blue-sky-a085527.html" data-product-id="A085527"><img class="image img-responsive lazy"
                              src="/bundles/babymarktbabymarkttheme/images/loader.gif?20150429160749"
-                             data-original="//www.baby-markt.de/out/pictures/generated/product/1/200_200_80/a077088_001s.jpg?20150429160749"></a><div class="saving-sticker sprite-saving-sticker">
-        -36%
-    </div></div><div class="col-xs-8 col-sm-12 infos"><div class="row rating"><div class="col-md-12 columns"><div class="stars"><em class="rated">&#x2605;</em><em class="rated">&#x2605;</em><em class="rated">&#x2605;</em><em class="rated">&#x2605;</em><em class="rated">&#x2605;</em><span>
-            (242)
-        </span></div></div></div><div class="row title"><div class="col-md-12 columns"><div><a href="/autositze/kindersitz-9-bis-36-kg/britax-kinderautositz-evolva-1-2-3-black-thunder-a077088.html" data-product-id="A077088">BRITAX Kinderautositz Evolva 1-2-3 Black Thunder</a></div></div></div><div class="row stock"><div class="col-md-12 columns"><span class="product-stock-bullet bullet-green">Sofort lieferbar</span></div></div><div class="row"><div class="col-md-12 columns"><a href="/autositze/kindersitz-9-bis-36-kg/britax-kinderautositz-evolva-1-2-3-black-thunder-a077088.html" class="price" data-product-id="A077088">119,00 €</a></div><div class="col-md-12 columns savings">
+                             data-original="//www.baby-markt.de/out/pictures/generated/product/1/200_200_80/n_a085527_001_n.jpg?20150429160749"></a><div class="saving-sticker sprite-saving-sticker">
+        -7%
+    </div></div><div class="col-xs-8 col-sm-12 infos"><div class="row rating"><div class="col-md-12 columns"></div></div><div class="row title"><div class="col-md-12 columns"><div><a href="/autositze/kindersitz-0-bis-13-kg/britax-roemer-babyschale-baby-safe-plus-blue-sky-a085527.html" data-product-id="A085527">BRITAX RÖMER Babyschale Baby-Safe plus Blue Sky</a></div></div></div><div class="row stock"><div class="col-md-12 columns"><span class="product-stock-bullet bullet-green">Sofort lieferbar</span></div></div><div class="row"><div class="col-md-12 columns"><a href="/autositze/kindersitz-0-bis-13-kg/britax-roemer-babyschale-baby-safe-plus-blue-sky-a085527.html" class="price" data-product-id="A085527">139,90 €</a></div><div class="col-md-12 columns savings">
 
                             (Alter Preis)                            &nbsp;bisher
-                            &nbsp;<del>185,00 €</del><br>
+                            &nbsp;<del>149,90 €</del><br>
                             Sie sparen
-                            <strong>66,00 €</strong></div></div><div class="row shipping">
+                            <strong>10,00 €</strong></div></div><div class="row shipping">
                                             Versandkostenfrei in DE!
-                                    </div></div></div></div></div><div class="list-product"><div><div class="row"><div class="image col-xs-4 col-sm-12"><a href="/markenhersteller/chicco/autositze/chicco-autositz-oasys-isofix-gr-1-black-a125648.html" data-product-id="A125648"><img class="image img-responsive lazy"
+                                    </div></div></div></div></div><div class="list-product"><div><div class="row"><div class="image col-xs-4 col-sm-12"><a href="/autositze/kindersitz-0-bis-13-kg/maxi-cosi-babyschale-pebble-raspberry-red-a083634.html" data-product-id="A083634"><img class="image img-responsive lazy"
+                             src="/bundles/babymarktbabymarkttheme/images/loader.gif?20150429160749"
+                             data-original="//www.baby-markt.de/out/pictures/generated/product/1/200_200_80/n_a083634_001n.jpg?20150429160749"></a><div class="saving-sticker sprite-saving-sticker">
+        -41%
+    </div></div><div class="col-xs-8 col-sm-12 infos"><div class="row rating"><div class="col-md-12 columns"><div class="stars"><em class="rated">&#x2605;</em><em class="rated">&#x2605;</em><em class="rated">&#x2605;</em><em class="rated">&#x2605;</em><em class="rated">&#x2605;</em><span>
+            (2)
+        </span></div></div></div><div class="row title"><div class="col-md-12 columns"><div><a href="/autositze/kindersitz-0-bis-13-kg/maxi-cosi-babyschale-pebble-raspberry-red-a083634.html" data-product-id="A083634">MAXI-COSI Babyschale Pebble Raspberry red</a></div></div></div><div class="row stock"><div class="col-md-12 columns"><span class="product-stock-bullet bullet-green">Sofort lieferbar</span></div></div><div class="row"><div class="col-md-12 columns"><a href="/autositze/kindersitz-0-bis-13-kg/maxi-cosi-babyschale-pebble-raspberry-red-a083634.html" class="price" data-product-id="A083634">163,99 €</a></div><div class="col-md-12 columns savings">
+
+                            UVP<span style="color: black; font-weight: bold;">¹</span>                            &nbsp;bisher
+                            &nbsp;<del>279,90 €</del><br>
+                            Sie sparen
+                            <strong>115,91 €</strong></div></div><div class="row shipping">
+                                            Versandkostenfrei in DE!
+                                    </div></div></div></div></div><div class="list-product"><div><div class="row"><div class="image col-xs-4 col-sm-12"><a href="/autositze/kindersitz-0-bis-13-kg/nania-babyschale-beone-sp-melbourne-black-a129054.html" data-product-id="A129054"><img class="image img-responsive lazy"
+                             src="/bundles/babymarktbabymarkttheme/images/loader.gif?20150429160749"
+                             data-original="//www.baby-markt.de/out/pictures/generated/product/1/200_200_80/n_a129054_001s.jpg?20150429160749"></a><div class="saving-sticker sprite-saving-sticker">
+        -29%
+    </div></div><div class="col-xs-8 col-sm-12 infos"><div class="row rating"><div class="col-md-12 columns"><div class="stars"><em class="rated">&#x2605;</em><em class="rated">&#x2605;</em><em class="rated">&#x2605;</em><em class="rated">&#x2605;</em><em >&#x2605;</em><span>
+            (1)
+        </span></div></div></div><div class="row title"><div class="col-md-12 columns"><div><a href="/autositze/kindersitz-0-bis-13-kg/nania-babyschale-beone-sp-melbourne-black-a129054.html" data-product-id="A129054">NANIA Babyschale BeOne SP Melbourne Black</a></div></div></div><div class="row stock"><div class="col-md-12 columns"><span class="product-stock-bullet bullet-green">Sofort lieferbar</span></div></div><div class="row"><div class="col-md-12 columns"><a href="/autositze/kindersitz-0-bis-13-kg/nania-babyschale-beone-sp-melbourne-black-a129054.html" class="price" data-product-id="A129054">49,90 €</a></div><div class="col-md-12 columns savings">
+
+                            UVP<span style="color: black; font-weight: bold;">¹</span>                            &nbsp;bisher
+                            &nbsp;<del>69,90 €</del><br>
+                            Sie sparen
+                            <strong>20,00 €</strong></div></div><div class="row shipping">
+                                            Versandkostenfrei in DE!
+                                    </div></div></div></div></div></div></div></div><div class="action-container panel"><div class="visible-xs"><a class="mobile-slider-toggle action-title btn-primary btn-full btn collapsed"
+                   name="slider-2"
+                   data-toggle="collapse" data-target="#category-action-sliders-2"
+                   data-parent="#category-action-sliders">
+                    Gruppe 1 (9 - 18 kg) - Reisen erster Klasse
+                    <span class="caret"></span></a></div><div class="hidden-xs"><div class="action-title">
+                    Gruppe 1 (9 - 18 kg) - Reisen erster Klasse
+                </div></div><div id="category-action-sliders-2"
+                 class="slider-dropdown econdaClickMarker econdaBannerMarker collapse "
+                 data-econda-marker="DE/Home/Slider 2"><div class="products-container"><div class="list-product"><div><div class="row"><div class="image col-xs-4 col-sm-12"><a href="/markenhersteller/chicco/autositze/chicco-autositz-oasys-isofix-gr-1-black-a125648.html" data-product-id="A125648"><img class="image img-responsive lazy"
                              src="/bundles/babymarktbabymarkttheme/images/loader.gif?20150429160749"
                              data-original="//www.baby-markt.de/out/pictures/generated/product/1/200_200_80/n_a125648_001.jpg?20150429160749"></a><div class="saving-sticker sprite-saving-sticker">
         -5%
@@ -1054,196 +882,148 @@ Pampers Markenshop</div><div class="boxContent"><a href="/markenshop-pampers/" n
                             Sie sparen
                             <strong>10,09 €</strong></div></div><div class="row shipping">
                                             Versandkostenfrei in DE!
-                                    </div></div></div></div></div><div class="list-product"><div><div class="row"><div class="image col-xs-4 col-sm-12"><a href="/autositze/kindersitz-9-bis-36-kg/kiddy-kinderautositz-guardian-pro-2-ocean-a091309.html" data-product-id="A091309"><img class="image img-responsive lazy"
+                                    </div></div></div></div></div><div class="list-product"><div><div class="row"><div class="image col-xs-4 col-sm-12"><a href="/autositze/kindersitz-9-bis-18-kg/recaro-autositz-young-expert-graphite-a090855.html" data-product-id="A090855"><img class="image img-responsive lazy"
                              src="/bundles/babymarktbabymarkttheme/images/loader.gif?20150429160749"
-                             data-original="//www.baby-markt.de/out/pictures/generated/product/1/200_200_80/n_a091309_001_n.jpg?20150429160749"></a></div><div class="col-xs-8 col-sm-12 infos"><div class="row rating"><div class="col-md-12 columns"></div></div><div class="row title"><div class="col-md-12 columns"><div><a href="/autositze/kindersitz-9-bis-36-kg/kiddy-kinderautositz-guardian-pro-2-ocean-a091309.html" data-product-id="A091309">KIDDY Kinderautositz Guardian Pro 2 Ocean</a></div></div></div><div class="row stock"><div class="col-md-12 columns"><span class="product-stock-bullet bullet-green">Sofort lieferbar</span></div></div><div class="row"><div class="col-md-12 columns"><a href="/autositze/kindersitz-9-bis-36-kg/kiddy-kinderautositz-guardian-pro-2-ocean-a091309.html" class="price" data-product-id="A091309">239,00 €</a></div></div><div class="row shipping">
-                                            Versandkostenfrei in DE!
-                                    </div></div></div></div></div><div class="list-product"><div><div class="row"><div class="image col-xs-4 col-sm-12"><a href="/autositze/kindersitz-9-bis-36-kg/cybex-silver-kinderautositz-pallas-pure-black-black-a038825.html" data-product-id="A038825"><img class="image img-responsive lazy"
-                             src="/bundles/babymarktbabymarkttheme/images/loader.gif?20150429160749"
-                             data-original="//www.baby-markt.de/out/pictures/generated/product/1/200_200_80/n_a038825_001_n.jpg?20150429160749"></a><div class="saving-sticker sprite-saving-sticker">
-        -26%
-    </div></div><div class="col-xs-8 col-sm-12 infos"><div class="row rating"><div class="col-md-12 columns"><div class="stars"><em class="rated">&#x2605;</em><em class="rated">&#x2605;</em><em class="rated">&#x2605;</em><em class="rated">&#x2605;</em><em class="rated">&#x2605;</em><span>
-            (62)
-        </span></div></div></div><div class="row title"><div class="col-md-12 columns"><div><a href="/autositze/kindersitz-9-bis-36-kg/cybex-silver-kinderautositz-pallas-pure-black-black-a038825.html" data-product-id="A038825">CYBEX SILVER Kinderautositz Pallas Pure Black-Black</a></div></div></div><div class="row stock"><div class="col-md-12 columns"><span class="product-stock-bullet bullet-green">Sofort lieferbar</span></div></div><div class="row"><div class="col-md-12 columns"><a href="/autositze/kindersitz-9-bis-36-kg/cybex-silver-kinderautositz-pallas-pure-black-black-a038825.html" class="price" data-product-id="A038825">154,98 €</a></div><div class="col-md-12 columns savings">
+                             data-original="//www.baby-markt.de/out/pictures/generated/product/1/200_200_80/n_a090855_001n.jpg?20150429160749"></a><div class="saving-sticker sprite-saving-sticker">
+        -25%
+    </div></div><div class="col-xs-8 col-sm-12 infos"><div class="row rating"><div class="col-md-12 columns"></div></div><div class="row title"><div class="col-md-12 columns"><div><a href="/autositze/kindersitz-9-bis-18-kg/recaro-autositz-young-expert-graphite-a090855.html" data-product-id="A090855">RECARO Autositz Young Expert Graphite</a></div></div></div><div class="row stock"><div class="col-md-12 columns"><span class="product-stock-bullet bullet-green">Sofort lieferbar</span></div></div><div class="row"><div class="col-md-12 columns"><a href="/autositze/kindersitz-9-bis-18-kg/recaro-autositz-young-expert-graphite-a090855.html" class="price" data-product-id="A090855">149,00 €</a></div><div class="col-md-12 columns savings">
 
                             UVP<span style="color: black; font-weight: bold;">¹</span>                            &nbsp;bisher
-                            &nbsp;<del>209,95 €</del><br>
+                            &nbsp;<del>199,95 €</del><br>
                             Sie sparen
-                            <strong>54,97 €</strong></div></div><div class="row shipping">
+                            <strong>50,95 €</strong></div></div><div class="row shipping">
                                             Versandkostenfrei in DE!
-                                    </div></div></div></div></div><div class="list-product"><div><div class="row"><div class="image col-xs-4 col-sm-12"><a href="/autositze/kindersitz-9-bis-18-kg/britax-roemer-kinderautositz-king-ii-ls-taupe-grey-a085906.html" data-product-id="A085906"><img class="image img-responsive lazy"
+                                    </div></div></div></div></div><div class="list-product"><div><div class="row"><div class="image col-xs-4 col-sm-12"><a href="/autositze/kindersitz-9-bis-18-kg/jane-kinderautositz-exo-lite-flame-a090107.html" data-product-id="A090107"><img class="image img-responsive lazy"
                              src="/bundles/babymarktbabymarkttheme/images/loader.gif?20150429160749"
-                             data-original="//www.baby-markt.de/out/pictures/generated/product/1/200_200_80/n_a085906_001_n.jpg?20150429160749"></a><div class="saving-sticker sprite-saving-sticker">
+                             data-original="//www.baby-markt.de/out/pictures/generated/product/1/200_200_80/n_a090107_001_n.jpg?20150429160749"></a><div class="saving-sticker sprite-saving-sticker">
+        -44%
+    </div></div><div class="col-xs-8 col-sm-12 infos"><div class="row rating"><div class="col-md-12 columns"></div></div><div class="row title"><div class="col-md-12 columns"><div><a href="/autositze/kindersitz-9-bis-18-kg/jane-kinderautositz-exo-lite-flame-a090107.html" data-product-id="A090107">JANE Kinderautositz Exo Lite Flame</a></div></div></div><div class="row stock"><div class="col-md-12 columns"><span class="product-stock-bullet bullet-green">Sofort lieferbar</span></div></div><div class="row"><div class="col-md-12 columns"><a href="/autositze/kindersitz-9-bis-18-kg/jane-kinderautositz-exo-lite-flame-a090107.html" class="price" data-product-id="A090107">179,00 €</a></div><div class="col-md-12 columns savings">
+
+                            UVP<span style="color: black; font-weight: bold;">¹</span>                            &nbsp;bisher
+                            &nbsp;<del>319,00 €</del><br>
+                            Sie sparen
+                            <strong>140,00 €</strong></div></div><div class="row shipping">
+                                            Versandkostenfrei in DE!
+                                    </div></div></div></div></div><div class="list-product"><div><div class="row"><div class="image col-xs-4 col-sm-12"><a href="/autositze/kindersitz-9-bis-18-kg/maxi-cosi-rubi-river-blue-a114237.html" data-product-id="A114237"><img class="image img-responsive lazy"
+                             src="/bundles/babymarktbabymarkttheme/images/loader.gif?20150429160749"
+                             data-original="//www.baby-markt.de/out/pictures/generated/product/1/200_200_80/n_a114237_001s.jpg?20150429160749"></a><div class="saving-sticker sprite-saving-sticker">
+        -42%
+    </div></div><div class="col-xs-8 col-sm-12 infos"><div class="row rating"><div class="col-md-12 columns"></div></div><div class="row title"><div class="col-md-12 columns"><div><a href="/autositze/kindersitz-9-bis-18-kg/maxi-cosi-rubi-river-blue-a114237.html" data-product-id="A114237">MAXI COSI Rubi River blue</a></div></div></div><div class="row stock"><div class="col-md-12 columns"><span class="product-stock-bullet bullet-green">Sofort lieferbar</span></div></div><div class="row"><div class="col-md-12 columns"><a href="/autositze/kindersitz-9-bis-18-kg/maxi-cosi-rubi-river-blue-a114237.html" class="price" data-product-id="A114237">139,90 €</a></div><div class="col-md-12 columns savings">
+
+                            (Alter Preis)                            &nbsp;bisher
+                            &nbsp;<del>239,90 €</del><br>
+                            Sie sparen
+                            <strong>100,00 €</strong></div></div><div class="row shipping">
+                                            Versandkostenfrei in DE!
+                                    </div></div></div></div></div><div class="list-product"><div><div class="row"><div class="image col-xs-4 col-sm-12"><a href="/autositze/kindersitz-9-bis-18-kg/kiddy-kinderautositz-phoenixfix-pro-2-ocean-a091289.html" data-product-id="A091289"><img class="image img-responsive lazy"
+                             src="/bundles/babymarktbabymarkttheme/images/loader.gif?20150429160749"
+                             data-original="//www.baby-markt.de/out/pictures/generated/product/1/200_200_80/n_a091289_001_n.jpg?20150429160749"></a></div><div class="col-xs-8 col-sm-12 infos"><div class="row rating"><div class="col-md-12 columns"></div></div><div class="row title"><div class="col-md-12 columns"><div><a href="/autositze/kindersitz-9-bis-18-kg/kiddy-kinderautositz-phoenixfix-pro-2-ocean-a091289.html" data-product-id="A091289">KIDDY Kinderautositz Phoenixfix Pro 2 Ocean</a></div></div></div><div class="row stock"><div class="col-md-12 columns"><span class="product-stock-bullet bullet-green">Sofort lieferbar</span></div></div><div class="row"><div class="col-md-12 columns"><a href="/autositze/kindersitz-9-bis-18-kg/kiddy-kinderautositz-phoenixfix-pro-2-ocean-a091289.html" class="price" data-product-id="A091289">209,00 €</a></div></div><div class="row shipping">
+                                            Versandkostenfrei in DE!
+                                    </div></div></div></div></div><div class="list-product"><div><div class="row"><div class="image col-xs-4 col-sm-12"><a href="/autositze/kindersitz-9-bis-18-kg/britax-roemer-kinderautositz-king-ii-ls-cool-berry-a085897.html" data-product-id="A085897"><img class="image img-responsive lazy"
+                             src="/bundles/babymarktbabymarkttheme/images/loader.gif?20150429160749"
+                             data-original="//www.baby-markt.de/out/pictures/generated/product/1/200_200_80/n_a085897_001_n.jpg?20150429160749"></a><div class="saving-sticker sprite-saving-sticker">
         -24%
     </div></div><div class="col-xs-8 col-sm-12 infos"><div class="row rating"><div class="col-md-12 columns"><div class="stars"><em class="rated">&#x2605;</em><em class="rated">&#x2605;</em><em class="rated">&#x2605;</em><em class="rated">&#x2605;</em><em class="rated">&#x2605;</em><span>
             (1)
-        </span></div></div></div><div class="row title"><div class="col-md-12 columns"><div><a href="/autositze/kindersitz-9-bis-18-kg/britax-roemer-kinderautositz-king-ii-ls-taupe-grey-a085906.html" data-product-id="A085906">BRITAX RÖMER Kinderautositz KING II LS Taupe Grey</a></div></div></div><div class="row stock"><div class="col-md-12 columns"><span class="product-stock-bullet bullet-green">Sofort lieferbar</span></div></div><div class="row"><div class="col-md-12 columns"><a href="/autositze/kindersitz-9-bis-18-kg/britax-roemer-kinderautositz-king-ii-ls-taupe-grey-a085906.html" class="price" data-product-id="A085906">189,99 €</a></div><div class="col-md-12 columns savings">
+        </span></div></div></div><div class="row title"><div class="col-md-12 columns"><div><a href="/autositze/kindersitz-9-bis-18-kg/britax-roemer-kinderautositz-king-ii-ls-cool-berry-a085897.html" data-product-id="A085897">BRITAX RÖMER Kinderautositz KING II LS Cool Berry</a></div></div></div><div class="row stock"><div class="col-md-12 columns"><span class="product-stock-bullet bullet-green">Sofort lieferbar</span></div></div><div class="row"><div class="col-md-12 columns"><a href="/autositze/kindersitz-9-bis-18-kg/britax-roemer-kinderautositz-king-ii-ls-cool-berry-a085897.html" class="price" data-product-id="A085897">189,99 €</a></div><div class="col-md-12 columns savings">
 
                             UVP<span style="color: black; font-weight: bold;">¹</span>                            &nbsp;bisher
                             &nbsp;<del>249,90 €</del><br>
                             Sie sparen
                             <strong>59,91 €</strong></div></div><div class="row shipping">
                                             Versandkostenfrei in DE!
-                                    </div></div></div></div></div><div class="list-product"><div><div class="row"><div class="image col-xs-4 col-sm-12"><a href="/autositze/kindersitz-15-bis-36-kg/kids-im-sitz-migo-autositz-sirius-black-a101621.html" data-product-id="A101621"><img class="image img-responsive lazy"
+                                    </div></div></div></div></div><div class="list-product"><div><div class="row"><div class="image col-xs-4 col-sm-12"><a href="/autositze/kindersitz-0-bis-13-kg/osann-autositz-cosmo-sp-corail-black-a092648.html" data-product-id="A092648"><img class="image img-responsive lazy"
                              src="/bundles/babymarktbabymarkttheme/images/loader.gif?20150429160749"
-                             data-original="//www.baby-markt.de/out/pictures/generated/product/1/200_200_80/n_a101621_001_n.jpg?20150429160749"></a><div class="saving-sticker sprite-saving-sticker">
-        -29%
-    </div></div><div class="col-xs-8 col-sm-12 infos"><div class="row rating"><div class="col-md-12 columns"></div></div><div class="row title"><div class="col-md-12 columns"><div><a href="/autositze/kindersitz-15-bis-36-kg/kids-im-sitz-migo-autositz-sirius-black-a101621.html" data-product-id="A101621">KIDS IM SITZ MIGO Autositz Sirius black</a></div></div></div><div class="row stock"><div class="col-md-12 columns"><span class="product-stock-bullet bullet-green">Sofort lieferbar</span></div></div><div class="row"><div class="col-md-12 columns"><a href="/autositze/kindersitz-15-bis-36-kg/kids-im-sitz-migo-autositz-sirius-black-a101621.html" class="price" data-product-id="A101621">69,99 €</a></div><div class="col-md-12 columns savings">
+                             data-original="//www.baby-markt.de/out/pictures/generated/product/1/200_200_80/n_a092648_001_n.jpg?20150429160749"></a><div class="saving-sticker sprite-saving-sticker">
+        -15%
+    </div></div><div class="col-xs-8 col-sm-12 infos"><div class="row rating"><div class="col-md-12 columns"><div class="stars"><em class="rated">&#x2605;</em><em class="rated">&#x2605;</em><em class="rated">&#x2605;</em><em class="rated">&#x2605;</em><em class="rated">&#x2605;</em><span>
+            (5)
+        </span></div></div></div><div class="row title"><div class="col-md-12 columns"><div><a href="/autositze/kindersitz-0-bis-13-kg/osann-autositz-cosmo-sp-corail-black-a092648.html" data-product-id="A092648">OSANN Autositz Cosmo SP Corail Black</a></div></div></div><div class="row stock"><div class="col-md-12 columns"><span class="product-stock-bullet bullet-green">Sofort lieferbar</span></div></div><div class="row"><div class="col-md-12 columns"><a href="/autositze/kindersitz-0-bis-13-kg/osann-autositz-cosmo-sp-corail-black-a092648.html" class="price" data-product-id="A092648">84,98 €</a></div><div class="col-md-12 columns savings">
 
                             UVP<span style="color: black; font-weight: bold;">¹</span>                            &nbsp;bisher
-                            &nbsp;<del>99,00 €</del><br>
+                            &nbsp;<del>99,90 €</del><br>
+                            Sie sparen
+                            <strong>14,92 €</strong></div></div><div class="row shipping">
+                                            Versandkostenfrei in DE!
+                                    </div></div></div></div></div></div></div></div><div class="action-container panel"><div class="visible-xs"><a class="mobile-slider-toggle action-title btn-primary btn-full btn collapsed"
+                   name="slider-3"
+                   data-toggle="collapse" data-target="#category-action-sliders-3"
+                   data-parent="#category-action-sliders">
+                    Gruppe 1/2/3 (9 - 36 kg) - Die Allrounder
+                    <span class="caret"></span></a></div><div class="hidden-xs"><div class="action-title">
+                    Gruppe 1/2/3 (9 - 36 kg) - Die Allrounder
+                </div></div><div id="category-action-sliders-3"
+                 class="slider-dropdown econdaClickMarker econdaBannerMarker collapse "
+                 data-econda-marker="DE/Home/Slider 3"><div class="products-container"><div class="list-product"><div><div class="row"><div class="image col-xs-4 col-sm-12"><a href="/autositze/kindersitz-9-bis-36-kg/britax-kinderautositz-evolva-1-2-3-plus-stone-grey-a121360.html" data-product-id="A121360"><img class="image img-responsive lazy"
+                             src="/bundles/babymarktbabymarkttheme/images/loader.gif?20150429160749"
+                             data-original="//www.baby-markt.de/out/pictures/generated/product/1/200_200_80/n_a121360_001.jpg?20150429160749"></a><div class="saving-sticker sprite-saving-sticker">
+        -17%
+    </div></div><div class="col-xs-8 col-sm-12 infos"><div class="row rating"><div class="col-md-12 columns"><div class="stars"><em class="rated">&#x2605;</em><em class="rated">&#x2605;</em><em class="rated">&#x2605;</em><em class="rated">&#x2605;</em><em >&#x2605;</em><span>
+            (2)
+        </span></div></div></div><div class="row title"><div class="col-md-12 columns"><div><a href="/autositze/kindersitz-9-bis-36-kg/britax-kinderautositz-evolva-1-2-3-plus-stone-grey-a121360.html" data-product-id="A121360">BRITAX Kinderautositz Evolva 1-2-3 plus Stone grey</a></div></div></div><div class="row stock"><div class="col-md-12 columns"><span class="product-stock-bullet bullet-green">Sofort lieferbar</span></div></div><div class="row"><div class="col-md-12 columns"><a href="/autositze/kindersitz-9-bis-36-kg/britax-kinderautositz-evolva-1-2-3-plus-stone-grey-a121360.html" class="price" data-product-id="A121360">169,99 €</a></div><div class="col-md-12 columns savings">
+
+                            UVP<span style="color: black; font-weight: bold;">¹</span>                            &nbsp;bisher
+                            &nbsp;<del>205,00 €</del><br>
+                            Sie sparen
+                            <strong>35,01 €</strong></div></div><div class="row shipping">
+                                            Versandkostenfrei in DE!
+                                    </div></div></div></div></div><div class="list-product"><div><div class="row"><div class="image col-xs-4 col-sm-12"><a href="/autositze/kindersitz-9-bis-36-kg/cybex-gold-kinderautositz-pallas-m-coffee-bean-brown-a127080.html" data-product-id="A127080"><img class="image img-responsive lazy"
+                             src="/bundles/babymarktbabymarkttheme/images/loader.gif?20150429160749"
+                             data-original="//www.baby-markt.de/out/pictures/generated/product/1/200_200_80/n_a127080_001s.jpg?20150429160749"></a></div><div class="col-xs-8 col-sm-12 infos"><div class="row rating"><div class="col-md-12 columns"></div></div><div class="row title"><div class="col-md-12 columns"><div><a href="/autositze/kindersitz-9-bis-36-kg/cybex-gold-kinderautositz-pallas-m-coffee-bean-brown-a127080.html" data-product-id="A127080">CYBEX GOLD Kinderautositz Pallas M Coffee Bean-brown</a></div></div></div><div class="row stock"><div class="col-md-12 columns"><span class="product-stock-bullet bullet-green">Sofort lieferbar</span></div></div><div class="row"><div class="col-md-12 columns"><a href="/autositze/kindersitz-9-bis-36-kg/cybex-gold-kinderautositz-pallas-m-coffee-bean-brown-a127080.html" class="price" data-product-id="A127080">249,95 €</a></div></div><div class="row shipping">
+                                            Versandkostenfrei in DE!
+                                    </div></div></div></div></div><div class="list-product"><div><div class="row"><div class="image col-xs-4 col-sm-12"><a href="/autositze/kindersitz-9-bis-36-kg/kiddy-kinderautositz-guardian-pro-2-ocean-a091309.html" data-product-id="A091309"><img class="image img-responsive lazy"
+                             src="/bundles/babymarktbabymarkttheme/images/loader.gif?20150429160749"
+                             data-original="//www.baby-markt.de/out/pictures/generated/product/1/200_200_80/n_a091309_001_n.jpg?20150429160749"></a></div><div class="col-xs-8 col-sm-12 infos"><div class="row rating"><div class="col-md-12 columns"></div></div><div class="row title"><div class="col-md-12 columns"><div><a href="/autositze/kindersitz-9-bis-36-kg/kiddy-kinderautositz-guardian-pro-2-ocean-a091309.html" data-product-id="A091309">KIDDY Kinderautositz Guardian Pro 2 Ocean</a></div></div></div><div class="row stock"><div class="col-md-12 columns"><span class="product-stock-bullet bullet-green">Sofort lieferbar</span></div></div><div class="row"><div class="col-md-12 columns"><a href="/autositze/kindersitz-9-bis-36-kg/kiddy-kinderautositz-guardian-pro-2-ocean-a091309.html" class="price" data-product-id="A091309">239,00 €</a></div></div><div class="row shipping">
+                                            Versandkostenfrei in DE!
+                                    </div></div></div></div></div><div class="list-product"><div><div class="row"><div class="image col-xs-4 col-sm-12"><a href="/autositze/kindersitz-9-bis-36-kg/cybex-silver-kinderautositz-pallas-cobblestone-grey-a038824.html" data-product-id="A038824"><img class="image img-responsive lazy"
+                             src="/bundles/babymarktbabymarkttheme/images/loader.gif?20150429160749"
+                             data-original="//www.baby-markt.de/out/pictures/generated/product/1/200_200_80/n_a038824_001_n.jpg?20150429160749"></a><div class="saving-sticker sprite-saving-sticker">
+        -26%
+    </div></div><div class="col-xs-8 col-sm-12 infos"><div class="row rating"><div class="col-md-12 columns"><div class="stars"><em class="rated">&#x2605;</em><em class="rated">&#x2605;</em><em class="rated">&#x2605;</em><em class="rated">&#x2605;</em><em class="rated">&#x2605;</em><span>
+            (31)
+        </span></div></div></div><div class="row title"><div class="col-md-12 columns"><div><a href="/autositze/kindersitz-9-bis-36-kg/cybex-silver-kinderautositz-pallas-cobblestone-grey-a038824.html" data-product-id="A038824">CYBEX SILVER Kinderautositz Pallas Cobblestone-Grey</a></div></div></div><div class="row stock"><div class="col-md-12 columns"><span class="product-stock-bullet bullet-green">Sofort lieferbar</span></div></div><div class="row"><div class="col-md-12 columns"><a href="/autositze/kindersitz-9-bis-36-kg/cybex-silver-kinderautositz-pallas-cobblestone-grey-a038824.html" class="price" data-product-id="A038824">154,97 €</a></div><div class="col-md-12 columns savings">
+
+                            UVP<span style="color: black; font-weight: bold;">¹</span>                            &nbsp;bisher
+                            &nbsp;<del>209,95 €</del><br>
+                            Sie sparen
+                            <strong>54,98 €</strong></div></div><div class="row shipping">
+                                            Versandkostenfrei in DE!
+                                    </div></div></div></div></div><div class="list-product"><div><div class="row"><div class="image col-xs-4 col-sm-12"><a href="/autositze/kindersitz-9-bis-36-kg/kiwy-kinderautositz-slf123-q-fix-cherry-a124131.html" data-product-id="A124131"><img class="image img-responsive lazy"
+                             src="/bundles/babymarktbabymarkttheme/images/loader.gif?20150429160749"
+                             data-original="//www.baby-markt.de/out/pictures/generated/product/1/200_200_80/n_a124131_001s.jpg?20150429160749"></a><div class="saving-sticker sprite-saving-sticker">
+        -11%
+    </div></div><div class="col-xs-8 col-sm-12 infos"><div class="row rating"><div class="col-md-12 columns"></div></div><div class="row title"><div class="col-md-12 columns"><div><a href="/autositze/kindersitz-9-bis-36-kg/kiwy-kinderautositz-slf123-q-fix-cherry-a124131.html" data-product-id="A124131">KIWY Kinderautositz SLF123 Q-Fix Cherry</a></div></div></div><div class="row stock"><div class="col-md-12 columns"><span class="product-stock-bullet bullet-green">Sofort lieferbar</span></div></div><div class="row"><div class="col-md-12 columns"><a href="/autositze/kindersitz-9-bis-36-kg/kiwy-kinderautositz-slf123-q-fix-cherry-a124131.html" class="price" data-product-id="A124131">177,99 €</a></div><div class="col-md-12 columns savings">
+
+                            UVP<span style="color: black; font-weight: bold;">¹</span>                            &nbsp;bisher
+                            &nbsp;<del>199,00 €</del><br>
+                            Sie sparen
+                            <strong>21,01 €</strong></div></div><div class="row shipping">
+                                            Versandkostenfrei in DE!
+                                    </div></div></div></div></div><div class="list-product"><div><div class="row"><div class="image col-xs-4 col-sm-12"><a href="/autositze/kindersitz-9-bis-36-kg/chicco-autositz-gro-up-123-blue-sky-a126619.html" data-product-id="A126619"><img class="image img-responsive lazy"
+                             src="/bundles/babymarktbabymarkttheme/images/loader.gif?20150429160749"
+                             data-original="//www.baby-markt.de/out/pictures/generated/product/1/200_200_80/n_a126619_001.jpg?20150429160749"></a><div class="saving-sticker sprite-saving-sticker">
+        -19%
+    </div></div><div class="col-xs-8 col-sm-12 infos"><div class="row rating"><div class="col-md-12 columns"><div class="stars"><em class="rated">&#x2605;</em><em class="rated">&#x2605;</em><em class="rated">&#x2605;</em><em class="rated">&#x2605;</em><em class="rated">&#x2605;</em><span>
+            (1)
+        </span></div></div></div><div class="row title"><div class="col-md-12 columns"><div><a href="/autositze/kindersitz-9-bis-36-kg/chicco-autositz-gro-up-123-blue-sky-a126619.html" data-product-id="A126619">CHICCO Autositz Gro-up 123 Blue Sky</a></div></div></div><div class="row stock"><div class="col-md-12 columns"><span class="product-stock-bullet bullet-green">Sofort lieferbar</span></div></div><div class="row"><div class="col-md-12 columns"><a href="/autositze/kindersitz-9-bis-36-kg/chicco-autositz-gro-up-123-blue-sky-a126619.html" class="price" data-product-id="A126619">119,99 €</a></div><div class="col-md-12 columns savings">
+
+                            UVP<span style="color: black; font-weight: bold;">¹</span>                            &nbsp;bisher
+                            &nbsp;<del>149,00 €</del><br>
                             Sie sparen
                             <strong>29,01 €</strong></div></div><div class="row shipping">
                                             Versandkostenfrei in DE!
-                                    </div></div></div></div></div><div class="list-product"><div><div class="row"><div class="image col-xs-4 col-sm-12"><a href="/autositze/kindersitz-9-bis-36-kg/cybex-silver-kinderautositz-pallas-2-fix-rumba-red-a114032.html" data-product-id="A114032"><img class="image img-responsive lazy"
+                                    </div></div></div></div></div><div class="list-product"><div><div class="row"><div class="image col-xs-4 col-sm-12"><a href="/autositze/kindersitz-9-bis-36-kg/storchenmuehle-autositz-starlight-sp-rosy-a065872.html" data-product-id="A065872"><img class="image img-responsive lazy"
                              src="/bundles/babymarktbabymarkttheme/images/loader.gif?20150429160749"
-                             data-original="//www.baby-markt.de/out/pictures/generated/product/1/200_200_80/n_a114032_001s.jpg?20150429160749"></a><div class="saving-sticker sprite-saving-sticker">
-        -17%
-    </div></div><div class="col-xs-8 col-sm-12 infos"><div class="row rating"><div class="col-md-12 columns"></div></div><div class="row title"><div class="col-md-12 columns"><div><a href="/autositze/kindersitz-9-bis-36-kg/cybex-silver-kinderautositz-pallas-2-fix-rumba-red-a114032.html" data-product-id="A114032">CYBEX SILVER Kinderautositz Pallas 2-fix Rumba Red</a></div></div></div><div class="row stock"><div class="col-md-12 columns"><span class="product-stock-bullet bullet-green">Sofort lieferbar</span></div></div><div class="row"><div class="col-md-12 columns"><a href="/autositze/kindersitz-9-bis-36-kg/cybex-silver-kinderautositz-pallas-2-fix-rumba-red-a114032.html" class="price" data-product-id="A114032">239,99 €</a></div><div class="col-md-12 columns savings">
-
-                            UVP<span style="color: black; font-weight: bold;">¹</span>                            &nbsp;bisher
-                            &nbsp;<del>289,95 €</del><br>
-                            Sie sparen
-                            <strong>49,96 €</strong></div></div><div class="row shipping">
-                                            Versandkostenfrei in DE!
-                                    </div></div></div></div></div><div class="list-product"><div><div class="row"><div class="image col-xs-4 col-sm-12"><a href="/autositze/kindersitz-9-bis-18-kg/britax-roemer-kinderautositz-safefix-plus-smart-zebra-a062578.html" data-product-id="A062578"><img class="image img-responsive lazy"
-                             src="/bundles/babymarktbabymarkttheme/images/loader.gif?20150429160749"
-                             data-original="//www.baby-markt.de/out/pictures/generated/product/1/200_200_80/n_a062578_001_n.jpg?20150429160749"></a><div class="saving-sticker sprite-saving-sticker">
-        -16%
-    </div></div><div class="col-xs-8 col-sm-12 infos"><div class="row rating"><div class="col-md-12 columns"><div class="stars"><em class="rated">&#x2605;</em><em class="rated">&#x2605;</em><em class="rated">&#x2605;</em><em class="rated">&#x2605;</em><em class="rated">&#x2605;</em><span>
-            (3)
-        </span></div></div></div><div class="row title"><div class="col-md-12 columns"><div><a href="/autositze/kindersitz-9-bis-18-kg/britax-roemer-kinderautositz-safefix-plus-smart-zebra-a062578.html" data-product-id="A062578">BRITAX RÖMER Kinderautositz Safefix Plus Smart Zebra</a></div></div></div><div class="row stock"><div class="col-md-12 columns"><span class="product-stock-bullet bullet-green">Sofort lieferbar</span></div></div><div class="row"><div class="col-md-12 columns"><a href="/autositze/kindersitz-9-bis-18-kg/britax-roemer-kinderautositz-safefix-plus-smart-zebra-a062578.html" class="price" data-product-id="A062578">238,99 €</a></div><div class="col-md-12 columns savings">
-
-                            UVP<span style="color: black; font-weight: bold;">¹</span>                            &nbsp;bisher
-                            &nbsp;<del>285,00 €</del><br>
-                            Sie sparen
-                            <strong>46,01 €</strong></div></div><div class="row shipping">
-                                            Versandkostenfrei in DE!
-                                    </div></div></div></div></div><div class="list-product"><div><div class="row"><div class="image col-xs-4 col-sm-12"><a href="/autositze/kindersitz-9-bis-18-kg/maxi-cosi-kinderautositz-tobi-total-black-a040259.html" data-product-id="A040259"><img class="image img-responsive lazy"
-                             src="/bundles/babymarktbabymarkttheme/images/loader.gif?20150429160749"
-                             data-original="//www.baby-markt.de/out/pictures/generated/product/1/200_200_80/n_a040259_001n.jpg?20150429160749"></a><div class="saving-sticker sprite-saving-sticker">
-        -35%
-    </div></div><div class="col-xs-8 col-sm-12 infos"><div class="row rating"><div class="col-md-12 columns"><div class="stars"><em class="rated">&#x2605;</em><em class="rated">&#x2605;</em><em class="rated">&#x2605;</em><em class="rated">&#x2605;</em><em class="rated">&#x2605;</em><span>
-            (25)
-        </span></div></div></div><div class="row title"><div class="col-md-12 columns"><div><a href="/autositze/kindersitz-9-bis-18-kg/maxi-cosi-kinderautositz-tobi-total-black-a040259.html" data-product-id="A040259">MAXI COSI Kinderautositz Tobi Total Black</a></div></div></div><div class="row stock"><div class="col-md-12 columns"><span class="product-stock-bullet bullet-green">Sofort lieferbar</span></div></div><div class="row"><div class="col-md-12 columns"><a href="/autositze/kindersitz-9-bis-18-kg/maxi-cosi-kinderautositz-tobi-total-black-a040259.html" class="price" data-product-id="A040259">174,99 €</a></div><div class="col-md-12 columns savings">
-
-                            UVP<span style="color: black; font-weight: bold;">¹</span>                            &nbsp;bisher
-                            &nbsp;<del>269,90 €</del><br>
-                            Sie sparen
-                            <strong>94,91 €</strong></div></div><div class="row shipping">
-                                            Versandkostenfrei in DE!
-                                    </div></div></div></div></div></div></div></div><div class="action-container panel"><div class="visible-xs"><a class="mobile-slider-toggle action-title btn-primary btn-full btn collapsed"
-                   name="slider-4"
-                   data-toggle="collapse" data-target="#startpage-action-sliders-4"
-                   data-parent="#startpage-action-sliders">
-                    Pflege, Ernährung und Sicherheit
-                    <span class="caret"></span></a></div><div class="hidden-xs"><div class="action-title">
-                    Pflege, Ernährung und Sicherheit
-                </div></div><div id="startpage-action-sliders-4"
-                 class="slider-dropdown econdaClickMarker econdaBannerMarker collapse "
-                 data-econda-marker="DE/Home/Slider 4"><div class="products-container"><div class="list-product"><div><div class="row"><div class="image col-xs-4 col-sm-12"><a href="/markenhersteller/angelcare/babyphone/angelcare-ac423-d-babyphone-plus-gratis-windeleimer-comfort-mit-einer-nachfuellkassette-a131370.html" data-product-id="A131370"><img class="image img-responsive lazy"
-                             src="/bundles/babymarktbabymarkttheme/images/loader.gif?20150429160749"
-                             data-original="//www.baby-markt.de/out/pictures/generated/product/1/200_200_80/n_a131370_001.jpg?20150429160749"></a><div class="saving-sticker sprite-saving-sticker">
-        -33%
-    </div></div><div class="col-xs-8 col-sm-12 infos"><div class="row rating"><div class="col-md-12 columns"></div></div><div class="row title"><div class="col-md-12 columns"><div><a href="/markenhersteller/angelcare/babyphone/angelcare-ac423-d-babyphone-plus-gratis-windeleimer-comfort-mit-einer-nachfuellkassette-a131370.html" data-product-id="A131370">ANGELCARE AC423-D Babyphone plus GRATIS Windeleimer Comfort mit einer Nachfüllkassette</a></div></div></div><div class="row stock"><div class="col-md-12 columns"><span class="product-stock-bullet bullet-green">Sofort lieferbar</span></div></div><div class="row"><div class="col-md-12 columns"><a href="/markenhersteller/angelcare/babyphone/angelcare-ac423-d-babyphone-plus-gratis-windeleimer-comfort-mit-einer-nachfuellkassette-a131370.html" class="price" data-product-id="A131370">79,99 €</a></div><div class="col-md-12 columns savings">
-
-                            (Alter Preis)                            &nbsp;bisher
-                            &nbsp;<del>118,78 €</del><br>
-                            Sie sparen
-                            <strong>38,79 €</strong></div></div><div class="row shipping">
-                                            Versandkostenfrei in DE!
-                                    </div></div></div></div></div><div class="list-product"><div><div class="row"><div class="image col-xs-4 col-sm-12"><a href="/pflege-ernaehrung/wickeln/windeleimer/angelcare-6-nachfuellkassetten-=-nachfuellkassetten-fuer-ca-fuer-6-monate-a002944.html" data-product-id="A002944"><img class="image img-responsive lazy"
-                             src="/bundles/babymarktbabymarkttheme/images/loader.gif?20150429160749"
-                             data-original="//www.baby-markt.de/out/pictures/generated/product/1/200_200_80/n_a002944_001_v2.jpg?20150429160749"></a><div class="saving-sticker sprite-saving-sticker">
-        -9%
-    </div></div><div class="col-xs-8 col-sm-12 infos"><div class="row rating"><div class="col-md-12 columns"><div class="stars"><em class="rated">&#x2605;</em><em class="rated">&#x2605;</em><em class="rated">&#x2605;</em><em class="rated">&#x2605;</em><em class="rated">&#x2605;</em><span>
-            (907)
-        </span></div></div></div><div class="row title"><div class="col-md-12 columns"><div><a href="/pflege-ernaehrung/wickeln/windeleimer/angelcare-6-nachfuellkassetten-=-nachfuellkassetten-fuer-ca-fuer-6-monate-a002944.html" data-product-id="A002944">ANGELCARE 6 Nachfüllkassetten = Nachfüllkassetten für ca. für 6 Monate</a></div></div></div><div class="row stock"><div class="col-md-12 columns"><span class="product-stock-bullet bullet-green">Sofort lieferbar</span></div></div><div class="row"><div class="col-md-12 columns"><a href="/pflege-ernaehrung/wickeln/windeleimer/angelcare-6-nachfuellkassetten-=-nachfuellkassetten-fuer-ca-fuer-6-monate-a002944.html" class="price" data-product-id="A002944">39,80 €</a></div><div class="col-md-12 columns savings">
-
-                            UVP<span style="color: black; font-weight: bold;">¹</span>                            &nbsp;bisher
-                            &nbsp;<del>43,50 €</del><br>
-                            Sie sparen
-                            <strong>3,70 €</strong></div></div><div class="row unit-price"><div class="col-md-12 columns">(6,63 €
-                            / Stück)
-                        </div></div><div class="row shipping">
-                                            Versandkostenfrei in DE!
-                                    </div></div></div></div></div><div class="list-product"><div><div class="row"><div class="image col-xs-4 col-sm-12"><a href="/pflege-ernaehrung/wickeln/windeleimer/angelcare-windeleimer-comfort-inkl-1-kassette-a032877.html" data-product-id="A032877"><img class="image img-responsive lazy"
-                             src="/bundles/babymarktbabymarkttheme/images/loader.gif?20150429160749"
-                             data-original="//www.baby-markt.de/out/pictures/generated/product/1/200_200_80/n_a032877_001.jpg?20150429160749"></a><div class="saving-sticker sprite-saving-sticker">
-        -55%
-    </div></div><div class="col-xs-8 col-sm-12 infos"><div class="row rating"><div class="col-md-12 columns"><div class="stars"><em class="rated">&#x2605;</em><em class="rated">&#x2605;</em><em class="rated">&#x2605;</em><em class="rated">&#x2605;</em><em class="rated">&#x2605;</em><span>
-            (257)
-        </span></div></div></div><div class="row title"><div class="col-md-12 columns"><div><a href="/pflege-ernaehrung/wickeln/windeleimer/angelcare-windeleimer-comfort-inkl-1-kassette-a032877.html" data-product-id="A032877">ANGELCARE Windeleimer Comfort inkl. 1 Kassette</a></div></div></div><div class="row stock"><div class="col-md-12 columns"><span class="product-stock-bullet bullet-green">Sofort lieferbar</span></div></div><div class="row"><div class="col-md-12 columns"><a href="/pflege-ernaehrung/wickeln/windeleimer/angelcare-windeleimer-comfort-inkl-1-kassette-a032877.html" class="price" data-product-id="A032877">8,99 €</a></div><div class="col-md-12 columns savings">
-
-                            UVP<span style="color: black; font-weight: bold;">¹</span>                            &nbsp;bisher
-                            &nbsp;<del>19,99 €</del><br>
-                            Sie sparen
-                            <strong>11,00 €</strong></div></div><div class="row shipping">
-                                            ab 20 € versandkostenfrei
-                                    </div></div></div></div></div><div class="list-product"><div><div class="row"><div class="image col-xs-4 col-sm-12"><a href="/sicherheit/babyueberwachung/angelcare-geraeusch-und-bewegungsmelder-ac403-d-a099988.html" data-product-id="A099988"><img class="image img-responsive lazy"
-                             src="/bundles/babymarktbabymarkttheme/images/loader.gif?20150429160749"
-                             data-original="//www.baby-markt.de/out/pictures/generated/product/1/200_200_80/n_a099988_001.jpg?20150429160749"></a><div class="saving-sticker sprite-saving-sticker">
-        -6%
-    </div></div><div class="col-xs-8 col-sm-12 infos"><div class="row rating"><div class="col-md-12 columns"><div class="stars"><em class="rated">&#x2605;</em><em class="rated">&#x2605;</em><em class="rated">&#x2605;</em><em class="rated">&#x2605;</em><em >&#x2605;</em><span>
-            (21)
-        </span></div></div></div><div class="row title"><div class="col-md-12 columns"><div><a href="/sicherheit/babyueberwachung/angelcare-geraeusch-und-bewegungsmelder-ac403-d-a099988.html" data-product-id="A099988">ANGELCARE Geräusch- und Bewegungsmelder AC403-D</a></div></div></div><div class="row stock"><div class="col-md-12 columns"><span class="product-stock-bullet bullet-green">Sofort lieferbar</span></div></div><div class="row"><div class="col-md-12 columns"><a href="/sicherheit/babyueberwachung/angelcare-geraeusch-und-bewegungsmelder-ac403-d-a099988.html" class="price" data-product-id="A099988">149,89 €</a></div><div class="col-md-12 columns savings">
-
-                            UVP<span style="color: black; font-weight: bold;">¹</span>                            &nbsp;bisher
-                            &nbsp;<del>159,99 €</del><br>
-                            Sie sparen
-                            <strong>10,10 €</strong></div></div><div class="row shipping">
-                                            Versandkostenfrei in DE!
-                                    </div></div></div></div></div><div class="list-product"><div><div class="row"><div class="image col-xs-4 col-sm-12"><a href="/sicherheit/babyueberwachung/angelcare-geraeusch-und-bewegungsmelder-mit-video-ueberwachung-ac1100-a035743.html" data-product-id="A035743"><img class="image img-responsive lazy"
-                             src="/bundles/babymarktbabymarkttheme/images/loader.gif?20150429160749"
-                             data-original="//www.baby-markt.de/out/pictures/generated/product/1/200_200_80/n_a035743_001.jpg?20150429160749"></a><div class="saving-sticker sprite-saving-sticker">
-        -5%
-    </div></div><div class="col-xs-8 col-sm-12 infos"><div class="row rating"><div class="col-md-12 columns"><div class="stars"><em class="rated">&#x2605;</em><em class="rated">&#x2605;</em><em class="rated">&#x2605;</em><em class="rated">&#x2605;</em><em >&#x2605;</em><span>
-            (9)
-        </span></div></div></div><div class="row title"><div class="col-md-12 columns"><div><a href="/sicherheit/babyueberwachung/angelcare-geraeusch-und-bewegungsmelder-mit-video-ueberwachung-ac1100-a035743.html" data-product-id="A035743">ANGELCARE Geräusch- und Bewegungsmelder mit Video-Überwachung AC1100</a></div></div></div><div class="row stock"><div class="col-md-12 columns"><span class="product-stock-bullet bullet-green">Sofort lieferbar</span></div></div><div class="row"><div class="col-md-12 columns"><a href="/sicherheit/babyueberwachung/angelcare-geraeusch-und-bewegungsmelder-mit-video-ueberwachung-ac1100-a035743.html" class="price" data-product-id="A035743">284,99 €</a></div><div class="col-md-12 columns savings">
-
-                            UVP<span style="color: black; font-weight: bold;">¹</span>                            &nbsp;bisher
-                            &nbsp;<del>299,99 €</del><br>
-                            Sie sparen
-                            <strong>15,00 €</strong></div></div><div class="row shipping">
-                                            Versandkostenfrei in DE!
-                                    </div></div></div></div></div><div class="list-product"><div><div class="row"><div class="image col-xs-4 col-sm-12"><a href="/pflege-ernaehrung/wickeln/windeleimer/angelcare-12-nachfuellkassetten-=-nachfuellkassetten-fuer-ca-1-jahr-a003017.html" data-product-id="A003017"><img class="image img-responsive lazy"
-                             src="/bundles/babymarktbabymarkttheme/images/loader.gif?20150429160749"
-                             data-original="//www.baby-markt.de/out/pictures/generated/product/1/200_200_80/n_a003017_001_v2.jpg?20150429160749"></a><div class="saving-sticker sprite-saving-sticker">
-        -14%
-    </div></div><div class="col-xs-8 col-sm-12 infos"><div class="row rating"><div class="col-md-12 columns"><div class="stars"><em class="rated">&#x2605;</em><em class="rated">&#x2605;</em><em class="rated">&#x2605;</em><em class="rated">&#x2605;</em><em class="rated">&#x2605;</em><span>
-            (290)
-        </span></div></div></div><div class="row title"><div class="col-md-12 columns"><div><a href="/pflege-ernaehrung/wickeln/windeleimer/angelcare-12-nachfuellkassetten-=-nachfuellkassetten-fuer-ca-1-jahr-a003017.html" data-product-id="A003017">ANGELCARE 12 Nachfüllkassetten = Nachfüllkassetten für ca. 1 Jahr</a></div></div></div><div class="row stock"><div class="col-md-12 columns"><span class="product-stock-bullet bullet-green">Sofort lieferbar</span></div></div><div class="row"><div class="col-md-12 columns"><a href="/pflege-ernaehrung/wickeln/windeleimer/angelcare-12-nachfuellkassetten-=-nachfuellkassetten-fuer-ca-1-jahr-a003017.html" class="price" data-product-id="A003017">75,00 €</a></div><div class="col-md-12 columns savings">
-
-                            UVP<span style="color: black; font-weight: bold;">¹</span>                            &nbsp;bisher
-                            &nbsp;<del>87,00 €</del><br>
-                            Sie sparen
-                            <strong>12,00 €</strong></div></div><div class="row unit-price"><div class="col-md-12 columns">(6,25 €
-                            / Stück)
-                        </div></div><div class="row shipping">
-                                            Versandkostenfrei in DE!
-                                    </div></div></div></div></div><div class="list-product"><div><div class="row"><div class="image col-xs-4 col-sm-12"><a href="/pflege-ernaehrung/koerperpflege/pflegesets/chicco-pure-bio-baby-natural-set-0m+-a095126.html" data-product-id="A095126"><img class="image img-responsive lazy"
-                             src="/bundles/babymarktbabymarkttheme/images/loader.gif?20150429160749"
-                             data-original="//www.baby-markt.de/out/pictures/generated/product/1/200_200_80/n_a095126_001.jpg?20150429160749"></a><div class="saving-sticker sprite-saving-sticker">
+                             data-original="//www.baby-markt.de/out/pictures/generated/product/1/200_200_80/n_a065872_001n.jpg?20150429160749"></a><div class="saving-sticker sprite-saving-sticker">
         -20%
-    </div></div><div class="col-xs-8 col-sm-12 infos"><div class="row rating"><div class="col-md-12 columns"></div></div><div class="row title"><div class="col-md-12 columns"><div><a href="/pflege-ernaehrung/koerperpflege/pflegesets/chicco-pure-bio-baby-natural-set-0m+-a095126.html" data-product-id="A095126">CHICCO pure.bio Baby Natural Set 0m+</a></div></div></div><div class="row stock"><div class="col-md-12 columns"><span class="product-stock-bullet bullet-green">Sofort lieferbar</span></div></div><div class="row"><div class="col-md-12 columns"><a href="/pflege-ernaehrung/koerperpflege/pflegesets/chicco-pure-bio-baby-natural-set-0m+-a095126.html" class="price" data-product-id="A095126">39,99 €</a></div><div class="col-md-12 columns savings">
+    </div></div><div class="col-xs-8 col-sm-12 infos"><div class="row rating"><div class="col-md-12 columns"></div></div><div class="row title"><div class="col-md-12 columns"><div><a href="/autositze/kindersitz-9-bis-36-kg/storchenmuehle-autositz-starlight-sp-rosy-a065872.html" data-product-id="A065872">STORCHENMÜHLE Autositz Starlight SP Rosy</a></div></div></div><div class="row stock"><div class="col-md-12 columns"><span class="product-stock-bullet bullet-green">Sofort lieferbar</span></div></div><div class="row"><div class="col-md-12 columns"><a href="/autositze/kindersitz-9-bis-36-kg/storchenmuehle-autositz-starlight-sp-rosy-a065872.html" class="price" data-product-id="A065872">159,99 €</a></div><div class="col-md-12 columns savings">
 
                             UVP<span style="color: black; font-weight: bold;">¹</span>                            &nbsp;bisher
-                            &nbsp;<del>49,99 €</del><br>
+                            &nbsp;<del>199,95 €</del><br>
                             Sie sparen
-                            <strong>10,00 €</strong></div></div><div class="row shipping">
+                            <strong>39,96 €</strong></div></div><div class="row shipping">
                                             Versandkostenfrei in DE!
-                                    </div></div></div></div></div><div class="list-product"><div><div class="row"><div class="image col-xs-4 col-sm-12"><a href="/pflege-ernaehrung/fuettern/babyflaschen/babymoov-bioteet-starterset-4-teil-set-230ml-flaeschchen-mandelgruen-+-schnuller-+-weisser-griff-a105097.html" data-product-id="A105097"><img class="image img-responsive lazy"
-                             src="/bundles/babymarktbabymarkttheme/images/loader.gif?20150429160749"
-                             data-original="//www.baby-markt.de/out/pictures/generated/product/1/200_200_80/n_a105097_001.jpg?20150429160749"></a><div class="saving-sticker sprite-saving-sticker">
-        -12%
-    </div></div><div class="col-xs-8 col-sm-12 infos"><div class="row rating"><div class="col-md-12 columns"></div></div><div class="row title"><div class="col-md-12 columns"><div><a href="/pflege-ernaehrung/fuettern/babyflaschen/babymoov-bioteet-starterset-4-teil-set-230ml-flaeschchen-mandelgruen-+-schnuller-+-weisser-griff-a105097.html" data-product-id="A105097">BABYMOOV Bioteet Starterset 4-teil. Set, 230ml-Fläschchen mandelgrün + Schnuller + weißer Griff</a></div></div></div><div class="row stock"><div class="col-md-12 columns"><span class="product-stock-bullet bullet-green">Sofort lieferbar</span></div></div><div class="row"><div class="col-md-12 columns"><a href="/pflege-ernaehrung/fuettern/babyflaschen/babymoov-bioteet-starterset-4-teil-set-230ml-flaeschchen-mandelgruen-+-schnuller-+-weisser-griff-a105097.html" class="price" data-product-id="A105097">29,99 €</a></div><div class="col-md-12 columns savings">
-
-                            UVP<span style="color: black; font-weight: bold;">¹</span>                            &nbsp;bisher
-                            &nbsp;<del>33,99 €</del><br>
-                            Sie sparen
-                            <strong>4,00 €</strong></div></div><div class="row shipping">
-                                            Versandkostenfrei in DE!
-                                    </div></div></div></div></div></div></div></div></div><div class="hidden-xs"><div class="manufacturer-slider-box">
+                                    </div></div></div></div></div></div></div></div></div><div class="row seo-footer"><div class="col-xs-12 seo-footer-column spacer20"><div class="seo-footer-complete-text"><h1>Auto- und Kindersitze bei baby-markt.de</h1><p align="justify"><font size="2">Bei der Wahl des richtigen Kindersitzes, helfen wir Ihnen gerne. Die Auswahl ist groß und die Entscheidung fällt oft schwer. Es gibt verschiedene Hersteller, Bauweisen, Montagesysteme und Merkmale. <strong>An oberster Stelle steht natürlich die Sicherheit</strong>. Wenn Sie Ihren kleinen Schatz mit in den Straßenverkehr nehmen, müssen Sie sich auf den Kindersitz vollkommen verlassen können. <strong>Fahren Sie mit Ihren Kids an Bord natürlich trotzdem immer langsam und vorsichtig</strong>. Denken Sie daran: Sie haben nun die Verantwortung für einen weiteren kleinen Erdenbürger.</font></p><h2>Produktberater: Den richtigen Kindersitz finden Sie bei baby-markt.de</h2><p align="justify"><font size="2">Wer mit seinem Baby mobil sein will, sucht meist schon vor der Geburt nach einem Autositz für den Neuankömmling. Kaum eine Entscheidung fällt so schwer und will so gut überlegt sein, wie die Wahl des richtigen Kindersitzes. Wir helfen Ihnen bei der Entscheidung und <strong>stellen Ihnen umfangreiches Infomaterial zur Verfügung</strong>. In den einzelnen Kategorien erwarten Sie zudem Infotexte zu den Produkten. <strong><a href="http://www.baby-markt.de/produktberater/autositze/" title="">Mit unserem Produktratgeber finden Sie bestimmt den richtigen Autositz</a></strong> für Ihren Bedarf und Ihre Vorstellungen. Wenn Sie schon genaue Vorstellungen haben, können Sie gleich in unserem Shop stöbern. Im ersten Schritt klicken Sie sich einfach in die richtige Gewichtskategorie für Ihr Kind. Auto-Kindersitze sind für genormte Gewichtsklassen von Kindern gebaut. Diese reichen in unterschiedlichen Schritten von 0 bis etwa 36 kg. Hier suchen Sie sich dann das passende Modell für Ihre Ansprüche heraus. Wenn Sie weitere Fragen haben, <strong><a href="http://www.baby-markt.de/Kontakt/" title="">nehmen Sie gerne Kontakt mit uns auf</a></strong>.</font></p><h2>Extra-Service für Sie: Unser Sicherheitsversprechen</h2><p align="justify"><font size="2">Bei einem Kindersitz zählt eine Eigenschaft mehr als alles andere: Die Sicherheit. Selbst bei einem kleinen Unfall können durch den Stoß kleinste Haarrisse oder andere Schäden am Kindersitz entstehen. Selbst <strong>minimale und kaum sichtbare Beschädigungen können die Sicherheit signifikant beeinträchtigen. </strong>Einen bei uns erworbenen Kindersitz, der innerhalb von zwei Jahren in einen Unfall verwickelt ist, <strong>ersetzen wir Ihnen unkompliziert und sicher</strong>. Wir von baby-markt.de sind auch nach dem Kauf für die Sicherheit Ihrer Kinder zur Stelle. <strong><a href="http://www.baby-markt.de/sicherheitsversprechen/" title="">Mehr Informationen dazu finden Sie auf unserer Info-Seite zum Sicherheitsversprechen</a></strong>. </font></p><h2>Reboarder: Rückwärtsgerichtete Kindersitze schützen Ihr Kind</h2><p align="justify"><font size="2">Eltern suchen bei allen Produkten den größtmöglichen Schutz für Ihr Baby. Sicherheit hat auch bei Autositzen oberste Priorität. Aktuelle Studien zeigen, dass <strong>ein rückwärtsgerichteter Auto-Kindersitz, das Risiko von Schäden im Hals- und Nackenbereich nach einem Unfall effektiv senkt</strong>. Bei einem Frontalaufprall wird die Stoßkraft auf die gesamte Wirbelsäule verteilt. Da bei Kleinkindern ca. 25 % des Körpergewichts auf Kopf und Hals verteilt sind, ist eine Stabilisierung der noch wenig entwickelten Nackenmuskulatur absolut notwendig. Von Experten wird daher empfohlen, <strong>das Kind so lange wie möglich in einem Reboarder zu transportieren</strong>. Hersteller stellen sich auf diese neuen Erkenntnisse ein und produzieren auch rückwärtsgerichtete Sitze für ältere Kinder bis zu vier Jahren. Wir haben <strong><a href="http://www.baby-markt.de/ratgeber/index.php/baby/infografik-reboarder/" title="">die wichtigsten Fakten zu Reboardern in unserem Ratgeber für Sie bereitgestellt</a></strong>. </font></p><h2>Die Sitzerhöhung für die kurze Fahrt in einem anderen Auto</h2><p align="justify"><font size="2">Ab einem Körpergewicht von etwa 15 kg können Kinder auf einer <strong><a href="http://www.baby-markt.de/autositze/sitzerhoehung/" title="">einfachen Sitzerhöhung</a></strong> mitfahren. <strong>Für kurze Fahrten im Auto der Oma oder anderer Familienmitglieder ist das praktisch</strong>. Integrierte Auto-Kindersitze müssten mit dem gesamten Montageapparat mitgenommen werden. Eine Sitzerhöhung ist da leichter auszutauschen. Für kleine Kinder oder lange Fahrten ist sie jedoch nicht zu empfehlen. Wenn die Kleinen einschlafen, kippen sie meist zur Seite und rutschen aus der Gurtung heraus. Deshalb sollte bei einer Sitzerhöhung immer die Gurtung an die Maße des Kindes angepasst und eventuell umgeleitet und gepolstert werden. Nackenstützen stabilisieren und betten den Kopf Ihres Kindes. Einen kompakten, sicheren Autositz kann eine Sitzerhöhung allerdings im Sicherheitsaspekt nicht ersetzen.</font></p><h2>Damit Ihr Baby gerne mitfährt: Kindersitzzeug und Zubehör</h2><p align="justify"><font size="2">Gestalten Sie den Platz für Ihr Baby positiv und abwechslungsreich. <strong>Ein Kuscheltier, das immer mit an Bord ist oder ein Spielzeugmobile machen die Autofahrt für Kinder angenehm</strong>. Achten Sie aber darauf, dass Sie immer freien Zugang zum Autositz haben und wichtige Funktionen wie die Gurtung durch Spielzeug nicht behindert werden. </font></p><p align="justify"><font size="2">Für die Fahrt in den Urlaub ist auf jeden Fall ein <strong>Sonnenschutz für den Sitzplatz des Babys</strong> sinnvoll. Ein Sonnenschutzrollo oder eine Sonnenblende mit Saugknöpfen schützt Ihr Baby vor blendenden Sonnenstrahlen. Hinter einer abgedunkelten Scheibe fallen dem kleinen Mitfahrer auch bestimmt schnell die Augen zu. </font></p><h2>Mit weniger PS unterwegs: Fahrradsitze für Kinder</h2><p align="justify"><font size="2">Ob im Urlaub oder einfach für den kurzen Ausflug in den Supermarkt: <strong><a href="http://www.baby-markt.de/autositze/fahrradsitze/" title="">In einem hochwertigen Kinder-Fahrradsitz ist Ihr Liebling immer mit dabei</a></strong> und gut geschützt im Straßenverkehr. Achten Sie auch bei Fahrradsitzen auf die Gewichtsangaben des Herstellers. <strong>Nehmen Sie Ihr Baby aber erst auf dem Fahrrad mit, wenn es sicher und selbstständig sitzen kann</strong>. Wichtige Merkmale eines guten Fahrradsitzes sind eine bequeme und sichere Gurtung, robustes und nicht splitterndes Material sowie eine einfache und stabile Montage.</font></p><p align="justify"><font size="2">Alternativ zu einem Fahrradsitz <strong>kann vor allem <a href="http://www.baby-markt.de/unterwegs/fahrradanhaenger/" title=""> für längere Radtouren durch die Natur ein Fahrradanhänger</a> interessant sein</strong>. Hier haben ein oder mehrere Kinder Platz, sind vor Wind und Wetter geschützt und können es sich bequem machen. Auf viel befahrenen Straßen ist ein angehängter Kinderanhänger aber nicht zu empfehlen.</font></p><br /><h2>Ausgewählte Auto- und Kindersitze von baby-markt.de:</h2><p align="justify"><font size="2">Aufbauend auf unserem Sortiment und in Verbindung mit unseren Kundenbewertungen können wir folgende Produkte besonders empfehlen:</font></p><p><strong><font size="4"><a href="http://www.baby-markt.de/markenshop-besafe/kindersitze-0-18-kg-/-0-25-kg/izi-combi-x3-isofix/hts-besafe-izi-combi-x3-isofix-alkantara-black-a080030.html" title="">Ein sicherer Reboarder für viele Jahre: Der HTS BeSafe iZi Combi X3</a></font></strong></p><p align="justify"><font size="2"><img style="margin-right: 5px" alt="" title="" src="https://www.baby-markt.de/out/pictures/wysiwigpro/HTS_BeSafe_iZi%20Comfort%20X3_A080030.jpg" align="left" height="88" width="88" />Ein rückwärtsgerichteter Autositz ist fünfmal sicherer als ein vorwärtsgerichteter Kindersitz. Mit Seitenschutz, Schulterpolstern und Überrollbügel für Stabilität bei einem Heckunfall ist Ihr Kind hier sicher aufgehoben. Bei Bedarf kann der Sitz auch vorwärts installiert werden. Die höhere Sicherheit fällt dann jedoch weg.</font></p><p align="justify"><font size="2"><strong>Aus unseren Kundenbewertungen: </strong><em>„Der Sitz ist absolut eine sich wirklich lohnende Investition. Ein echter Reboard ! Eigentlich durften nur noch Reboard-Kindersitze verkauft werden - wenn die Sicherheit wirklich das wichtigste Kaufargument bei den eigenen Kindern ist. Unserer Tochter fühlt sich sehr wohl - wir können diesen Sitz uneingeschränkt weiterempfehlen!“</em></font></p><p><font size="4"><strong><a href="http://www.baby-markt.de/autositze/kindersitz-9-bis-36-kg/kiddy-kinderautositz-guardianfix-pro-2-apple-a092159.html" title="">Der Multisitz Guardianfix von KIDDY für Kinder von 9 bis 36 kg</a></strong></font></p><p align="justify"><font size="2"><img style="margin-right: 5px" alt="" title="" src="https://www.baby-markt.de/out/pictures/wysiwigpro/Kiddy_Guardianfix_A062986.jpg" align="left" height="88" width="88" />Der Guardianfix überzeugt auf ganzer Linie: Aus hochwertigem High-Tech-Material mit optimierten Sicherheitsmerkmalen und vereinfachtem Gurtsystem ist er absolut zu empfehlen! Der mitwachsende Autositz ist unglaublich einfach zu montieren und Ihr Kind sitzt über Jahre hinweg bequem und sicher auf jeder Fahrt. </font></p><p align="justify"><font size="2"><strong>Aus unseren Kundenbewertungen:</strong><em>„Sehr schönes Design. Leicht einzubauen und unsere Tochter mag den Sitz sehr. Schön ist das Gummiband um daran Spielzeug zu befestigen bzw den Schnuller. Da der Sitz lange genutzt werden kann ist das Preis/Leistungsverhältnis unschlagbar.“</em></font></p><p><a href="http://www.baby-markt.de/autositze/kindersitz-15-bis-36-kg/maxi-cosi-rodi-airprotect-black-raven-a114367.html" title=""><font size="4"><strong>MAXI-COSI Rodi AirProtect: Für Kinder zwischen 15 und 36 kg</strong></font></a></p><p align="justify"><font size="2"><img style="margin-right: 5px" alt="" title="" src="https://www.baby-markt.de/out/pictures/wysiwigpro/Maxi%20Cosi_Rodi%20AirProtect_A040275.jpg" align="left" height="88" width="88" />Mit breiter Sitzfläche und in Höhe und Breite ‚mitwachsender‘ Rückenlehne ist dieser Kindersitz besonders flexibel. In der Ruheposition liegt Ihr Kind auch auf längeren Fahrten entspannt im Sitz. Die patentierte AirProtect Technologie schützt den Kopf- und Halsbereich Ihres Kindes. In der ADAC Motorwelt 06/2010 wurde dieser Sitz mit dem Testurteil „gut“ bewertet. Eine klare Empfehlung von uns! </font></p><p align="justify"><font size="2"><strong>Aus unseren Kundenbewertungen:</strong><em>„Wir sind zufrieden. Durch die Ruheposition sind auch längere Fahrten kein Problem mehr, denn da kann unser Sohn den Kopf zurück legen und schön schlafen.“</em></font></p><p><font size="4"><strong><a href="http://www.baby-markt.de/autositze/fahrradsitze/roemer-fahrradsitz-jockey-comfort-nick-a017093.html" title="">Der Fahrradsitz BRITAX RÖMER JOCKEY COMFORT NICK</a></strong></font></p><p align="justify"><font size="2"><img style="margin-right: 5px" alt="" title="" src="https://www.baby-markt.de/out/pictures/wysiwigpro/Römer_Jockey%20Comfort_A017093.jpg" align="left" height="88" width="88" />Wer seinen Schatz auf dem Fahrrad mitnimmt, will sich auf die Sicherheit eines Fahrradsitzes verlassen können. Der BRITAX RÖMER JOCKEY COMFORT ist in unserem Shop sehr beliebt. Mit stabilem Gurtsystem, verstellbarer Kopfstütze und einstellbarer Rückenlehne ist der Sitz individuell anpassbar.</font></p><p align="justify"><font size="2"><strong>Aus unseren Kundenbewertungen:</strong><em>„Ganz toller Sitz, Kind fühlt sich wohl auch dank verstellbarer Lehne und ist gut gefedert.“</em></font></p><p align="justify"><font size="2"><em>„Ein Fahrradsitz, wie er nicht besser sein kann. Sehr gute Verarbeitung. Großzüge Polsterung. Kann der Größe des Kindes gut angepasst werden. Tolle Sitzform, dadurch sitzt das Kind sehr bequem.“</em></font></p><br /><h2>Checkliste: Was Sie beim Kauf von Kindersitzen beachten müssen</h2><p><strong><font size="4"><img style="margin-right: 5px" alt="" title="" src="https://www.baby-markt.de/out/pictures/wysiwigpro/babymarkt-check.jpg" align="left" height="16" width="16" />Beachten Sie die richtige Gewichtsklasse</font></strong></p><p align="justify"><font size="2">Informieren Sie sich in den Produktinformationen über den passenden Kindersitz für das Alter, das Gewicht und die Größe Ihres Kindes. Es gibt viele gute Autositze, die für mehrere Jahre treue Dienste in Ihrem Auto leisten können. So fährt Ihr Kind lange sicher im Auto mit. </font></p><p><strong><font size="4"><strong><font size="4"><img style="margin-right: 5px" alt="" title="" src="https://www.baby-markt.de/out/pictures/wysiwigpro/babymarkt-check.jpg" align="left" height="16" width="16" /></font></strong>Aktuelle Studien: Reboarder sind fünfmal sicherer</font></strong></p><p align="justify"><font size="2">Nach neuesten Erkenntnissen raten Experten das Kind so lange wie möglich rückwärtsgerichtet zu transportieren. Bei einem Unfall im herkömmlichen Kindersitz strapaziert die Stoßkraft die noch wenig entwickelte Hals- und Nackenmuskulatur des Kindes. Ein Kindersitz entgegen der Fahrtrichtung verteilt diese Stoßkraft auf die gesamte Wirbelsäule und dämpft sie so ab.</font></p><p><font size="2"><font size="4"><strong><strong><font size="4"><img style="margin-right: 5px" alt="" title="" src="https://www.baby-markt.de/out/pictures/wysiwigpro/babymarkt-check.jpg" align="left" height="16" width="16" /></font></strong>Einfache Montage und sicherer Halt</strong></font></font></p><font size="2"><p align="justify"><font size="2">Ein Autositz sollte leicht und intuitiv zu montieren sein. So passieren auch nicht so leicht Fehler beim Einbau. Wenn der Autositz in einem anderen Auto genutzt werden soll, fällt der Wechsel leichter. Dennoch muss er natürlich korrekt eingebaut auch sicher und stabil sitzen.</font></p><p><font size="4"><strong><strong><font size="4"><img style="margin-right: 5px" alt="" title="" src="https://www.baby-markt.de/out/pictures/wysiwigpro/babymarkt-check.jpg" align="left" height="16" width="16" /></font></strong>Bequeme Sitzpolster und nützliches Zubehör</strong></font></p><p align="justify"><font size="2">Besonders für Neugeborene oder lange Touren ist ein bequemes Sitzpolster für Ihren Schatz unentbehrlich. Auch Spielzeug für das Auto und ein effektiver Sonnenschutz an der Scheibe machen die Fahrt für die Kleinen angenehmer.</font></p><br /><p align="justify"><em><font size="2">Beim Kauf eines Auto- oder Kindersitzes gilt es, viele verschiedene Faktoren zu beachten. Wir helfen Ihnen bei der Auswahl und sind mit unserem Sicherheitsversprechen auch nach dem Kauf für Sie da. Unser Produktratgeber ergänzt unsere Checkliste und hilft Ihnen bei der Auswahl. Wir wünschen Ihnen tolle Ausflüge und allzeit gute Fahrt mit Ihrem Kind.</font></em></p><p align="justify"><strong><font size="2">Ihr baby-markt.de-Team!</font></strong></p></font></div></div></div></div></div><div class="hidden-xs"><div class="manufacturer-slider-box">
     <div class="row">
         <div class="col-md-12">
             <div id="manufacturer-slider">
@@ -1643,8 +1423,7 @@ Pampers Markenshop</div><div class="boxContent"><a href="/markenshop-pampers/" n
                                     src="https://www.trustedshops.com/bewertung/widget/widgets/XAD375A60F37299826617D4D19E0A8415.gif"
                                     alt="Kundenbewertungen von Baby-Markt.De" class="bewertung"></a></div><div class="spacer15"></div><div id="ekomiCustomerRatingSummary"><div id="eKomiWidget_default"><a id="eKomiWidget_MKWYG7TCVWP4ZEN" target="_blank"
                                href="https://www.ekomi.de/bewertungen-babymarktde-gmbh.html" title=""><img
-                                        src="https://connect.ekomi.de/widget/MKWYG7TCVWP4ZEN-1.gif" alt=""></a></div></div></div></div></div></div><hr class="hidden-xs"><div class="row seo-footer"><div class="col-xs-12 seo-footer-column spacer20"><div class="seo-footer-complete-text"><h1>baby-markt.de – Babyausstattung, Babysachen &amp; Babyartikel online kaufen</h1><div align="justify"><font size="2">Herzlich willkommen bei <strong>baby-markt.de</strong>, Ihrem Onlineshop für Babyartikel, Kindermode und alles, was Kinder sonst noch benötigen. Mit einem Angebot von mehr als 40.000 Produkten der bekanntesten Marken zählen wir zu den führenden Anbietern von Babysachen in Deutschland. Bei uns finden Sie wirklich alles, vom Kindersitz über Laufgitter und Strampler bis zum Hochstuhl. Seit der Gründung bietet unser Onlineshop ein riesiges Produktsortiment für Kinder von 0-6 Jahren. In den Kategorien „<strong>Autositze</strong>“, „<strong>Unterwegs</strong>“, „<strong>Mode</strong>“, „<strong>Sicherheit</strong>“, „<strong>Kinderzimmer</strong>“, „<strong>Spielen und Lernen</strong>“ sowie „<strong>Pflege und Ernährung</strong>“ sind wir die Top-Adresse für alle, die tolle Babysachen zu besten Preisen suchen.</font></div><p><span></span></p><h2>Sicher im Auto unterwegs – Auto- und Kindersitze bei baby-markt.de</h2><div align="justify"><font size="2">Wenn Sie mit Kindern im Auto unterwegs sind, ist ein sicherer Sitz oberste Pflicht. Mit <strong><a href="http://www.baby-markt.de/autositze/" title="">Kindersitzen aller führenden Marken</a></strong> und dem passenden Zubehör bieten wir ein großes Angebot für alle, die mit ihrem Kind sicher mobil sein möchten. Moderne Fixierungssysteme erleichtern es Ihnen, die Babyschale schnell und mit wenigen Handgriffen zu befestigen und wieder zu lösen. Aber auch die klassischen Kindersitze unserer Marken erfüllen alle Sicherheitsanforderungen und schneiden in Tests regelmäßig hervorragend ab. Für ein besonders angenehmes Reisen im Auto bieten wir zudem nützliches Zubehör wie Fußsäcke für Schalensitze, Sonnenschutz sowie Spielzeug gegen die Langeweile. </font></div><p><span></span></p><h2>Gemeinsam die Welt entdecken – Nützliches für unterwegs</h2><div align="justify"><font size="2">Für eine Entdeckungstour mit Ihrem Baby bieten wir Ihnen tolle <strong><a href="http://www.baby-markt.de/unterwegs/" title="">Babysachen für unterwegs</a></strong>. In einer Wickeltasche finden alle wichtigen Babysachen Platz: Windeln, Schnuller, eine Krabbeldecke und Babykleidung wie Strampler zum Wechseln. In die modischen Taschen von Lässig passen neben Babyspielzeug auch noch die wichtigsten Sachen der Eltern. Auch in Puncto Kinderwagen und Tragehilfen finden Eltern hier alles, was sie benötigen, um gemeinsam mit ihrem Baby die Welt zu erkunden. Neben Erstlingswagen, Sportwagen und Buggys führen wir auch praktische Kombiwagen. Mit schicken Designs sprechen unsere Kinderwagen nicht nur Kinder, sondern auch ihre modebegeisterten Eltern an.</font></div><p><span></span></p><h2>Schick mit Schnuller– süße Babykleidung bei baby-markt.de</h2><div align="justify"><font size="2">Wir von baby-markt.de sind Fachmann für <strong><a href="http://www.baby-markt.de/mode/" title="">kindgerechte Mode und Kleidung</a></strong> für Ihren Nachwuchs. Vom Lätzchen über niedliche Babysocken und Strampler für Mädchen bis hin zur Babyausstattung für die ersten Monate nach der Geburt gibt es hier Babysachen für jeden Geschmack. Entdecken Sie die neuesten Babyartikel unserer beliebtesten Marken. Wir führen unter anderem Kindermode von Kanz, name it und Steiff. Auch als Geschenk zur Geburt sind Strampler und andere Babykleidung sehr beliebt. Fragen Sie Ihre Freunde nach der passenden Größe, damit die Babysachen dem Kind auch wirklich passen. Wir führen ein großes Angebot an Babykleidung und Kindermode in den Größen 40 – 164. Zum Schlafen legen Sie Ihr Kind am besten mit dem Strampler in einen Schlafsack. In einem Schlafsack ist es immer gut eingepackt und kann ruhig und sicher schlafen. Bei süßen Motiven und Modellen in jeder Größe ist es nicht schwer, in unserem Shop den richtigen Schlafsack zu finden. </font></div><p><span></span></p><h2>Nützliches für die Kindersicherheit</h2><div align="justify"><font size="2">Eltern möchten Kinder von der Geburt an vor allen Gefahren schützen. Bestellen Sie <strong><a href="http://www.baby-markt.de/sicherheit/" title="">Babyartikel für die Sicherheit</a></strong> Ihrer Kinder. Von zuverlässigen Babyfonen über Herdschutzgitter, Laufgitter, Tür- und Treppenschutzgitter bis hin zu Nachtlichtern bieten wir ausschließlich geprüfte Artikel für die Babysicherheit. So können Ihre Kinder wohlbehütet die Welt entdecken.</font></div><p><span></span></p><h2>Der schönste Ort der Welt – das Kinderzimmer</h2><div align="justify"><font size="2">Wenn Sie einen Kinderbett, eine Wickelkommode, Hochstühe wie der <strong><a href="http://www.baby-markt.de/markenhersteller/stokke/tripp-trapp/" title="">Stokke® Tripp Trapp®</a></strong> oder eine hübsche Krabbeldecke für die ersten Monate mit Ihrem Baby suchen, finden Sie bei uns sicher das Richtige. In unserer Kategorie <strong><a href="http://www.baby-markt.de/kinderzimmer/" title="">Kinderzimmer</a></strong> können sie alle Babysachen bestellen, die Sie zum Einrichten eines kleinen Königreichs benötigen. Kinder freuen sich über ein schönes Kinderzimmer, in dem all ihr Spielzeug Platz findet.</font></div><p><span></span></p><h2>Gesunde Entwicklung durch Spielen und Lernen</h2><div align="justify"><font size="2">Wenn ein Kind spielt, arbeitet sein Gehirn auf Hochtouren – die passenden Babysachen unterstützen es dabei. Beim Bauklötzchen-Stapeln im Kinderzimmer, beim Rollenspiel mit Spielzeug für Mädchen und Jungen oder beim Brettspiel mit einem Erwachsenen werden die Sinne ebenso gefordert wie beim ausgelassenen Toben im Garten oder im Park. In der Kategorie <strong><a href="http://www.baby-markt.de/spielen-lernen/" title="">Spielen und Lernen</a></strong> finden Sie pädagogisch wertvolle Babysachen und hochwertiges Spielzeug.</font></div><p><span></span></p><h2>Die richtige Babypflege und Ernährung</h2><div align="justify"><font size="2">Wenn es um <strong><a href="http://www.baby-markt.de/pflege-ernaehrung/" title="">Pflegeprodukte und Babynahrung</a></strong> geht, wollen Sie für Ihr Kind sicher nur das Beste. Von der Babywanne über den Schnuller bis hin zum Vaporisator führen wir sämtliche Babysachen, die Sie benötigen, um Ihr Kind optimal zu versorgen. Entdecken Sie süße Schnuller, mit denen sich Babys gern beruhigen lassen. In unserem Windelshop gibt es immer tolle Angebote in allen Größen – damit die Babykleidung stets trocken bleibt.
-Service, der von Herzen kommt.</font><br /><font size="2"></font></div><p><span></span></p><h2>baby-markt.de entdecken!</h2><div align="justify"><font size="2">Unser unterhaltsamer <strong><a href="http://www.baby-markt.de/unser-tv-spot-klick-klick-glueck/" title="">TV-Spot</a></strong> veranschaulicht auf humorvolle Weise, dass sich bei <strong>baby-markt.de</strong> alles um die gesunde und glückliche Entwicklung Ihres Kindes dreht. Unser Angebot an weitreichenden Serviceleistungen, wie etwa die regelmäßige Hebammensprechstunde, der Geschenketisch und die umfassende Beratung in unserem <strong><a href="http://www.baby-markt.de/ratgeber/" target="_blank">Ratgeber</a></strong>, verdeutlicht, dass uns die Erfüllung der Ansprüche unserer Kunden am Herzen liegt.</font></div><br /><div align="justify"><font size="2">Wenn Sie einer Familie mit Baby ein schönes Geschenk machen wollen, sind unsere <strong><a href="http://www.baby-markt.de/gutscheine/" title="">Geschenkgutscheine</a></strong> eine tolle Möglichkeit, größere Anschaffungen zu unterstützen. Sie wünschen sich zur Geburt Ihres Babys oder zu einem Geburtstag ganz bestimmte Artikel aus unserem Sortiment? Dann stellen wir Ihnen gern einen Geschenketisch zusammen. Bestimmen Sie, welche Babyartikel und Babyausstattung auf den Geschenketisch kommen – so erhalten Sie von Ihren Freunden und Verwandten auch nur Sachen, die Ihnen auch tatsächlich gefallen.</font></div><br /><div align="justify"><font size="2">Mit unserem <strong><a href="https://www.baby-markt.de/Newsletter/?nlcampaign=strtseotxt" title="">kostenlosen Newsletter</a></strong> erhalten Sie immer die Neusten Informationen über aktuelle Rabatte, tolle Angebote und exklusive Gewinnspiele. Wünschen Sie weiterführende Informationen zu einem unserer Artikel oder zu speziellen Angeboten unserer Marken? Dann steht Ihnen unsere Beratungshotline jederzeit gern zur Verfügung. Lassen Sie sich von unserem Service und unserem umfangreichen Produktsortiment überzeugen!</font></div><br /><br /></div></div></div></div><div class="footer-navi row hidden-xs"><div class="col-sm-12"><ul>
+                                        src="https://connect.ekomi.de/widget/MKWYG7TCVWP4ZEN-1.gif" alt=""></a></div></div></div></div></div></div><hr class="hidden-xs"></div><div class="footer-navi row hidden-xs"><div class="col-sm-12"><ul>
     <li><a href="/">Startseite</a></li>
 
             <li><a href="/Kontakt/">Kontakt</a></li>
@@ -1678,10 +1457,10 @@ Service, der von Herzen kommt.</font><br /><font size="2"></font></div><p><span>
         var callback = function () {
             var emospro = {};
 
-emospro.content = "Start";
+emospro.content = "Shop/Autositze";
 emospro.siteid = 1;
 emospro.langid = 0;
-emospro.pageId = "b50dcb21e5773e663e88e9dec2f79e6b";
+emospro.pageId = "b27abe48cf20a0d3c829d84be2878a04";
 
             if (typeof window.emosPropertiesEvent == 'function') {
                 window.emosPropertiesEvent(emospro);
@@ -1701,7 +1480,9 @@ emospro.pageId = "b50dcb21e5773e663e88e9dec2f79e6b";
     }
 //]]></script><script type="text/javascript">
 var google_tag_params = {
-pagetype: 'home',
+ecomm_category: 'Autositze',
+ecomm_subcategory: '',
+pagetype: 'category',
 value: '',
 g: '',
 hasaccount: 'n'
@@ -1725,7 +1506,10 @@ _gaq.push(['_setCustomVar',
 </script><script type="text/javascript">
     var tnm = tnm || {};
     tnm.page = tnm.page || {};
-    tnm.page.type = "home";
+    tnm.page.type = "category";tnm.category = tnm.category || {};
+tnm.category.id = "{ tnm_category_id|e('html') }}";
+tnm.category.title = "Autositze";
+
     function downloadTnmJSAtOnload() {
         var element = document.createElement("script");
         element.src = "//track.trdrs.de/bbm/trdrs_logic.js";

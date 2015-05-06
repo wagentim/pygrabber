@@ -2,47 +2,88 @@
 
 import m_nethelper as nh
 import m_utils as ut
-import m_filehelper as fh
 from bs4 import BeautifulSoup as bs
-import m_utils
+import product
 
 
 class BabyMarket:
     
     IDENTITY = "Baby Market: "
     DOMAIN = "http://www.baby-markt.de/"
-    ADV = "slide-content"
-    shouldReload = False
-    ignore_text = ["Merkzettel", "Geschenketisch", "Kontakt", "Mein Konto", "Newsletter", "Geschenkgutscheine", "Filialen", "Kategorien",
-                   "�ber uns", "Datenschutz", "Widerrufsrecht", "AGB/Verbraucherinformationen", "Zahlung und Versand", "Impressum", "Karriere",
-                   "Filialen", "Kontakt", "Newsletter", "Partnerprogramme", "jetzt sammeln", "Startseite", "Kontakt", "AGB/Verbraucherinformationen",
-                   "Datenschutz", "Batterie-R�cknahme", "schlie�en"]
+    only_main_angebot = False
+    parser_level = 1
+    products = []
+    main_category_links = []
+    sub_category_links = []
     
-    loc_list = []
+    def set_only_main_angobot(self, value):
+        self.only_main_angebot = value
     
-    #def __init__(self):
+    def is_only_main_angebot(self):
+        return self.only_main_angebot
+    
+    def process(self):
+        if self.is_only_main_angebot():
+            self.do_grab_main_angebot()
+        else:
+            self.do_grab_all_products()
+            
+    def do_grab_all_products(self):
+        #self.content = nh.get_page(self.DOMAIN)
+        #if self.content and len(self.content) > 0:
+            #fh.write_to_temp(self.content)
+        self.parser_links()
+        print("--- parser links finished")
+        print("--- Main Categories: " + str(len(self.main_category_links)))
+        print("--- Main Categories: " + str(len(self.sub_category_links)))
         
-        #self.content = nh.get_page("http://www.baby-markt.de/autositze/")
-        #fh.write_to_temp(self.content)
-        #if ut.not_empty(self.content):
-        #    self.content = fh.read_from_temp()
-        #    self.soup = bs(self.content)
-        #else:
-        #    print(self.IDENTITY + "cannot get main page content")
-        #    return
+        if self.sub_category_links and len(self.sub_category_links) > 0:
+            for link in self.sub_category_links:
+                self.parser_prods(link)
+        else:
+            print("--- Cannot parser site: " + self.DOMAIN)
+        return
+            
+    def do_grab_main_angebot(self):
+        return
     
-    def get_prods(self, url):
-        self.content = nh.get_page(url)
-        fh.write_to_temp(self.content)
-        inhalt = fh.read_from_temp()
+    def get_domain(self):
+        return self.DOMAIN
+    
+    def parser_prods(self, url):
+        print("--- parser products in the link: " + url)
+        inhalt = nh.get_page(url)
         soup = bs(inhalt)
-        prods = soup.findAll("div", {"class" : "list-product"})
-        
+        # get product
+        prods = soup.select(".list-product")
         if prods and len(prods) > 0:
             for prod in prods:
-                loc = prod.div.div.get("href")
-                print(loc)
+                prodt = product.new_prod()
+ 
+                #set liink
+                image_block = prod.select(".image")
+                prodt.set_link(self.DOMAIN[0:len(self.DOMAIN) - 1] + image_block[0].a.get("href"))
                 
+                #set name
+                prodt.set_name(prod.select(".title")[0].text)
+                
+                #set current price
+                prodt.set_curr_price(prod.select(".price")[0].text)
+                
+                #set original price
+                del_tag = prod.select("del")
+                if del_tag and len(del_tag) > 0:
+                    prodt.set_ori_price(del_tag[0].text)
+                else:
+                    prodt.set_ori_price(prodt.get_curr_price())
+                #set description
+                #set image link
+                prodt.set_image_link("http:" + prod.select("img")[0].get("src"))
+                self.products.append(prodt)
+                
+                print("Product: " + prodt.get_name() + "\nOriginal Price: " + prodt.get_curr_price() + "\nOriginal Price: " + prodt.get_ori_price() + "\nLink: " + prodt.get_link() + "\nImage Link: " + prodt.get_image_link())
+                print("------------------------------")
+
     
     def get_main_content(self):   
         
@@ -69,36 +110,37 @@ class BabyMarket:
                             print(cached_text + "\n" +loc + "\n")
             return locs
                     
-    def get_all_prods(self):
+    def parser_links(self):
         
-        self.loc_list.append(self.DOMAIN)
-        page_level = 0;
+        print("--- parser links start...")
         
-        while len(self.loc_list) > 0 and page_level < 1:
-            
-            curr_loc = self.loc_list.pop()
-            
-            if ut.not_empty(curr_loc):
-                curr_content = nh.get_page(curr_loc)
+        curr_content = nh.get_page(self.DOMAIN)
+        if ut.not_empty(curr_content):
+            soup = bs(curr_content)
+            categories = soup.select(".dropdown-menu-subcategories")
+            if categories and len(categories) > 0:
                 
-                if ut.not_empty(curr_loc):
+                for cate in categories:
                     
-                    if page_level == 0:
-                        items = bs(curr_content).findAll("a")
+                    active_link = cate.select(".active-main-category")[0].a.get("href")
                     
-                    for item in items:
-                            link = item.get("href")
-                            if link and "http" not in link and "https" not in link and link != "#" and link != "/":
-                                n_link = self.DOMAIN[0:len(self.DOMAIN)-1] + link
-                                if n_link not in self.loc_list:
-                                    self.loc_list.append(n_link)
+                    if active_link and len(active_link) > 0:
+                        
+                        self.main_category_links.append(self.DOMAIN[0:len(self.DOMAIN)-1] + active_link)
+                    
+                        sub_cate_links = cate.findAll("a")
+                        
+                        if sub_cate_links and len(sub_cate_links) > 0:
+                            
+                            for sub_link in sub_cate_links:
+                                l = sub_link.get("href")
+                                
+                                if "#" not in l and "http" not in l and "https" not in l and active_link != l:
+                                    self.sub_category_links.append(self.DOMAIN[0:len(self.DOMAIN)-1] + l)
                                     
-            page_level += 1
-                    
-        for loc in self.loc_list:
-            print(loc)   
-         
-        
-        
-                    
 
+    def get_main_category_links(self):
+        return self.main_category_links
+    
+    def get_all_parser_page_links(self):
+        return self.sub_category_links
