@@ -31,6 +31,7 @@ class BabyMarket:
             self.do_grab_all_products()
             
     def do_grab_all_products(self):
+        self.products[:] = []
         self.parser_links()
         print("--- parser links finished")
         print("--- Main Categories: " + str(len(self.main_category_links)))
@@ -89,9 +90,7 @@ class BabyMarket:
                         print("------------------------------")
     
     def do_grab_main_angebot(self):   
-        while len(self.products) > 0:
-            self.products.pop()
-            
+        self.products[:] = []
         self.parser_links()
         print("--- parser content start...")
         #get angebot in main page
@@ -121,7 +120,7 @@ class BabyMarket:
                     tmp.append(u_loc)
             if len(tmp) > 0:
                 for page in tmp:
-                    self.parser_prods(page)   
+                    self.parser_prods(page)
            
         
     def parser_links(self):
@@ -158,3 +157,6 @@ class BabyMarket:
     
     def get_all_parser_page_links(self):
         return self.sub_category_links
+    
+    def get_parsered_products(self):
+        return self.products

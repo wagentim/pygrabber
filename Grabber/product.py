@@ -8,7 +8,7 @@ class Product:
     
     def __init__(self, name="", desc="", link="", image_link="", ori_price=0.0, curr_price=0.0):
         self.name = name
-        self.desc = desc
+        self.desc = "empty"
         self.link = link
         self.image_link = image_link
         self.ori_price = ori_price
