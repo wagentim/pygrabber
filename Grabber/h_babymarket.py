@@ -76,10 +76,17 @@ class BabyMarket:
                 #set image link
                 prodt.set_image_link("http:" + prod.select("img")[0].get("src"))
                 self.products.append(prodt)
-                
-                print("Product: " + prodt.get_name() + "\nOriginal Price: " + prodt.get_curr_price() + "\nOriginal Price: " + prodt.get_ori_price() + "\nLink: " + prodt.get_link() + "\nImage Link: " + prodt.get_image_link())
-                print("------------------------------")
-
+                self.print_prods()
+    
+    def print_prods(self):
+        if len(self.products) > 0:
+            for prodt in self.products:
+                if prodt.get_curr_price() != prodt.get_ori_price():
+                    percent = ut.get_price_percent(prodt)
+                    if percent < 45:
+                        print("Product: " + prodt.get_name() + "\nCurrent Price: " + prodt.get_curr_price() + "\nOriginal Price: " + prodt.get_ori_price() + "\nLink: " + prodt.get_link() + "\nImage Link: " + prodt.get_image_link())
+                        print("Percent: " + str(percent))
+                        print("------------------------------")
     
     def do_grab_main_angebot(self):   
         while len(self.products) > 0:
@@ -119,9 +126,9 @@ class BabyMarket:
         
     def parser_links(self):
         print("--- parser links start...")
-        #curr_content = nh.get_page(self.DOMAIN)
+        curr_content = nh.get_page(self.DOMAIN)
         #fh.write_to_temp(curr_content)
-        curr_content = fh.read_from_temp()
+        #curr_content = fh.read_from_temp()
         if ut.not_empty(curr_content):
             self.soup = bs(curr_content)
             categories = self.soup.select(".dropdown-menu-subcategories")

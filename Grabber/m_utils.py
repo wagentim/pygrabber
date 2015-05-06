@@ -1,6 +1,7 @@
 #-*-coding:utf-8-*-
 
 import platform
+import math
 
 file_sep = "/"
 linux_tmp = "/home/wagentim/temp/"
@@ -44,3 +45,20 @@ def trim_text(text):
     
 def get_file_name_from_url(url):
     return url.split('/')[-1]
+
+def extract_digital(string_text):
+    if string_text:
+        for s in string_text.split():
+            s = s.replace(",", ".")
+            try:
+                value = float(s)
+                return value
+            except ValueError:
+                continue
+                
+
+def get_price_percent(product):
+    if product:
+        orig = extract_digital(product.get_ori_price())
+        curr = extract_digital(product.get_curr_price())
+    return int(curr/orig * 100)
