@@ -1,15 +1,18 @@
 status: 200
-content-length: 202221
+content-length: 202373
 content-type: text/html; charset=UTF-8
-set-cookie: epoqSessionId=1_554a982c8ce388.23184814;
- expires=Thu, 07-May-2015 23:39:40 GMT; path=/; httponly
+set-cookie: epoqSessionId=1_554b43b1e97110.14240301;
+ expires=Fri, 08-May-2015 11:51:30 GMT; path=/; httponly, epoqUserId=deleted;
+ expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; httponly, rateReview=deleted;
+ expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; httponly
+accept-ranges: none
 surrogate-control: content=SSI/1.0
 keep-alive: timeout=5
 server: nginx
 connection: keep-alive
 -content-encoding: gzip
 cache-control: no-cache
-date: Wed, 06 May 2015 22:39:40 GMT
+date: Thu, 07 May 2015 10:51:30 GMT
 x-upstream: 127.0.0.1:9000, 10.0.75.42:80, 10.0.75.36:80
 content-location: http://www.baby-markt.de/
 
@@ -692,7 +695,7 @@ content-location: http://www.baby-markt.de/
     <div class="slider-inner">
                     <div class="item">
                                     <div class="countdown-container">
-                        <span class="countdown-timer" data-until="1430953200"
+                        <span class="countdown-timer" data-until="1431039600"
                               data-locale="de"></span>
                         <span class="claim hidden-xs"><strong>Tagesangebot!</strong>&nbsp;<b>nur noch:</b></span>
                                             </div>
@@ -711,18 +714,18 @@ content-location: http://www.baby-markt.de/
                         
                                         
 
-            <a href="/unterwegs/kinderwagenzubehoer/quinny-buggy-board-a083527.html">
+            <a href="/kinderzimmer/betten/tobi-babybay-original-beistellbett-buche-massiv-weiss-lackiert-a021554.html">
                 <div class="inner row">
                     <div class="col-xs-6 wrapper">
                         <img class="image img-responsive lazy product-image"
                              src="/bundles/babymarktbabymarkttheme/images/loader.gif?20150429160749"
-                             data-original="//www.baby-markt.de/out/pictures/generated/product/1/200_200_80/n_a083527_001.jpg?20150429160749">
+                             data-original="//www.baby-markt.de/out/pictures/generated/product/1/200_200_80/n_a021554_0001.jpg?20150429160749">
                     </div>
                     <div class="col-xs-6 wrapper">
-                                                    <img class="brand-image" src="//www.baby-markt.de/out/pictures/generated/manufacturer/icon/150_75_80/logo_quinny.jpg?20150429160749"/>
-                                                <div class="title">QUINNY Buggy Bo...</div>
-                        <div class="price">59,99 €</div>
-                        <div class="old-price">statt 83,99 €</div>
+                                                    <img class="brand-image" src="//www.baby-markt.de/out/pictures/generated/manufacturer/icon/150_75_80/Logo_Babybay.jpg?20150429160749"/>
+                                                <div class="title">TOBI Babybay Or...</div>
+                        <div class="price">119,00 €</div>
+                        <div class="old-price">statt 175,00 €</div>
                     </div>
                 </div>
             </a>
@@ -731,18 +734,18 @@ content-location: http://www.baby-markt.de/
                         
                                         
 
-            <a href="/kinderzimmer/babywippen-und-walker/babybjoern-babywippe-babysitter-balance-soft-schwarz-dunkelgrau-a067324.html">
+            <a href="/unterwegs/kinderwagenzubehoer/buggy-board-maxi-schwarz-2730-a020537.html">
                 <div class="inner row">
                     <div class="col-xs-6 wrapper">
                         <img class="image img-responsive lazy product-image"
                              src="/bundles/babymarktbabymarkttheme/images/loader.gif?20150429160749"
-                             data-original="//www.baby-markt.de/out/pictures/generated/product/1/200_200_80/n_a067324_001.jpg?20150429160749">
+                             data-original="//www.baby-markt.de/out/pictures/generated/product/1/200_200_80/a020537_001.jpg?20150429160749">
                     </div>
                     <div class="col-xs-6 wrapper">
-                                                    <img class="brand-image" src="//www.baby-markt.de/out/pictures/generated/manufacturer/icon/150_75_80/Logo_BabyBjoern.jpg?20150429160749"/>
-                                                <div class="title">BABYBJÖRN Babyw...</div>
-                        <div class="price">94,99 €</div>
-                        <div class="old-price">statt 149,90 €</div>
+                                                    <img class="brand-image" src="//www.baby-markt.de/out/pictures/generated/manufacturer/icon/150_75_80/Logo_Lascal.jpg?20150429160749"/>
+                                                <div class="title">BUGGY BOARD MAX...</div>
+                        <div class="price">49,99 €</div>
+                        <div class="old-price">statt 84,95 €</div>
                     </div>
                 </div>
             </a>
@@ -751,18 +754,18 @@ content-location: http://www.baby-markt.de/
                         
                                         
 
-            <a href="/markenshop-jane/travelsets/jane-sportwagen-muum-inkl-babyschale-koos-und-tragewanne-micro-granit-a090432.html">
+            <a href="/autositze/fahrradsitze/roemer-fahrradsitz-jockey-comfort-lisa-a017094.html">
                 <div class="inner row">
                     <div class="col-xs-6 wrapper">
                         <img class="image img-responsive lazy product-image"
                              src="/bundles/babymarktbabymarkttheme/images/loader.gif?20150429160749"
-                             data-original="//www.baby-markt.de/out/pictures/generated/product/1/200_200_80/n_a090432_001.jpg?20150429160749">
+                             data-original="//www.baby-markt.de/out/pictures/generated/product/1/200_200_80/a017094_001.jpg?20150429160749">
                     </div>
                     <div class="col-xs-6 wrapper">
-                                                    <img class="brand-image" src="//www.baby-markt.de/out/pictures/generated/manufacturer/icon/150_75_80/logo_jane.jpg?20150429160749"/>
-                                                <div class="title">JANE Sportwagen...</div>
-                        <div class="price">399,99 €</div>
-                        <div class="old-price">statt 639,00 €</div>
+                                                    <img class="brand-image" src="//www.baby-markt.de/out/pictures/generated/manufacturer/icon/150_75_80/logo_britax_bob(1).jpg?20150429160749"/>
+                                                <div class="title">RÖMER Fahrradsi...</div>
+                        <div class="price">79,99 €</div>
+                        <div class="old-price">statt 120,00 €</div>
                     </div>
                 </div>
             </a>
@@ -771,18 +774,18 @@ content-location: http://www.baby-markt.de/
                         
                                         
 
-            <a href="/pflege-ernaehrung/wickeln/wickelauflagen/sterntaler-wickelauflagen-ueberzug-zebra-zimba-grau-a076121.html">
+            <a href="/markenhersteller/icepeak/jacken/icepeak-girls-softshell-jacke-rina-a123892.html">
                 <div class="inner row">
                     <div class="col-xs-6 wrapper">
                         <img class="image img-responsive lazy product-image"
                              src="/bundles/babymarktbabymarkttheme/images/loader.gif?20150429160749"
-                             data-original="//www.baby-markt.de/out/pictures/generated/product/1/200_200_80/n_a076121_001.jpg?20150429160749">
+                             data-original="//www.baby-markt.de/out/pictures/generated/product/1/200_200_80/n_a123892_001.jpg?20150429160749">
                     </div>
                     <div class="col-xs-6 wrapper">
-                                                    <img class="brand-image" src="//www.baby-markt.de/out/pictures/generated/manufacturer/icon/150_75_80/logo_sterntaler.jpg?20150429160749"/>
-                                                <div class="title">STERNTALER Wick...</div>
-                        <div class="price">10,00 €</div>
-                        <div class="old-price">statt 24,99 €</div>
+                                                    <img class="brand-image" src="//www.baby-markt.de/out/pictures/generated/manufacturer/icon/150_75_80/icepeak-logo.jpg?20150429160749"/>
+                                                <div class="title">ICEPEAK Girls S...</div>
+                        <div class="price">30,00 €</div>
+                        <div class="old-price">statt 44,95 €</div>
                     </div>
                 </div>
             </a>
@@ -1144,7 +1147,9 @@ Pampers Markenshop</div><div class="boxContent"><a href="/markenshop-pampers/" n
                              src="/bundles/babymarktbabymarkttheme/images/loader.gif?20150429160749"
                              data-original="//www.baby-markt.de/out/pictures/generated/product/1/200_200_80/n_a131370_001.jpg?20150429160749"></a><div class="saving-sticker sprite-saving-sticker">
         -33%
-    </div></div><div class="col-xs-8 col-sm-12 infos"><div class="row rating"><div class="col-md-12 columns"></div></div><div class="row title"><div class="col-md-12 columns"><div><a href="/markenhersteller/angelcare/babyphone/angelcare-ac423-d-babyphone-plus-gratis-windeleimer-comfort-mit-einer-nachfuellkassette-a131370.html" data-product-id="A131370">ANGELCARE AC423-D Babyphone plus GRATIS Windeleimer Comfort mit einer Nachfüllkassette</a></div></div></div><div class="row stock"><div class="col-md-12 columns"><span class="product-stock-bullet bullet-green">Sofort lieferbar</span></div></div><div class="row"><div class="col-md-12 columns"><a href="/markenhersteller/angelcare/babyphone/angelcare-ac423-d-babyphone-plus-gratis-windeleimer-comfort-mit-einer-nachfuellkassette-a131370.html" class="price" data-product-id="A131370">79,99 €</a></div><div class="col-md-12 columns savings">
+    </div></div><div class="col-xs-8 col-sm-12 infos"><div class="row rating"><div class="col-md-12 columns"><div class="stars"><em class="rated">&#x2605;</em><em class="rated">&#x2605;</em><em class="rated">&#x2605;</em><em class="rated">&#x2605;</em><em class="rated">&#x2605;</em><span>
+            (1)
+        </span></div></div></div><div class="row title"><div class="col-md-12 columns"><div><a href="/markenhersteller/angelcare/babyphone/angelcare-ac423-d-babyphone-plus-gratis-windeleimer-comfort-mit-einer-nachfuellkassette-a131370.html" data-product-id="A131370">ANGELCARE AC423-D Babyphone plus GRATIS Windeleimer Comfort mit einer Nachfüllkassette</a></div></div></div><div class="row stock"><div class="col-md-12 columns"><span class="product-stock-bullet bullet-green">Sofort lieferbar</span></div></div><div class="row"><div class="col-md-12 columns"><a href="/markenhersteller/angelcare/babyphone/angelcare-ac423-d-babyphone-plus-gratis-windeleimer-comfort-mit-einer-nachfuellkassette-a131370.html" class="price" data-product-id="A131370">79,99 €</a></div><div class="col-md-12 columns savings">
 
                             (Alter Preis)                            &nbsp;bisher
                             &nbsp;<del>118,78 €</del><br>
@@ -1171,7 +1176,7 @@ Pampers Markenshop</div><div class="boxContent"><a href="/markenshop-pampers/" n
                              data-original="//www.baby-markt.de/out/pictures/generated/product/1/200_200_80/n_a032877_001.jpg?20150429160749"></a><div class="saving-sticker sprite-saving-sticker">
         -55%
     </div></div><div class="col-xs-8 col-sm-12 infos"><div class="row rating"><div class="col-md-12 columns"><div class="stars"><em class="rated">&#x2605;</em><em class="rated">&#x2605;</em><em class="rated">&#x2605;</em><em class="rated">&#x2605;</em><em class="rated">&#x2605;</em><span>
-            (257)
+            (258)
         </span></div></div></div><div class="row title"><div class="col-md-12 columns"><div><a href="/pflege-ernaehrung/wickeln/windeleimer/angelcare-windeleimer-comfort-inkl-1-kassette-a032877.html" data-product-id="A032877">ANGELCARE Windeleimer Comfort inkl. 1 Kassette</a></div></div></div><div class="row stock"><div class="col-md-12 columns"><span class="product-stock-bullet bullet-green">Sofort lieferbar</span></div></div><div class="row"><div class="col-md-12 columns"><a href="/pflege-ernaehrung/wickeln/windeleimer/angelcare-windeleimer-comfort-inkl-1-kassette-a032877.html" class="price" data-product-id="A032877">8,99 €</a></div><div class="col-md-12 columns savings">
 
                             UVP<span style="color: black; font-weight: bold;">¹</span>                            &nbsp;bisher

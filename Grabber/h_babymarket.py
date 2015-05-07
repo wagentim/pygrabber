@@ -31,11 +31,13 @@ class BabyMarket:
             self.do_grab_all_products()
             
     def do_grab_all_products(self):
+        
+        print("--- process all products...")
+
         self.products[:] = []
         self.parser_links()
-        print("--- parser links finished")
-        print("--- Main Categories: " + str(len(self.main_category_links)))
-        print("--- Main Categories: " + str(len(self.sub_category_links)))
+        
+        print("--- parser content...")
         
         if self.sub_category_links and len(self.sub_category_links) > 0:
             for link in self.sub_category_links:
@@ -84,15 +86,16 @@ class BabyMarket:
             for prodt in self.products:
                 if prodt.get_curr_price() != prodt.get_ori_price():
                     percent = ut.get_price_percent(prodt)
-                    if percent < 45:
-                        print("Product: " + prodt.get_name() + "\nCurrent Price: " + prodt.get_curr_price() + "\nOriginal Price: " + prodt.get_ori_price() + "\nLink: " + prodt.get_link() + "\nImage Link: " + prodt.get_image_link())
-                        print("Percent: " + str(percent))
-                        print("------------------------------")
+                    #if percent < 45:
+                    print("Product: " + prodt.get_name() + "\nCurrent Price: " + prodt.get_curr_price() + "\nOriginal Price: " + prodt.get_ori_price() + "\nLink: " + prodt.get_link() + "\nImage Link: " + prodt.get_image_link())
+                    print("Percent: " + str(percent))
+                    print("------------------------------")
     
     def do_grab_main_angebot(self):   
+        print("--- process main angebots...")
         self.products[:] = []
         self.parser_links()
-        print("--- parser content start...")
+        print("--- parser content...")
         #get angebot in main page
         slide_content = self.soup.select(".slide-content")
         if slide_content and len(slide_content) > 0:
@@ -112,7 +115,7 @@ class BabyMarket:
                     prod.set_name(tit[0].text)
                     prod.set_curr_price(li.select(".price")[0].text)
                     prod.set_ori_price(li.select(".old-price")[0].text)
-                    prod.set_link(li.get("href"))
+                    prod.set_link(self.DOMAIN[0:len(self.DOMAIN)-1] + li.get("href"))
                     prod.set_image_link("http" + li.select(".image")[0].get("data-original"))
                     self.products.append(prod)
                 else:
@@ -121,7 +124,7 @@ class BabyMarket:
             if len(tmp) > 0:
                 for page in tmp:
                     self.parser_prods(page)
-           
+        self.print_prods()   
         
     def parser_links(self):
         print("--- parser links start...")
